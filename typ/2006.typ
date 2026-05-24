@@ -36,7 +36,7 @@ Charlie and I measure Berkshire’s progress and evaluate its intrinsic value in
 
 There are two statistics, however, that are of real importance. The first is the amount of investments (including cash and cash-equivalents) that we own on a per-share basis. Arriving at this figure, we exclude investments held in our finance operation because these are largely offset by borrowings. Here’s the record since present management acquired control of Berkshire:
 
-== Year                                                            Per-Share Investments\*
+Year Per-Share Investments\*
 
 In our early years we put most of our retained earnings and insurance float into investments in marketable securities. Because of this emphasis, and because the securities we purchased generally did well, our growth rate in investments was for a long time quite high.
 
@@ -200,7 +200,7 @@ Other assets.............................................      1,168     Equity 
 
 \$34,372 \$34,372
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 2006 2005 2004 Revenues ................................................................................. \$52,660 \$46,896 \$44,142 Operating expenses (including depreciation of \$823 in 2006,
 
@@ -584,4 +584,4 @@ Charlie and I are extraordinarily lucky. We were born in America; had terrific p
 
 February 28, 2007 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

@@ -180,7 +180,7 @@ An additional benefit for Berkshire is the possibility that our investment may l
 
 Our Japanese purchases began on July 4, 2019. Given Berkshire’s present size, building positions through open-market purchases takes a lot of patience and an extended period of “friendly” prices. The process is like turning a battleship. That is an important disadvantage which we did not face in our early days at Berkshire.
 
-The Scorecard in 2023
+== The Scorecard in 2023
 
 Every quarter we issue a press release that reports our summarized operating earnings (or loss) in a manner similar to what is shown below. Here is the full-year compilation:
 
@@ -289,4 +289,4 @@ To top things off, we will have available the new 4th edition of Poor Charlie’
 
 February 24, 2024 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

@@ -291,7 +291,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . .       3,416            Be
 
 \$71,433 \$71,433
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -612,4 +612,4 @@ This home office crew, along with our operating managers, has my deepest thanks 
 
 March 1, 2013 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

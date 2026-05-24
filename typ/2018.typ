@@ -160,7 +160,7 @@ One reason we were attracted to the P/C business was the industry’s business m
 
 This collect-now, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And how it has grown, as the following table shows:
 
-== Year                                                      Float (in millions)\*
+Year Float (in millions)\*
 
 #tablebox[
 ```
@@ -326,4 +326,4 @@ With the whole ensemble – that is, with Ajit and Greg running operations, a gr
 
 February 23, 2019 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

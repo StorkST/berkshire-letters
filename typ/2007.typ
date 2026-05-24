@@ -295,7 +295,7 @@ Other assets.............................................        1,685          
 
 \$38,322 \$38,322
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 2007 2006 2005 Revenues .................................................................................... \$59,100 \$52,660 \$46,896 Operating expenses (including depreciation of \$955 in 2007,
 
@@ -562,4 +562,4 @@ At 84 and 77, Charlie and I remain lucky beyond our dreams. We were born in Amer
 
 February 2008 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

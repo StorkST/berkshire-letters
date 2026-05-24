@@ -101,7 +101,7 @@ Here’s a breakdown of the 2023-24 earnings as we see them. All calculations ar
 
 #footnoteblock[\* Includes certain businesses in which Berkshire had between a 20% and 50% ownership such as Kraft Heinz, Occidental Petroleum and Berkadia. \*\* Includes foreign currency exchange gains of approximately \$1.1 billion in 2024 and approximately \$211 million in 2023 produced by our usage of non-U.S. dollar-denominated debt.]
 
-== Surprise, Surprise! An Important American Record is Smashed
+Surprise, Surprise! An Important American Record is Smashed
 
 Sixty years ago, present management took control of Berkshire. That move was a mistake – my mistake – and one that plagued us for two decades. Charlie, I should emphasize, spotted my obvious error immediately: Though the price I paid for Berkshire looked cheap, its business – a large northern textile operation – was headed for extinction.
 
@@ -267,4 +267,4 @@ The Berkshire directors and I immensely enjoy having you come to Omaha, and I pr
 
 February 22, 2025 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

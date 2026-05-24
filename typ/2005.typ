@@ -22,11 +22,11 @@ Before we look at our individual businesses, however, let’s review two sets of
 
 \*All figures used in this report apply to Berkshire’s A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
 
-== Year                                                            Per-Share Investments\*
+Year Per-Share Investments\*
 
 In addition to these marketable securities, which with minor exceptions are held in our insurance companies, we own a wide variety of non-insurance businesses. Below, we show the pre-tax earnings (excluding goodwill amortization) of these businesses, again on a per-share basis:
 
-== Year                                                              Per-Share Earnings\*
+Year Per-Share Earnings\*
 
 When growth rates are under discussion, it will pay you to be suspicious as to why the beginning and terminal years have been selected. If either year was aberrational, any calculation of growth will be distorted. In particular, a base year in which earnings were poor can produce a breathtaking, but meaningless, growth rate. In the table above, however, the base year of 1965 was abnormally good; Berkshire earned more money in that year than it did in all but one of the previous ten.
 
@@ -232,7 +232,7 @@ Total ..............................................................   $ 588    
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/05 (in \$ millions)
+Balance Sheet 12/31/05 (in \$ millions)
 
 #tablebox[
 ```
@@ -255,7 +255,7 @@ Other assets.............................................             1,021     
 
 \$26,205 \$26,205
 
-== Earnings Statement (in \$ millions)
+Earnings Statement (in \$ millions)
 
 2005 2004 2003 Revenues .................................................................................... \$46,896 \$44,142 \$32,106 Operating expenses (including depreciation of \$699 in 2005,
 
@@ -522,4 +522,4 @@ Charlie and I are extraordinarily lucky. We were born in America; had terrific p
 
 February 28, 2006 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

@@ -217,7 +217,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . .           2,070    
 
 \$48,799 \$48,799
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -470,6 +470,6 @@ Nothing, however, is more fun for us than getting together with our shareholder-
 
 February 26, 2010 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board
 
 P.S. Come by rail.

@@ -231,7 +231,7 @@ Total ...............................................................   $2,334  
 
 Our activities in this category cover the waterfront. But let’s look at a summary balance sheet and earnings statement consolidating the entire group.
 
-== Balance Sheet 12/31/04 (in \$ millions)
+Balance Sheet 12/31/04 (in \$ millions)
 
 #tablebox[
 ```
@@ -254,7 +254,7 @@ Other assets................................................              1,044 
 
 \$23,636 \$23,636
 
-== Earnings Statement (in \$ millions)
+Earnings Statement (in \$ millions)
 
 2004 2003 Revenues ................................................................................................................. \$44,142 \$32,106 Operating expenses (including depreciation of \$676 in 2004
 
@@ -385,7 +385,7 @@ We’ve repeatedly emphasized that the “realized” gains that we report quart
 
 Despite the problems enumerated, you may be interested in a breakdown of the gains we reported in 2003 and 2004. The data reflect actual sales except in the case of currency gains, which are a combination of sales and marks to market.
 
-== Category                                   Pre-Tax Gain (in \$ millions)
+Category Pre-Tax Gain (in \$ millions)
 
 #tablebox[
 ```
@@ -571,4 +571,4 @@ Charlie and I are lucky. We have jobs that we love and are helped every day in a
 
 February 28, 2005 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

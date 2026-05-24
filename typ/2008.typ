@@ -38,7 +38,7 @@ advantages;
 
 have delivered Berkshire exceptional results.
 
-Berkshire in 2008
+== Berkshire in 2008
 
 Most of the Berkshire businesses whose results are significantly affected by the economy earned below their potential last year, and that will be true in 2009 as well. Our retailers were hit particularly hard, as were our operations tied to residential construction. In aggregate, however, our manufacturing, service and retail businesses earned substantial sums and most of them – particularly the larger ones – continue to strengthen their competitive positions. Moreover, we are fortunate that Berkshire’s two most important businesses – our insurance and utility groups – produce earnings that are not correlated to those of the general economy. Both businesses delivered outstanding results in 2008 and have excellent prospects.
 
@@ -201,7 +201,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . .       1,248        
 
 \$49,897 \$49,897
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -510,4 +510,4 @@ So join us at our Woodstock for Capitalists and let us know how you like the new
 
 February 27, 2009 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

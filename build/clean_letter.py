@@ -96,8 +96,73 @@ def leading_ws(line: str) -> int:
     return len(line) - len(line.lstrip(" "))
 
 
+# Map a few private-use glyphs that pdftotext emits for Berkshire's custom
+# em-dash and bullet to their standard Unicode equivalents.
+PUA_REPLACEMENTS = {
+    "": "—",   # em-dash variant used in 2000-era letters
+    "": "•",   # alternate bullet
+}
+
+
+HEADING_CANDIDATE_RE = re.compile(
+    r"^[A-Z“”\"']"          # starts with cap or opening quote
+    r"[A-Za-z0-9\s,'’“”\"\-–—/&():.]{0,80}$"
+)
+
+
+SIGNATURE_DATE_RE = re.compile(
+    r"^(?:January|February|March|April|May|June|July|August|September|"
+    r"October|November|December)\s+\d{1,2}",
+    re.I,
+)
+SIGNATURE_TITLE_RE = re.compile(
+    r"^(?:Chairman|President|Vice\s+Chairman|Chief\s+Executive)\b", re.I
+)
+
+
+def looks_like_heading_line(line: str) -> bool:
+    """Heuristic for a flush-left line that should be promoted to a heading."""
+    stripped = line.strip()
+    if not (5 <= len(stripped) <= 80):
+        return False
+    if stripped.endswith(('.', ',', ';', '?', '!')):
+        return False
+    if stripped.endswith(':'):
+        return False
+    if "$" in stripped or "%" in stripped:
+        return False
+    # Reject lines that look like inline financial data.
+    if re.search(r"\d{1,3}(?:,\d{3})+", stripped):
+        return False
+    if re.search(r"\(\s*\d", stripped):
+        return False
+    # Reject signature blocks (date+name or job title at letter close).
+    if SIGNATURE_DATE_RE.match(stripped):
+        return False
+    if SIGNATURE_TITLE_RE.match(stripped):
+        return False
+    if not HEADING_CANDIDATE_RE.match(stripped):
+        return False
+    # Most non-stopword tokens should start with a capital letter.
+    tokens = [t for t in re.split(r"\W+", stripped) if t]
+    if not tokens:
+        return False
+    stopwords = {
+        "a", "an", "the", "of", "and", "or", "in", "on", "at", "to", "for",
+        "with", "by", "from", "as", "vs", "into",
+    }
+    meaningful = [t for t in tokens if t.lower() not in stopwords]
+    if not meaningful:
+        return False
+    caps = sum(1 for t in meaningful if t[0].isupper() or t[0].isdigit())
+    return caps / len(meaningful) >= 0.75
+
+
 def normalise(text: str) -> list[str]:
     """Drop noise and insert blank lines around structural breaks."""
+    # Stage 0: map private-use glyphs.
+    for src, dst in PUA_REPLACEMENTS.items():
+        text = text.replace(src, dst)
     raw = text.splitlines()
 
     # Stage 1: drop running headers and isolated page numbers.
@@ -146,7 +211,40 @@ def normalise(text: str) -> list[str]:
         out.append(line)
         prev_nonblank_indent = indent
 
-    return out
+    # Stage 3: isolate flush-left heading-like lines that didn't get a blank
+    # line of their own (very common in pre-2010 letters where headings sit
+    # at column 0 between indented paragraphs).
+    out2: list[str] = []
+    for i, line in enumerate(out):
+        if line.strip() == "":
+            out2.append(line)
+            continue
+        indent = leading_ws(line)
+        if indent == 0 and looks_like_heading_line(line):
+            # Check the previous non-blank line: only promote if previous
+            # was a regular indented paragraph line (avoids splitting tables
+            # and the in-progress sentence continuations).
+            prev_idx = i - 1
+            while prev_idx >= 0 and out[prev_idx].strip() == "":
+                prev_idx -= 1
+            prev_indent = leading_ws(out[prev_idx]) if prev_idx >= 0 else None
+            prev_text = out[prev_idx].rstrip() if prev_idx >= 0 else ""
+            # Only split if the previous line ended a sentence — avoids
+            # cutting normal continuation lines that wrap to column 0.
+            sentence_end = prev_text.endswith(('.', '!', '?', '”', '"', ')'))
+            if prev_idx >= 0 and sentence_end:
+                if out2 and out2[-1] != "":
+                    out2.append("")
+                out2.append(line)
+                # Force a blank after too so it becomes its own block.
+                # (Will be merged with following blank if present.)
+                # We'll only insert if the next line is non-blank.
+                if i + 1 < len(out) and out[i + 1].strip() != "":
+                    out2.append("")
+                continue
+        out2.append(line)
+
+    return out2
 
 
 def split_blocks(lines: list[str]) -> list[list[str]]:
@@ -188,18 +286,8 @@ def classify_block(block: list[str]) -> str:
         return "table"
     if any(BULLET_LINE_RE.match(l) for l in block):
         return "bullet"
-    if len(block) == 1:
-        line = block[0].strip()
-        if (
-            5 <= len(line) <= 90
-            and not line.endswith(('.', ',', ';', ':', '?', '!', '”', '"'))
-            and not line.startswith('*')
-            and not DOT_LEADER_RE.search(line)
-            and not SHAREHOLDERS_INTRO_RE.match(line)
-            and re.match(r"^[A-Z0-9“”\"'].*", line)
-            and not re.search(r"\d{3,}", line)  # avoid table fragments
-        ):
-            return "heading"
+    if len(block) == 1 and looks_like_heading_line(block[0]):
+        return "heading"
     return "para"
 
 

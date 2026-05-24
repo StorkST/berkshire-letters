@@ -24,7 +24,9 @@ With the new rule about unrealized gains exacerbating the distortion caused by t
 
 We will attempt to alleviate this problem by continuing our practice of publishing financial reports late on Friday, well after the markets close, or early on Saturday morning. That will allow you maximum time for analysis and give investment professionals the opportunity to deliver informed commentary before markets open on Monday. Nevertheless, I expect considerable confusion among shareholders for whom accounting is a foreign language.
 
-At Berkshire what counts most are increases in our normalized per-share earning power. That metric is what Charlie Munger, my long-time partner, and I focus on – and we hope that you do, too. Our scorecard for 2017 follows. Acquisitions
+At Berkshire what counts most are increases in our normalized per-share earning power. That metric is what Charlie Munger, my long-time partner, and I focus on – and we hope that you do, too. Our scorecard for 2017 follows.
+
+== Acquisitions
 
 There are four building blocks that add value to Berkshire: (1) sizable stand-alone acquisitions; (2) bolt-on acquisitions that fit with businesses we already own; (3) internal sales growth and margin improvement at our many and varied businesses; and (4) investment earnings from our huge portfolio of stocks and bonds. In this section, we will review 2017 acquisition activity.
 
@@ -76,7 +78,9 @@ Despite its recent acquisitions, HomeServices is on track to do only about 3% of
 
 Fortunately, I don’t need in this instance to bring knowledge to the table: Mark Donegan, CEO of Precision, is an extraordinary manufacturing executive, and any business in his domain is slated to do well. Betting on people can sometimes be more certain than betting on physical assets.
 
-Let’s now move on to operations, beginning with property-casualty (“p/c”) insurance, a business I do understand and the engine that for 51 years has powered Berkshire’s growth. Insurance
+Let’s now move on to operations, beginning with property-casualty (“p/c”) insurance, a business I do understand and the engine that for 51 years has powered Berkshire’s growth.
+
+== Insurance
 
 Before I discuss our 2017 insurance results, let me remind you of how and why we entered the field. We began by purchasing National Indemnity and a smaller sister company for \$8.6 million in early 1967. With our purchase we received \$6.7 million of tangible net worth that, by the nature of the insurance business, we were able to deploy in marketable securities. It was easy to rearrange the portfolio into securities we would otherwise have owned at Berkshire itself. In effect, we were “trading dollars” for the net worth portion of the cost.
 
@@ -94,7 +98,7 @@ Here’s the record:
 
 (in \$ millions)
 
-== Year                             Premium Volume                               Float
+Year Premium Volume Float
 
 #tablebox[
 ```
@@ -208,7 +212,7 @@ The connection of value-building to retained earnings that I’ve just described
 
 Berkshire, itself, provides some vivid examples of how price randomness in the short term can obscure long- term growth in value. For the last 53 years, the company has built value by reinvesting its earnings and letting compound interest work its magic. Year by year, we have moved forward. Yet Berkshire shares have suffered four truly major dips. Here are the gory details:
 
-== Period                            High               Low           Percentage Decrease
+Period High Low Percentage Decrease
 
 #tablebox[
 ```
@@ -386,4 +390,4 @@ Come to Omaha – the cradle of capitalism – on May 5th and meet the Berkshire
 
 February 24, 2018 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

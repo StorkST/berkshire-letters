@@ -13,8 +13,8 @@
   number-align: center,
 )
 
-#set text(font: "EB Garamond 12", size: 10.5pt, lang: "en", hyphenate: true)
-#set par(justify: true, leading: 0.62em, first-line-indent: (amount: 1.4em, all: true), spacing: 0.65em)
+#set text(font: "EB Garamond 12", size: 11pt, lang: "en", hyphenate: true)
+#set par(justify: true, leading: 0.72em, spacing: 1em)
 
 // Headings -----------------------------------------------------------------
 
@@ -30,9 +30,9 @@
   pagebreak(weak: true)
 }
 #show heading.where(level: 2): it => {
-  v(1.4em, weak: true)
-  block(below: 0.6em)[
-    #text(size: 13pt, weight: "bold")[#it.body]
+  v(1.8em, weak: true)
+  block(below: 0.9em)[
+    #text(size: 14pt, weight: "bold")[#it.body]
   ]
 }
 

@@ -278,9 +278,10 @@ I currently expect increased after-tax earnings at BHE in 2016, but lower earnin
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
+== Balance Sheet 12/31/15 (in millions)
+
 #tablebox[
 ```
-Balance Sheet 12/31/15 (in millions)
 Assets                                                                                    Liabilities and Equity
 Cash and equivalents . . . . . . . . . . . . . . . . . .               $    6,807         Notes payable . . . . . . . . . . . . . . . . . . . . . .    $    2,135
 Accounts and notes receivable . . . . . . . . . . .                         8,886         Other current liabilities . . . . . . . . . . . . . . .          10,565
@@ -301,7 +302,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . .            4,44
 
 \$ 78,474 \$ 78,474
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -639,6 +640,6 @@ On April 30th, come to Omaha – the cradle of capitalism – and meet my gang. 
 
 February 27, 2016 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board
 
 Front Row – Becki Amick, Sharon Heck, Melissa Hawk, Jalayna Busse, Warren Buffett, Angie Wells, Alisa Krueger, Deb Ray, Carrie Sova, Ellen Schmidt Back Row – Tracy Britt Cool, Jennifer Tselentis, Ted Weschler, Joanne Manhart, Bob Reeson, Todd Combs, Dan Jaksich, Debbie Bosanek, Mark Sisley, Marc Hamburg, Kerby Ham, Mark Millard, Allyson Ballard, Stacy Gottschalk, Tiffany Vokt

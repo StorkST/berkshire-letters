@@ -68,7 +68,9 @@ We have no way to pinpoint intrinsic value. But we do have a useful, though cons
 
 I also included two tables last year that set forth the key quantitative ingredients that will help you estimate our per-share intrinsic value. I won’t repeat the full discussion here; you can find it reproduced on pages 99-100. To update the tables shown there, our per-share investments in 2011 increased 4% to \$98,366, and our pre-tax earnings from businesses other than insurance and investments increased 18% to \$6,990 per share.
 
-Charlie and I like to see gains in both areas, but our primary focus is on building operating earnings. Over time, the businesses we currently own should increase their aggregate earnings, and we hope also to purchase some large operations that will give us a further boost. We now have eight subsidiaries that would each be included in the Fortune 500 were they stand-alone companies. That leaves only 492 to go. My task is clear, and I’m on the prowl. Share Repurchases
+Charlie and I like to see gains in both areas, but our primary focus is on building operating earnings. Over time, the businesses we currently own should increase their aggregate earnings, and we hope also to purchase some large operations that will give us a further boost. We now have eight subsidiaries that would each be included in the Fortune 500 were they stand-alone companies. That leaves only 492 to go. My task is clear, and I’m on the prowl.
+
+== Share Repurchases
 
 Last September, we announced that Berkshire would repurchase its shares at a price of up to 110% of book value. We were in the market for only a few days – buying \$67 million of stock – before the price advanced beyond our limit. Nonetheless, the general importance of share repurchases suggests I should focus for a bit on the subject.
 
@@ -112,7 +114,7 @@ Let’s look first at insurance, Berkshire’s core operation and the engine tha
 
 Property-casualty (“P/C”) insurers receive premiums upfront and pay claims later. In extreme cases, such as those arising from certain workers’ compensation accidents, payments can stretch over decades. This collect-now, pay-later model leaves us holding large sums – money we call “float” – that will eventually go to others. Meanwhile, we get to invest this float for Berkshire’s benefit. Though individual policies and claims come and go, the amount of float we hold remains remarkably stable in relation to premium volume. Consequently, as our business grows, so does our float. And how we have grown, as the following table shows:
 
-== Year                       Float (in \$ millions)
+Year Float (in \$ millions)
 
 #tablebox[
 ```
@@ -276,7 +278,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . .           3,661
 
 \$66,713 \$66,713
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -357,7 +359,9 @@ Certain shareholders have told me they hunger for more discussions of accounting
 
 Common sense would tell you that our varied subsidiaries should be carried on our books at their cost plus the earnings they have retained since our purchase (unless their economic value has materially decreased, in which case an appropriate write-down must be taken). And that’s essentially the reality at Berkshire – except for the weird situation at Marmon.
 
-We purchased 64% of the company in 2008 and put this interest on our books at our cost, \$4.8 billion. So far, so good. Then, in early 2011, pursuant to our original contract with the Pritzker family, we purchased an additional 16%, paying \$1.5 billion as called for by a formula that reflected Marmon’s increased value. In this instance, however, we were required to immediately write off \$614 million of the purchase price retroactive to the end of 2010. (Don’t ask!) Obviously, this write-off had no connection to economic reality. The excess of Marmon’s intrinsic value over its carrying value is widened by this meaningless write-down. Finance and Financial Products
+We purchased 64% of the company in 2008 and put this interest on our books at our cost, \$4.8 billion. So far, so good. Then, in early 2011, pursuant to our original contract with the Pritzker family, we purchased an additional 16%, paying \$1.5 billion as called for by a formula that reflected Marmon’s increased value. In this instance, however, we were required to immediately write off \$614 million of the purchase price retroactive to the end of 2010. (Don’t ask!) Obviously, this write-off had no connection to economic reality. The excess of Marmon’s intrinsic value over its carrying value is widened by this meaningless write-down.
+
+== Finance and Financial Products
 
 This sector, our smallest, includes two rental companies, XTRA (trailers) and CORT (furniture), and Clayton Homes, the country’s leading producer and financer of manufactured homes. Aside from these 100%-owned subsidiaries, we also include in this category a collection of financial assets and our 50% interest in Berkadia Commercial Mortgage.
 
@@ -421,7 +425,9 @@ There is little new to report on our derivatives positions, which we have descri
 
 Our insurance-like derivatives contracts, whereby we pay if various issues included in high-yield bond indices default, are coming to a close. The contracts that most exposed us to losses have already expired, and the remainder will terminate soon. In 2011, we paid out \$86 million on two losses, bringing our total payments to \$2.6 billion. We are almost certain to realize a final “underwriting profit” on this portfolio because the premiums we received were \$3.4 billion, and our future losses are apt to be minor. In addition, we will have averaged about \$2 billion of float over the five-year life of these contracts. This successful result during a time of great credit stress underscores the importance of obtaining a premium that is commensurate with the risk.
 
-Charlie and I continue to believe that our equity-put positions will produce a significant profit, considering both the \$4.2 billion of float we will have held for more than fifteen years and the \$222 million profit we’ve already realized on contracts that we repurchased. At yearend, Berkshire’s book value reflected a liability of \$8.5 billion for the remaining contracts; if they had all come due at that time our payment would have been \$6.2 billion. The Basic Choices for Investors and the One We Strongly Prefer
+Charlie and I continue to believe that our equity-put positions will produce a significant profit, considering both the \$4.2 billion of float we will have held for more than fifteen years and the \$222 million profit we’ve already realized on contracts that we repurchased. At yearend, Berkshire’s book value reflected a liability of \$8.5 billion for the remaining contracts; if they had all come due at that time our payment would have been \$6.2 billion.
+
+== The Basic Choices for Investors and the One We Strongly Prefer
 
 Investing is often described as the process of laying out money now in the expectation of receiving more money in the future. At Berkshire we take a more demanding approach, defining investing as the transfer to others of purchasing power now with the reasoned expectation of receiving more purchasing power – after taxes have been paid on nominal gains – in the future. More succinctly, investing is forgoing consumption now in order to have the ability to consume more at a later date.
 
@@ -525,4 +531,4 @@ This home office crew, along with our operating managers, has my deepest thanks 
 
 February 25, 2012 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

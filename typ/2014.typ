@@ -304,7 +304,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      
 
 \$71,088 \$71,088
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 2014 2013\* 2012\*
 
@@ -843,7 +843,7 @@ I am a lucky fellow to have you as partners.
 
 == Warren E. Buffett
 
-== Vice Chairman’s Thoughts – Past and Future
+Vice Chairman’s Thoughts – Past and Future
 
 I closely watched the 50-year history of Berkshire’s uncommon success under Warren Buffett. And it now seems appropriate that I independently supplement whatever celebratory comment comes from him. I will try to do five things.
 

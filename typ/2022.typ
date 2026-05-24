@@ -52,7 +52,7 @@ The lesson for investors: The weeds wither away in significance as the flowers b
 
 Berkshire had a good year in 2022. The company’s operating earnings – our term for income calculated using Generally Accepted Accounting Principles (“GAAP”), exclusive of capital gains or losses from equity holdings – set a record at \$30.8 billion. Charlie and I focus on this operational figure and urge you to do so as well. The GAAP figure, absent our adjustment, fluctuates wildly and capriciously at every reporting date. Note its acrobatic behavior in 2022, which is in no way unusual:
 
-== Earnings in \$ billions
+Earnings in \$ billions
 
 GAAP Earnings We 2022 Quarter “Operating Earnings” are Required to Report
 
@@ -91,7 +91,7 @@ Finally, an important warning: Even the operating earnings figure that we favor 
 
 That activity is disgusting. It requires no talent to manipulate numbers: Only a deep desire to deceive is required. “Bold imaginative accounting,” as a CEO once described his deception to me, has become one of the shames of capitalism.
 
-== 58 Years – and a Few Figures
+58 Years – and a Few Figures
 
 In 1965, Berkshire was a one-trick pony, the owner of a venerable – but doomed – New England textile operation. With that business on a death march, Berkshire needed an immediate fresh start. Looking back, I was slow to recognize the severity of its problems.
 
@@ -166,7 +166,9 @@ And so it goes. I never have a phone call with Charlie without learning somethin
 
 I will add to Charlie’s list a rule of my own: Find a very smart high-grade partner – preferably slightly older than you – and then listen very carefully to what he says.
 
-A Family Gathering in Omaha Charlie and I are shameless. Last year, at our first shareholder get-together in three years, we greeted you with our usual commercial hustle.
+== A Family Gathering in Omaha
+
+Charlie and I are shameless. Last year, at our first shareholder get-together in three years, we greeted you with our usual commercial hustle.
 
 From the opening bell, we went straight for your wallet. In short order, our See’s kiosk sold you eleven tons of nourishing peanut brittle and chocolates. In our P.T. Barnum pitch, we promised you longevity. After all, what else but candy from See’s could account for Charlie and me making it to 99 and 92?
 
@@ -182,4 +184,4 @@ Charlie, I, and the entire Berkshire bunch look forward to seeing you in Omaha o
 
 February 25, 2023 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

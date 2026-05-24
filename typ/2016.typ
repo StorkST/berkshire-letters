@@ -126,7 +126,7 @@ Let’s now look at Berkshire’s various businesses, starting with our most imp
 
 One reason we were attracted to the P/C business was its financial characteristics: P/C insurers receive premiums upfront and pay claims later. In extreme cases, such as claims arising from exposure to asbestos, payments can stretch over many decades. This collect-now, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And how it has grown, as the following table shows:
 
-== Year                                     Float (in millions)
+Year Float (in millions)
 
 #tablebox[
 ```
@@ -295,9 +295,10 @@ HomeServices also franchises many operations throughout the country that use our
 
 Our manufacturing, service and retailing operations sell products ranging from lollipops to jet airplanes. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
+== Balance Sheet 12/31/16 (in millions)
+
 #tablebox[
 ```
-Balance Sheet 12/31/16 (in millions)
 Assets                                                                      Liabilities and Equity
 Cash and equivalents ...........................         $    8,073         Notes payable ................................   $    2,054
 Accounts and notes receivable ..............                 11,183         Other current liabilities ....................       12,464
@@ -318,7 +319,7 @@ Other assets .......................................          3,183         Berk
 
 \$129,593 \$129,593
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -497,7 +498,7 @@ Berkshire’s insurance subsidiaries pay a tax rate on dividends that is somewha
 
 And that’s our tax lesson for today.
 
-== “The Bet” (or how your money finds its way to Wall Street)
+“The Bet” (or how your money finds its way to Wall Street)
 
 In this section, you will encounter, early on, the story of an investment bet I made nine years ago and, next, some strong opinions I have about investing. As a starter, though, I want to briefly describe Long Bets, a unique establishment that played a role in the bet.
 
@@ -683,4 +684,4 @@ I’m a lucky guy, very fortunate in being surrounded by this excellent staff, a
 
 February 25, 2017 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board

@@ -307,7 +307,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . .           4,2
 
 \$74,315 \$74,315
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 #tablebox[
 ```
@@ -594,4 +594,4 @@ February 28, 2014
 
 Warren E. Buffett Chairman of the Board
 
-== A power lunch, Berkshire-style
+A power lunch, Berkshire-style

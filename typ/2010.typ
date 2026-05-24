@@ -203,7 +203,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . .      3,029        E
 
 \$51,146 \$51,146
 
-== Earnings Statement (in millions)
+Earnings Statement (in millions)
 
 2010 2009 2008 Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -540,7 +540,7 @@ This home office crew has my deepest thanks and deserves yours as well. Come to 
 
 February 26, 2011 Warren E. Buffett
 
-== Chairman of the Board
+Chairman of the Board
 
 Memo To: Berkshire Hathaway Managers (“The All-Stars”)
 
@@ -548,7 +548,7 @@ cc: Berkshire Directors
 
 == From: Warren E. Buffett
 
-Date: July 26, 2010
+== Date:    July 26, 2010
 
 This is my biennial letter to reemphasize Berkshire’s top priority and to get your help on succession planning (yours, not mine!).
 
@@ -570,6 +570,6 @@ I need your help in respect to the question of succession. I’m not looking for
 
 Thanks for your help on all of this. And thanks for the way you run your businesses. You make my job easy.
 
-== WEB/db
+WEB/db
 
 P.S. Another minor request: Please turn down all proposals for me to speak, make contributions, intercede with the Gates Foundation, etc. Sometimes these requests for you to act as intermediary will be accompanied by “It can’t hurt to ask.” It will be easier for both of us if you just say “no.” As an added favor, don’t suggest that they instead write or call me. Multiply 76 businesses by the periodic “I think he’ll be interested in this one” and you can understand why it is better to say no firmly and immediately.

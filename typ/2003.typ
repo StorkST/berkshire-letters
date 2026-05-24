@@ -198,7 +198,7 @@ Float is wonderful – if it doesn’t come at a high price. The cost of float i
 
 Overall, our results have been good. True, we’ve had five terrible years in which float cost us more than 10%. But in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit, meaning we were actually paid for holding money. And the quantity of this cheap money has grown far beyond what I dreamed it could when we entered the business in 1967.
 
-== Yearend Float (in \$ millions)
+Yearend Float (in \$ millions)
 
 #tablebox[
 ```
@@ -403,7 +403,7 @@ Total ...............................................................      $1,88
 
 Our activities in this category cover the waterfront. But let’s look at a simplified balance sheet and earnings statement consolidating the entire group.
 
-== Balance Sheet 12/31/03 (in \$ millions)
+Balance Sheet 12/31/03 (in \$ millions)
 
 #tablebox[
 ```
@@ -426,7 +426,7 @@ Other assets ...............................................              1,054 
 
 \$23,267 \$23,267
 
-== Earnings Statement (in \$ millions)
+Earnings Statement (in \$ millions)
 
 2003 2002 Revenues ............................................................................................................ \$32,106 \$16,970 Operating expenses (including depreciation of \$605 in 2003
 
