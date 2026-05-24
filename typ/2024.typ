@@ -16,7 +16,11 @@ Sometimes I’ve made mistakes in assessing the future economics of a business I
 
 At other times, I’ve made mistakes when assessing the abilities or fidelity of the managers Berkshire is hiring. The fidelity disappointments can hurt beyond their financial impact, a pain that can approach that of a failed marriage.
 
-A decent batting average in personnel decisions is all that can be hoped for. The cardinal sin is delaying the correction of mistakes or what Charlie Munger called “thumb-sucking.” Problems, he would tell me, cannot be wished away. They require action, however uncomfortable that may be.
+A decent batting average in personnel decisions is all that can be hoped for. The cardinal sin is delaying the correction of mistakes or what Charlie Munger called “thumb-sucking.”
+
+== Problems, he would tell me, cannot be wished away. They require action, however
+
+uncomfortable that may be.
 
 #sectionbreak
 
@@ -56,7 +60,9 @@ One further point in our CEO selections: I never look at where a candidate has g
 
 Of course, there are great managers who attended the most famous schools. But there are plenty such as Pete who may have benefitted by attending a less prestigious institution or even by not bothering to finish school. Look at my friend, Bill Gates, who decided that it was far more important to get underway in an exploding industry that would change the world than it was to stick around for a parchment that he could hang on the wall. (Read his new book, Source Code.)
 
-Not long ago, I met – by phone – Jessica Toonkel, whose step-grandfather, Ben Rosner, long ago ran a business for Charlie and me. Ben was a retailing genius and, in preparing for this report, I checked with Jessica to confirm Ben’s schooling, which I remembered as limited. Jessica’s reply: “Ben never went past 6th grade.”
+Not long ago, I met – by phone – Jessica Toonkel, whose step-grandfather, Ben Rosner, long ago ran a business for Charlie and me. Ben was a retailing genius and, in preparing for this report, I checked with Jessica to confirm Ben’s schooling, which I remembered as limited.
+
+== Jessica’s reply: “Ben never went past 6th grade.”
 
 I was lucky enough to get an education at three fine universities. And I avidly believe in lifelong learning. I’ve observed, however, that a very large portion of business talent is innate with nature swamping nurture.
 
@@ -101,7 +107,7 @@ Here’s a breakdown of the 2023-24 earnings as we see them. All calculations ar
 
 #footnoteblock[\* Includes certain businesses in which Berkshire had between a 20% and 50% ownership such as Kraft Heinz, Occidental Petroleum and Berkadia. \*\* Includes foreign currency exchange gains of approximately \$1.1 billion in 2024 and approximately \$211 million in 2023 produced by our usage of non-U.S. dollar-denominated debt.]
 
-Surprise, Surprise! An Important American Record is Smashed
+== Surprise, Surprise! An Important American Record is Smashed
 
 Sixty years ago, present management took control of Berkshire. That move was a mistake – my mistake – and one that plagued us for two decades. Charlie, I should emphasize, spotted my obvious error immediately: Though the price I paid for Berkshire looked cheap, its business – a large northern textile operation – was headed for extinction.
 

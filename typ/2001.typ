@@ -6,7 +6,7 @@
 
 Berkshire’s loss in net worth during 2001 was \$3.77 billion, which decreased the per-share book value of both our Class A and Class B stock by 6.2%. Over the last 37 years (that is, since present management took over) per-share book value has grown from \$19 to \$37,920, a rate of 22.6% compounded annually.∗
 
-Per-share intrinsic grew somewhat faster than book value during these 37 years, and in 2001 it probably decreased a bit less. We explain intrinsic value in our Owner’s Manual, which begins on page 62. I urge new shareholders to read this manual to become familiar with Berkshire’s key economic principles.
+Per-share intrinsic value grew somewhat faster than book value during these 37 years, and in 2001 it probably decreased a bit less. We explain intrinsic value in our Owner’s Manual, which begins on page 62. I urge new shareholders to read this manual to become familiar with Berkshire’s key economic principles.
 
 Though our corporate performance last year was satisfactory, my performance was anything but. I manage most of Berkshire’s equity portfolio, and my results were poor, just as they have been for several years. Of even more importance, I allowed General Re to take on business without a safeguard I knew was important, and on September 11th, this error caught up with us. I’ll tell you more about my mistake later and what we are doing to correct it.
 
@@ -229,7 +229,8 @@ I’d say that the effects from telling a profit-challenged insurance CEO to low
 
 The table that follows shows the main sources of Berkshire's reported earnings. In this presentation, purchase-accounting adjustments (primarily relating to “goodwill”) are not assigned to the specific businesses to which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. In recent years, our “expense” for goodwill amortization has been large. Going forward, generally accepted accounting principles (“GAAP”) will no longer require amortization of goodwill. This change will increase our reported earnings (though not our true economic earnings) and simplify this section of the report.
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -346,7 +347,7 @@ And that’s just what happened. FleetBoston syndicated a loan for \$6 billion (
 
 One more point about our investments: The media often report that “Buffett is buying” this or that security, having picked up the “fact” from reports that Berkshire files. These accounts are sometimes correct, but at other times the transactions Berkshire reports are actually being made by Lou Simpson, who runs a \$2 billion portfolio for GEICO that is quite independent of me. Normally, Lou does not tell me what he is buying or selling, and I learn of his activities only when I look at a GEICO portfolio summary that I receive a few days after the end of each month. Lou’s thinking, of course, is quite similar to mine, but we usually end up in different securities. That’s largely because he’s working with less money and can therefore invest in smaller companies than I. Oh, yes, there’s also another minor difference between us: In recent years, Lou’s performance has been far better than mine.
 
-== Charitable Contributions
+Charitable Contributions
 
 Berkshire follows a highly unusual policy in respect to charitable contributions – but it’s one that Charlie and I believe is both rational and fair to owners.
 

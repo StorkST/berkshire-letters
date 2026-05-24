@@ -16,7 +16,7 @@ Over the stock market cycle between yearends 2007 and 2013, we overperformed the
 
 On the operating front, just about everything turned out well for us last year – in certain cases very well. Let me count the ways:
 
-Š We completed two large acquisitions, spending almost \$18 billion to purchase all of NV Energy and a
+- We completed two large acquisitions, spending almost \$18 billion to purchase all of NV Energy and a
 
 major interest in H. J. Heinz. Both companies fit us well and will be prospering a century from now.
 
@@ -34,37 +34,37 @@ With Heinz, Berkshire now owns 8 1⁄ 2 companies that, were they stand-alone bu
 
 NV Energy, purchased for \$5.6 billion by MidAmerican Energy, our utility subsidiary, supplies electricity to about 88% of Nevada’s population. This acquisition fits nicely into our existing electric-utility operation and offers many possibilities for large investments in renewable energy. NV Energy will not be MidAmerican’s last major acquisition.
 
-Š MidAmerican is one of our “Powerhouse Five” – a collection of large non-insurance businesses that, in aggregate, had a record \$10.8 billion of pre-tax earnings in 2013, up \$758 million from 2012. The other companies in this sainted group are BNSF, Iscar, Lubrizol and Marmon.
+- MidAmerican is one of our “Powerhouse Five” – a collection of large non-insurance businesses that, in aggregate, had a record \$10.8 billion of pre-tax earnings in 2013, up \$758 million from 2012. The other companies in this sainted group are BNSF, Iscar, Lubrizol and Marmon.
 
 Of the five, only MidAmerican, then earning \$393 million pre-tax, was owned by Berkshire nine years ago. Subsequently, we purchased another three of the five on an all-cash basis. In acquiring the fifth, BNSF, we paid about 70% of the cost in cash, and, for the remainder, issued shares that increased the number outstanding by 6.1%. In other words, the \$10.4 billion gain in annual earnings delivered Berkshire by the five companies over the nine-year span has been accompanied by only minor dilution. That satisfies our goal of not simply growing, but rather increasing per-share results.
 
 If the U.S. economy continues to improve in 2014, we can expect earnings of our Powerhouse Five to improve also – perhaps by \$1 billion or so pre-tax.
 
-Š Our many dozens of smaller non-insurance businesses earned \$4.7 billion pre-tax last year, up from \$3.9 billion in 2012. Here, too, we expect further gains in 2014.
+- Our many dozens of smaller non-insurance businesses earned \$4.7 billion pre-tax last year, up from \$3.9 billion in 2012. Here, too, we expect further gains in 2014.
 
-Š Berkshire’s extensive insurance operation again operated at an underwriting profit in 2013 – that makes 11 years in a row – and increased its float. During that 11-year stretch, our float – money that doesn’t belong to us but that we can invest for Berkshire’s benefit – has grown from \$41 billion to \$77 billion. Concurrently, our underwriting profit has aggregated \$22 billion pre-tax, including \$3 billion realized in 2013. And all of this all began with our 1967 purchase of National Indemnity for \$8.6 million.
+- Berkshire’s extensive insurance operation again operated at an underwriting profit in 2013 – that makes 11 years in a row – and increased its float. During that 11-year stretch, our float – money that doesn’t belong to us but that we can invest for Berkshire’s benefit – has grown from \$41 billion to \$77 billion. Concurrently, our underwriting profit has aggregated \$22 billion pre-tax, including \$3 billion realized in 2013. And all of this all began with our 1967 purchase of National Indemnity for \$8.6 million.
 
 We now own a wide variety of exceptional insurance operations. Best known is GEICO, the car insurer Berkshire acquired in full at yearend 1995 (having for many years prior owned a partial interest). GEICO in 1996 ranked number seven among U.S. auto insurers. Now, GEICO is number two, having recently passed Allstate. The reasons for this amazing growth are simple: low prices and reliable service. You can do yourself a favor by calling 1-800-847-7536 or checking Geico.com to see if you, too, can cut your insurance costs. Buy some of Berkshire’s other products with the savings.
 
-Š While Charlie and I search for elephants, our many subsidiaries are regularly making bolt-on acquisitions. Last year, we contracted for 25 of these, scheduled to cost \$3.1 billion in aggregate. These transactions ranged from \$1.9 million to \$1.1 billion in size.
+- While Charlie and I search for elephants, our many subsidiaries are regularly making bolt-on acquisitions. Last year, we contracted for 25 of these, scheduled to cost \$3.1 billion in aggregate. These transactions ranged from \$1.9 million to \$1.1 billion in size.
 
 Charlie and I encourage these deals. They deploy capital in activities that fit with our existing businesses and that will be managed by our corps of expert managers. The result is no more work for us and more earnings for you. Many more of these bolt-on deals will be made in future years. In aggregate, they will be meaningful.
 
-Š Last year we invested \$3.5 billion in the surest sort of bolt-on: the purchase of additional shares in two wonderful businesses that we already controlled. In one case – Marmon – our purchases brought us to the 100% ownership we had signed up for in 2008. In the other instance – Iscar – the Wertheimer family elected to exercise a put option it held, selling us the 20% of the business it retained when we bought control in 2006.
+- Last year we invested \$3.5 billion in the surest sort of bolt-on: the purchase of additional shares in two wonderful businesses that we already controlled. In one case – Marmon – our purchases brought us to the 100% ownership we had signed up for in 2008. In the other instance – Iscar – the Wertheimer family elected to exercise a put option it held, selling us the 20% of the business it retained when we bought control in 2006.
 
 These purchases added about \$300 million pre-tax to our current earning power and also delivered us \$800 million of cash. Meanwhile, the same nonsensical accounting rule that I described in last year’s letter required that we enter these purchases on our books at \$1.8 billion less than we paid, a process that reduced Berkshire’s book value. (The charge was made to “capital in excess of par value”; figure that one out.) This weird accounting, you should understand, instantly increased Berkshire’s excess of intrinsic value over book value by the same \$1.8 billion.
 
-Š Our subsidiaries spent a record \$11 billion on plant and equipment during 2013, roughly twice our depreciation charge. About 89% of that money was spent in the United States. Though we invest abroad as well, the mother lode of opportunity resides in America.
+- Our subsidiaries spent a record \$11 billion on plant and equipment during 2013, roughly twice our depreciation charge. About 89% of that money was spent in the United States. Though we invest abroad as well, the mother lode of opportunity resides in America.
 
-Š In a year in which most equity managers found it impossible to outperform the S&P 500, both Todd Combs and Ted Weschler handily did so. Each now runs a portfolio exceeding \$7 billion. They’ve earned it.
+- In a year in which most equity managers found it impossible to outperform the S&P 500, both Todd Combs and Ted Weschler handily did so. Each now runs a portfolio exceeding \$7 billion. They’ve earned it.
 
 I must again confess that their investments outperformed mine. (Charlie says I should add “by a lot.”) If such humiliating comparisons continue, I’ll have no choice but to cease talking about them.
 
 Todd and Ted have also created significant value for you in several matters unrelated to their portfolio activities. Their contributions are just beginning: Both men have Berkshire blood in their veins.
 
-Š Berkshire’s yearend employment – counting Heinz – totaled a record 330,745, up 42,283 from last year. The increase, I must admit, included one person at our Omaha home office. (Don’t panic: The headquarters gang still fits comfortably on one floor.)
+- Berkshire’s yearend employment – counting Heinz – totaled a record 330,745, up 42,283 from last year. The increase, I must admit, included one person at our Omaha home office. (Don’t panic: The headquarters gang still fits comfortably on one floor.)
 
-Š Berkshire increased its ownership interest last year in each of its “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo. We purchased additional shares of Wells Fargo (increasing our ownership to 9.2% versus 8.7% at yearend 2012) and IBM (6.3% versus 6.0%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca- Cola grew from 8.9% to 9.1% and our interest in American Express from 13.7% to 14.2%. And, if you think tenths of a percent aren’t important, ponder this math: For the four companies in aggregate, each increase of one-tenth of a percent in our share of their equity raises Berkshire’s share of their annual earnings by \$50 million.
+- Berkshire increased its ownership interest last year in each of its “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo. We purchased additional shares of Wells Fargo (increasing our ownership to 9.2% versus 8.7% at yearend 2012) and IBM (6.3% versus 6.0%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca- Cola grew from 8.9% to 9.1% and our interest in American Express from 13.7% to 14.2%. And, if you think tenths of a percent aren’t important, ponder this math: For the four companies in aggregate, each increase of one-tenth of a percent in our share of their equity raises Berkshire’s share of their annual earnings by \$50 million.
 
 The four companies possess excellent businesses and are run by managers who are both talented and shareholder-oriented. At Berkshire, we much prefer owning a non-controlling but substantial portion of a wonderful company to owning 100% of a so-so business; it’s better to have a partial interest in the Hope diamond than to own all of a rhinestone.
 
@@ -216,13 +216,13 @@ At MidAmerican, meanwhile, two factors ensure the company’s ability to service
 
 Every day, our two subsidiaries power the American economy in major ways:
 
-Š BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
+- BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
 
 truck, rail, water, air, or pipeline. Indeed, we move more ton-miles of goods than anyone else, a fact establishing BNSF as the most important artery in our economy’s circulatory system. Its hold on the number-one position strengthened in 2013.
 
 BNSF, like all railroads, also moves its cargo in an extraordinarily fuel-efficient and environmentally friendly way, carrying a ton of freight about 500 miles on a single gallon of diesel fuel. Trucks taking on the same job guzzle about four times as much fuel.
 
-Š MidAmerican’s utilities serve regulated retail customers in eleven states. No utility company stretches
+- MidAmerican’s utilities serve regulated retail customers in eleven states. No utility company stretches
 
 further. In addition, we are the leader in renewables: From a standing start nine years ago, MidAmerican now accounts for 7% of the country’s wind generation capacity, with more on the way. Our share in solar – most of which is still in construction – is even larger.
 
@@ -309,7 +309,8 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . .           4,2
 
 \$74,315 \$74,315
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```
@@ -375,7 +376,8 @@ CORT and XTRA are leaders in their industries as well. And Jeff Pederson and Bil
 
 Here’s the pre-tax earnings recap for this sector:
 
-2013 2012 2011
+
+#align(center)[#text(size: 10pt, style: "italic")[2013                     2012          2011]]
 
 #tablebox[
 ```
@@ -404,7 +406,8 @@ Below we list our fifteen common stock investments that at yearend had the large
 
 Owned
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -462,17 +465,17 @@ Income from both the farm and the NYU real estate will probably increase in the 
 
 I tell these tales to illustrate certain fundamentals of investing:
 
-Š You don’t need to be an expert in order to achieve satisfactory investment returns. But if you aren’t, you must recognize your limitations and follow a course certain to work reasonably well. Keep things simple and don’t swing for the fences. When promised quick profits, respond with a quick “no.”
+- You don’t need to be an expert in order to achieve satisfactory investment returns. But if you aren’t, you must recognize your limitations and follow a course certain to work reasonably well. Keep things simple and don’t swing for the fences. When promised quick profits, respond with a quick “no.”
 
-Š Focus on the future productivity of the asset you are considering. If you don’t feel comfortable making a rough estimate of the asset’s future earnings, just forget it and move on. No one has the ability to evaluate every investment possibility. But omniscience isn’t necessary; you only need to understand the actions you undertake.
+- Focus on the future productivity of the asset you are considering. If you don’t feel comfortable making a rough estimate of the asset’s future earnings, just forget it and move on. No one has the ability to evaluate every investment possibility. But omniscience isn’t necessary; you only need to understand the actions you undertake.
 
-Š If you instead focus on the prospective price change of a contemplated purchase, you are speculating. There is nothing improper about that. I know, however, that I am unable to speculate successfully, and I am skeptical of those who claim sustained success at doing so. Half of all coin-flippers will win their first toss; none of those winners has an expectation of profit if he continues to play the game. And the fact that a given asset has appreciated in the recent past is never a reason to buy it.
+- If you instead focus on the prospective price change of a contemplated purchase, you are speculating. There is nothing improper about that. I know, however, that I am unable to speculate successfully, and I am skeptical of those who claim sustained success at doing so. Half of all coin-flippers will win their first toss; none of those winners has an expectation of profit if he continues to play the game. And the fact that a given asset has appreciated in the recent past is never a reason to buy it.
 
-Š With my two small investments, I thought only of what the properties would produce and cared not at all about their daily valuations. Games are won by players who focus on the playing field – not by those whose eyes are glued to the scoreboard. If you can enjoy Saturdays and Sundays without looking at stock prices, give it a try on weekdays.
+- With my two small investments, I thought only of what the properties would produce and cared not at all about their daily valuations. Games are won by players who focus on the playing field – not by those whose eyes are glued to the scoreboard. If you can enjoy Saturdays and Sundays without looking at stock prices, give it a try on weekdays.
 
-Š Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important. (When I hear TV commentators glibly opine on what the market will do next, I am reminded of Mickey Mantle’s scathing comment: “You don’t know how easy this game is until you get into that broadcasting booth.”)
+- Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important. (When I hear TV commentators glibly opine on what the market will do next, I am reminded of Mickey Mantle’s scathing comment: “You don’t know how easy this game is until you get into that broadcasting booth.”)
 
-Š My two purchases were made in 1986 and 1993. What the economy, interest rates, or the stock market
+- My two purchases were made in 1986 and 1993. What the economy, interest rates, or the stock market
 
 might do in the years immediately following – 1987 and 1994 – was of no importance to me in making those investments. I can’t remember what the headlines or pundits were saying at the time. Whatever the chatter, corn would keep growing in Nebraska and students would flock to NYU.
 

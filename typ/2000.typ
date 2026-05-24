@@ -254,7 +254,8 @@ Lately, the most promising “bushes” have been negotiated transactions for en
 
 The table that follows shows the main sources of Berkshire's reported earnings. In this presentation, purchase-accounting adjustments are not assigned to the specific businesses to which they apply, but are instead aggregated and shown separately. This procedure lets you view the earnings of our businesses as they would have been reported had we not purchased them. For the reasons discussed on page 65, this form of presentation seems to us to be more useful to investors and managers than one utilizing generally accepted accounting principles (GAAP), which require purchase-premiums to be charged off business-by-business. The total net earnings we show in the table are, of course, identical to the GAAP total in our audited financial statements.
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```

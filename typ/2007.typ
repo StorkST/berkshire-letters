@@ -41,7 +41,11 @@ Per-Share Compounded Annual Year Investments Years Gain in Per-Share Investments
 ```
 ]
 
+For the entire 42 years, our compounded annual gain in per-share investments was 27.1%. But the trend has been downward as we increasingly used our available funds to buy operating businesses.
+
 Here’s the record on how earnings of our non-insurance businesses have grown, again on a per- share basis and after applicable minority interests.
+
+Per Share Compounded Annual Gain in Per- Year Pre-Tax Earnings Years Share Pre-Tax Earnings
 
 #tablebox[
 ```
@@ -51,6 +55,8 @@ Here’s the record on how earnings of our non-insurance businesses have grown, 
                2007                4,093              1993-2007                      23.5%
 ```
 ]
+
+For the entire period, the compounded annual gain was 17.8%, with gains accelerating as our focus shifted.
 
 Though these tables may help you gain historical perspective and be useful in valuation, they are completely misleading in predicting future possibilities. Berkshire’s past record can’t be duplicated or even approached. Our base of assets and earnings is now far too large for us to make outsized gains in the future.
 
@@ -299,7 +305,7 @@ Other assets.............................................        1,685          
 
 \$38,322 \$38,322
 
-Earnings Statement (in millions)
+== Earnings Statement (in millions)
 
 2007 2006 2005 Revenues .................................................................................... \$59,100 \$52,660 \$46,896 Operating expenses (including depreciation of \$955 in 2007,
 
@@ -386,7 +392,8 @@ We show below our common stock investments at yearend, itemizing those with a ma
 
 12/31/07 Percentage of Shares Company Company Owned Cost\* Market
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```

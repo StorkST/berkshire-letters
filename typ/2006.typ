@@ -201,7 +201,7 @@ Other assets.............................................      1,168     Equity 
 
 \$34,372 \$34,372
 
-Earnings Statement (in millions)
+== Earnings Statement (in millions)
 
 2006 2005 2004 Revenues ................................................................................. \$52,660 \$46,896 \$44,142 Operating expenses (including depreciation of \$823 in 2006,
 
@@ -344,7 +344,8 @@ We show below our common stock investments. With two exceptions, those that had 
 
 12/31/06 Percentage of Shares Company Company Owned Cost\* Market
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```

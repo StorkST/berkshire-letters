@@ -60,6 +60,8 @@ Though our compounded annual increase in per-share investments was a healthy 19.
 
 The payoff from this shift is shown in the following table, which illustrates how earnings of our non-insurance businesses have increased, again on a per-share basis and after applicable minority interests.
 
+For the forty years, our compounded annual gain in pre-tax, non-insurance earnings per share is 21.0%. During the same period, Berkshire’s stock price increased at a rate of 22.1% annually. Over time, you can expect our stock price to move in rough tandem with Berkshire’s investments and earnings. Market price and intrinsic value often follow very different paths – sometimes for extended periods – but eventually they meet.
+
 There is a third, more subjective, element to an intrinsic value calculation that can be either positive or negative: the efficacy with which retained earnings will be deployed in the future. We, as well as many other businesses, are likely to retain earnings over the next decade that will equal, or even exceed, the capital we presently employ. Some companies will turn these retained dollars into fifty-cent pieces, others into two-dollar bills.
 
 This “what-will-they-do-with-the-money” factor must always be evaluated along with the “what-do-we-have-now” calculation in order for us, or anybody, to arrive at a sensible estimate of a company’s intrinsic value. That’s because an outside investor stands by helplessly as management reinvests his share of the company’s earnings. If a CEO can be expected to do this job well, the reinvestment prospects add to the company’s current value; if the CEO’s talents or motives are suspect, today’s value must be discounted. The difference in outcome can be huge. A dollar of then-value in the hands of Sears Roebuck’s or Montgomery Ward’s CEOs in the late 1960s had a far different destiny than did a dollar entrusted to Sam Walton.
@@ -205,7 +207,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . .      3,029        E
 
 \$51,146 \$51,146
 
-Earnings Statement (in millions)
+== Earnings Statement (in millions)
 
 2010 2009 2008 Revenues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -572,6 +574,6 @@ I need your help in respect to the question of succession. I’m not looking for
 
 Thanks for your help on all of this. And thanks for the way you run your businesses. You make my job easy.
 
-WEB/db
+== WEB/db
 
 P.S. Another minor request: Please turn down all proposals for me to speak, make contributions, intercede with the Gates Foundation, etc. Sometimes these requests for you to act as intermediary will be accompanied by “It can’t hurt to ask.” It will be easier for both of us if you just say “no.” As an added favor, don’t suggest that they instead write or call me. Multiply 76 businesses by the periodic “I think he’ll be interested in this one” and you can understand why it is better to say no firmly and immediately.

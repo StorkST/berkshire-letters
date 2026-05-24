@@ -92,7 +92,7 @@ During such scary periods, you should never forget two things: First, widespread
 
 As for Berkshire, our size precludes a brilliant result: Prospective returns fall as assets increase. Nonetheless, Berkshire’s collection of good businesses, along with the company’s impregnable financial strength and owner-oriented culture, should deliver decent results. We won’t be satisfied with less.
 
-== Share Repurchases
+Share Repurchases
 
 In the investment world, discussions about share repurchases often become heated. But I’d suggest that participants in this debate take a deep breath: Assessing the desirability of repurchases isn’t that complicated.
 
@@ -126,7 +126,8 @@ Let’s now look at Berkshire’s various businesses, starting with our most imp
 
 One reason we were attracted to the P/C business was its financial characteristics: P/C insurers receive premiums upfront and pay claims later. In extreme cases, such as claims arising from exposure to asbestos, payments can stretch over many decades. This collect-now, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And how it has grown, as the following table shows:
 
-Year Float (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Year                                     Float (in millions)]]
 
 #tablebox[
 ```
@@ -321,7 +322,8 @@ Other assets .......................................          3,183         Berk
 
 \$129,593 \$129,593
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```
@@ -411,9 +413,10 @@ Over time, we expect to expand our railcar operation. Meanwhile, Marmon is makin
 
 Here’s the pre-tax earnings recap for our finance-related companies:
 
-2016 2015 2014
+== 2016          2015          2014
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -500,7 +503,7 @@ Berkshire’s insurance subsidiaries pay a tax rate on dividends that is somewha
 
 And that’s our tax lesson for today.
 
-“The Bet” (or how your money finds its way to Wall Street)
+== “The Bet” (or how your money finds its way to Wall Street)
 
 In this section, you will encounter, early on, the story of an investment bet I made nine years ago and, next, some strong opinions I have about investing. As a starter, though, I want to briefly describe Long Bets, a unique establishment that played a role in the bet.
 

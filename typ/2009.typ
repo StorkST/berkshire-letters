@@ -219,7 +219,8 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . .           2,070    
 
 \$48,799 \$48,799
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```

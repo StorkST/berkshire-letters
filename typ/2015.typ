@@ -304,7 +304,8 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . .            4,44
 
 \$ 78,474 \$ 78,474
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```
@@ -394,9 +395,10 @@ At yearend, 97% of our railcars were leased, with about 15-17% of the fleet comi
 
 Here’s the earnings recap for this sector:
 
-2015 2014 2013
+== 2015         2014        2013
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -520,7 +522,7 @@ The answer in such disruptions is not the restraining or outlawing of actions th
 
 The solution, rather, is a variety of safety nets aimed at providing a decent life for those who are willing to work but find their specific talents judged of small value because of market forces. (I personally favor a reformed and expanded Earned Income Tax Credit that would try to make sure America works for those willing to work.) The price of achieving ever-increasing prosperity for the great majority of Americans should not be penury for the unfortunate.
 
-== Important Risks
+Important Risks
 
 We, like all public companies, are required by the SEC to annually catalog “risk factors” in our 10-K. I can’t remember, however, an instance when reading a 10-K’s “risk” section has helped me in evaluating a business. That’s not because the identified risks aren’t real. The truly important risks, however, are usually well known. Beyond that, a 10-K’s catalog of risks is seldom of aid in assessing: (1) the probability of the threatening event actually occurring; (2) the range of costs if it does occur; and (3) the timing of the possible loss. A threat that will only surface 50 years from now may be a problem for society, but it is not a financial problem for today’s investor.
 

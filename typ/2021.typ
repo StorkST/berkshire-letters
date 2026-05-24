@@ -153,7 +153,7 @@ After my initial plunge, I always kept at least 80% of my net worth in equities.
 
 Charlie and I have endured similar cash-heavy positions from time to time in the past. These periods are never pleasant; they are also never permanent. And, fortunately, we have had a mildly attractive alternative during 2020 and 2021 for deploying capital. Read on.
 
-== Share Repurchases
+Share Repurchases
 
 There are three ways that we can increase the value of your investment. The first is always front and center in our minds: Increase the long-term earning power of Berkshire’s controlled businesses through internal growth or by making acquisitions. Today, internal opportunities deliver far better returns than acquisitions. The size of those opportunities, however, is small compared to Berkshire’s resources.
 

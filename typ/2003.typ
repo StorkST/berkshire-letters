@@ -18,7 +18,7 @@ At Berkshire, neither history nor the demands of owners impede intelligent decis
 
 \*All figures used in this report apply to Berkshire’s A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
 
-== Operating Earnings
+Operating Earnings
 
 When valuations are similar, we strongly prefer owning businesses to owning stocks. During most of our years of operation, however, stocks were much the cheaper choice. We therefore sharply tilted our asset allocation in those years toward equities, as illustrated by the percentages cited earlier.
 
@@ -116,7 +116,7 @@ Even so, tax breaks for corporations (and their investors, particularly large on
 
 In 1985, Berkshire paid \$132 million in federal income taxes, and all corporations paid \$61 billion. The comparable amounts in 1995 were \$286 million and \$157 billion respectively. And, as mentioned, we will pay about \$3.3 billion for 2003, a year when all corporations paid \$132 billion. We hope our taxes continue to rise in the future – it will mean we are prospering – but we also hope that the rest of Corporate America antes up along with us. This might be a project for Ms. Olson to work on.
 
-== Corporate Governance
+Corporate Governance
 
 In judging whether Corporate America is serious about reforming itself, CEO pay remains the acid test. To date, the results aren’t encouraging. A few CEOs, such as Jeff Immelt of General Electric, have led the way in initiating programs that are fair to managers and shareholders alike. Generally, however, his example has been more admired than followed.
 
@@ -158,7 +158,7 @@ Finally, a disclaimer. A great many funds have been run well and conscientiously
 
 I am on my soapbox now only because the blatant wrongdoing that has occurred has betrayed the trust of so many millions of shareholders. Hundreds of industry insiders had to know what was going on, yet none publicly said a word. It took Eliot Spitzer, and the whistleblowers who aided him, to initiate a housecleaning. We urge fund directors to continue the job. Like directors throughout Corporate America, these fiduciaries must now decide whether their job is to work for owners or for managers.
 
-== Berkshire Governance
+Berkshire Governance
 
 True independence – meaning the willingness to challenge a forceful CEO when something is wrong or foolish – is an enormously valuable trait in a director. It is also rare. The place to look for it is among high-grade people whose interests are in line with those of rank-and-file shareholders – and are in line in a very big way.
 
@@ -180,7 +180,7 @@ At our directors’ meetings we cover the usual run of housekeeping matters. But
 
 Our board knows that the ultimate scorecard on its performance will be determined by the record of my successor. He or she will need to maintain Berkshire’s culture, allocate capital and keep a group of America’s best managers happy in their jobs. This isn’t the toughest task in the world – the train is already moving at a good clip down the track – and I’m totally comfortable about it being done well by any of the four candidates we have identified. I have more than 99% of my net worth in Berkshire and will be happy to have my wife or foundation (depending on the order in which she and I die) continue this concentration.
 
-== Sector Results
+Sector Results
 
 As managers, Charlie and I want to give our owners the financial information and commentary we would wish to receive if our roles were reversed. To do this with both clarity and reasonable brevity becomes more difficult as Berkshire’s scope widens. Some of our businesses have vastly different economic characteristics from others, which means that our consolidated statements, with their jumble of figures, make useful analysis almost impossible.
 
@@ -505,7 +505,8 @@ The table that follows shows our common stock investments. Those that had a mark
 
 12/31/03 Percentage of Shares Company Company Owned Cost Market
 
-(in \$ millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in \$ millions)]]
 
 #tablebox[
 ```
@@ -604,13 +605,13 @@ At Nebraska Furniture Mart, located on a 77-acre site on 72nd Street between Dod
 
 To get the discount, you must make your purchases between Thursday, April 29 and Monday, May 3 inclusive, and also present your meeting credential. The period’s special pricing will even apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting but that, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday. On Saturday this year, from 5:30 p.m. to 8 p.m., we are having a special affair for shareholders only. I’ll be there, eating barbeque and drinking Coke.
 
-Borsheim’s ⎯ the largest jewelry store in the country except for Tiffany’s Manhattan store ⎯ will have two shareholder-only events. The first will be a cocktail reception from 6 p.m. to 10 p.m. on Friday, April 30. The second, the main gala, will be from 9 a.m. to 4 p.m. on Sunday, May 2. Ask Charlie to autograph your sales ticket.
+Borsheim’s — the largest jewelry store in the country except for Tiffany’s Manhattan store — will have two shareholder-only events. The first will be a cocktail reception from 6 p.m. to 10 p.m. on Friday, April 30. The second, the main gala, will be from 9 a.m. to 4 p.m. on Sunday, May 2. Ask Charlie to autograph your sales ticket.
 
 Shareholder prices will be available Thursday through Monday, so if you wish to avoid the large crowds that will assemble on Friday evening and Sunday, come at other times and identify yourself as a shareholder. On Saturday, we will be open until 6 p.m. Borsheim’s operates on a gross margin that is fully twenty percentage points below that of its major rivals, so the more you buy, the more you save – at least that’s what my wife and daughter tell me. (Both were impressed early in life by the story of the boy who, after missing a street car, walked home and proudly announced that he had saved 5¢ by doing so. His father was irate: “Why didn’t you miss a cab and save 85¢?”)
 
-In the mall outside of Borsheim’s, we will have Bob Hamman and Sharon Osberg, two of the world’s top bridge experts, available to play with our shareholders on Sunday afternoon. Additionally, Patrick Wolff, twice U.S. chess champion, will be in the mall, taking on all comers ⎯ blindfolded! I’ve watched, and he doesn’t peek.
+In the mall outside of Borsheim’s, we will have Bob Hamman and Sharon Osberg, two of the world’s top bridge experts, available to play with our shareholders on Sunday afternoon. Additionally, Patrick Wolff, twice U.S. chess champion, will be in the mall, taking on all comers — blindfolded! I’ve watched, and he doesn’t peek.
 
-Gorat’s ⎯ my favorite steakhouse ⎯ will again be open exclusively for Berkshire shareholders on Sunday, May 2, and will be serving from 4 p.m. until 10 p.m. Please remember that to come to Gorat’s on Sunday, you must have a reservation. To make one, call 402-551-3733 on April 1 (but not before). If Sunday is sold out, try Gorat’s on one of the other evenings you will be in town. Flaunt your mastery of fine dining by ordering, as I do, a rare T-bone with a double order of hash browns.
+Gorat’s — my favorite steakhouse — will again be open exclusively for Berkshire shareholders on Sunday, May 2, and will be serving from 4 p.m. until 10 p.m. Please remember that to come to Gorat’s on Sunday, you must have a reservation. To make one, call 402-551-3733 on April 1 (but not before). If Sunday is sold out, try Gorat’s on one of the other evenings you will be in town. Flaunt your mastery of fine dining by ordering, as I do, a rare T-bone with a double order of hash browns.
 
 We will have a special reception on Saturday afternoon from 4:00 to 5:00 for shareholders who come from outside of North America. Every year our meeting draws many people from around the globe, and Charlie and I want to be sure we personally meet those who have come so far. Any shareholder who comes from other than the U.S. or Canada will be given special credentials and instructions for attending this function.
 

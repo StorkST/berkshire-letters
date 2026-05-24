@@ -68,9 +68,7 @@ We have no way to pinpoint intrinsic value. But we do have a useful, though cons
 
 I also included two tables last year that set forth the key quantitative ingredients that will help you estimate our per-share intrinsic value. I won’t repeat the full discussion here; you can find it reproduced on pages 99-100. To update the tables shown there, our per-share investments in 2011 increased 4% to \$98,366, and our pre-tax earnings from businesses other than insurance and investments increased 18% to \$6,990 per share.
 
-Charlie and I like to see gains in both areas, but our primary focus is on building operating earnings. Over time, the businesses we currently own should increase their aggregate earnings, and we hope also to purchase some large operations that will give us a further boost. We now have eight subsidiaries that would each be included in the Fortune 500 were they stand-alone companies. That leaves only 492 to go. My task is clear, and I’m on the prowl.
-
-== Share Repurchases
+Charlie and I like to see gains in both areas, but our primary focus is on building operating earnings. Over time, the businesses we currently own should increase their aggregate earnings, and we hope also to purchase some large operations that will give us a further boost. We now have eight subsidiaries that would each be included in the Fortune 500 were they stand-alone companies. That leaves only 492 to go. My task is clear, and I’m on the prowl. Share Repurchases
 
 Last September, we announced that Berkshire would repurchase its shares at a price of up to 110% of book value. We were in the market for only a few days – buying \$67 million of stock – before the price advanced beyond our limit. Nonetheless, the general importance of share repurchases suggests I should focus for a bit on the subject.
 
@@ -280,7 +278,8 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . .           3,661
 
 \$66,713 \$66,713
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```

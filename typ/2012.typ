@@ -8,7 +8,7 @@ In 2012, Berkshire achieved a total gain for its shareholders of \$24.1 billion.
 
 A number of good things happened at Berkshire last year, but let’s first get the bad news out of the way.
 
-Š When the partnership I ran took control of Berkshire in 1965, I could never have dreamed that a year in
+- When the partnership I ran took control of Berkshire in 1965, I could never have dreamed that a year in
 
 which we had a gain of \$24.1 billion would be subpar, in terms of the comparison we present on the facing page.
 
@@ -20,7 +20,7 @@ One thing of which you can be certain: Whatever Berkshire’s results, my partne
 
 Charlie and I believe the gain in Berkshire’s intrinsic value will over time likely surpass the S&P returns by a small margin. We’re confident of that because we have some outstanding businesses, a cadre of terrific operating managers and a shareholder-oriented culture. Our relative performance, however, is almost certain to be better when the market is down or flat. In years when the market is particularly strong, expect us to fall short.
 
-Š The second disappointment in 2012 was my inability to make a major acquisition. I pursued a couple of
+- The second disappointment in 2012 was my inability to make a major acquisition. I pursued a couple of
 
 elephants, but came up empty-handed.
 
@@ -34,17 +34,17 @@ Our total investment of about \$12 billion soaks up much of what Berkshire earne
 
 Now to some good news from 2012:
 
-Š Last year I told you that BNSF, Iscar, Lubrizol, Marmon Group and MidAmerican Energy – our five most profitable non-insurance companies – were likely to earn more than \$10 billion pre-tax in 2012. They delivered. Despite tepid U.S. growth and weakening economies throughout much of the world, our “powerhouse five” had aggregate earnings of \$10.1 billion, about \$600 million more than in 2011.
+- Last year I told you that BNSF, Iscar, Lubrizol, Marmon Group and MidAmerican Energy – our five most profitable non-insurance companies – were likely to earn more than \$10 billion pre-tax in 2012. They delivered. Despite tepid U.S. growth and weakening economies throughout much of the world, our “powerhouse five” had aggregate earnings of \$10.1 billion, about \$600 million more than in 2011.
 
 Of this group, only MidAmerican, then earning \$393 million pre-tax, was owned by Berkshire eight years ago. Subsequently, we purchased another three of the five on an all-cash basis. In acquiring the fifth, BNSF, we paid about 70% of the cost in cash, and for the remainder, issued shares that increased the amount outstanding by 6.1%. Consequently, the \$9.7 billion gain in annual earnings delivered Berkshire by the five companies has been accompanied by only minor dilution. That satisfies our goal of not simply growing, but rather increasing per-share results.
 
 Unless the U.S. economy tanks – which we don’t expect – our powerhouse five should again deliver higher earnings in 2013. The five outstanding CEOs who run them will see to that.
 
-Š Though I failed to land a major acquisition in 2012, the managers of our subsidiaries did far better. We had a record year for “bolt-on” purchases, spending about \$2.3 billion for 26 companies that were melded into our existing businesses. These transactions were completed without Berkshire issuing any shares.
+- Though I failed to land a major acquisition in 2012, the managers of our subsidiaries did far better. We had a record year for “bolt-on” purchases, spending about \$2.3 billion for 26 companies that were melded into our existing businesses. These transactions were completed without Berkshire issuing any shares.
 
 Charlie and I love these acquisitions: Usually they are low-risk, burden headquarters not at all, and expand the scope of our proven managers.
 
-Š Our insurance operations shot the lights out last year. While giving Berkshire \$73 billion of free money to invest, they also delivered a \$1.6 billion underwriting gain, the tenth consecutive year of profitable underwriting. This is truly having your cake and eating it too.
+- Our insurance operations shot the lights out last year. While giving Berkshire \$73 billion of free money to invest, they also delivered a \$1.6 billion underwriting gain, the tenth consecutive year of profitable underwriting. This is truly having your cake and eating it too.
 
 GEICO led the way, continuing to gobble up market share without sacrificing underwriting discipline. Since 1995, when we obtained control, GEICO’s share of the personal-auto market has grown from 2.5% to 9.7%. Premium volume meanwhile increased from \$2.8 billion to \$16.7 billion. Much more growth lies ahead.
 
@@ -52,13 +52,13 @@ The credit for GEICO’s extraordinary performance goes to Tony Nicely and his 2
 
 When I count my blessings, I count GEICO twice.
 
-Š Todd Combs and Ted Weschler, our new investment managers, have proved to be smart, models of integrity, helpful to Berkshire in many ways beyond portfolio management, and a perfect cultural fit. We hit the jackpot with these two. In 2012 each outperformed the S&P 500 by double-digit margins. They left me in the dust as well.
+- Todd Combs and Ted Weschler, our new investment managers, have proved to be smart, models of integrity, helpful to Berkshire in many ways beyond portfolio management, and a perfect cultural fit. We hit the jackpot with these two. In 2012 each outperformed the S&P 500 by double-digit margins. They left me in the dust as well.
 
 Consequently, we have increased the funds managed by each to almost \$5 billion (some of this emanating from the pension funds of our subsidiaries). Todd and Ted are young and will be around to manage Berkshire’s massive portfolio long after Charlie and I have left the scene. You can rest easy when they take over.
 
-Š Berkshire’s yearend employment totaled a record 288,462 (see page 106 for details), up 17,604 from last year. Our headquarters crew, however, remained unchanged at 24. No sense going crazy.
+- Berkshire’s yearend employment totaled a record 288,462 (see page 106 for details), up 17,604 from last year. Our headquarters crew, however, remained unchanged at 24. No sense going crazy.
 
-Š Berkshire’s “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo – all had good years. Our ownership interest in each of these companies increased during the year. We purchased additional shares of Wells Fargo (our ownership now is 8.7% versus 7.6% at yearend 2011) and IBM (6.0% versus 5.5%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca-Cola grew from 8.8% to 8.9% and our interest at American Express from 13.0% to 13.7%.
+- Berkshire’s “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo – all had good years. Our ownership interest in each of these companies increased during the year. We purchased additional shares of Wells Fargo (our ownership now is 8.7% versus 7.6% at yearend 2011) and IBM (6.0% versus 5.5%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca-Cola grew from 8.8% to 8.9% and our interest at American Express from 13.0% to 13.7%.
 
 Berkshire’s ownership interest in all four companies is likely to increase in the future. Mae West had it right: “Too much of a good thing can be wonderful.”
 
@@ -68,7 +68,7 @@ Going by our yearend share count, our portion of the “Big Four’s” 2012 ear
 
 The earnings that the four companies retain are often used for repurchases – which enhance our share of future earnings – and also for funding business opportunities that are usually advantageous. Over time we expect substantially greater earnings from these four investees. If we are correct, dividends to Berkshire will increase and, even more important, so will our unrealized capital gains (which, for the four, totaled \$26.7 billion at yearend).
 
-Š There was a lot of hand-wringing last year among CEOs who cried “uncertainty” when faced with capital- allocation decisions (despite many of their businesses having enjoyed record levels of both earnings and cash). At Berkshire, we didn’t share their fears, instead spending a record \$9.8 billion on plant and equipment in 2012, about 88% of it in the United States. That’s 19% more than we spent in 2011, our previous high. Charlie and I love investing large sums in worthwhile projects, whatever the pundits are saying. We instead heed the words from Gary Allan’s new country song, “Every Storm Runs Out of Rain.”
+- There was a lot of hand-wringing last year among CEOs who cried “uncertainty” when faced with capital- allocation decisions (despite many of their businesses having enjoyed record levels of both earnings and cash). At Berkshire, we didn’t share their fears, instead spending a record \$9.8 billion on plant and equipment in 2012, about 88% of it in the United States. That’s 19% more than we spent in 2011, our previous high. Charlie and I love investing large sums in worthwhile projects, whatever the pundits are saying. We instead heed the words from Gary Allan’s new country song, “Every Storm Runs Out of Rain.”
 
 We will keep our foot to the floor and will almost certainly set still another record for capital expenditures in 2013. Opportunities abound in America.
 
@@ -200,13 +200,13 @@ A key characteristic of both companies is their huge investment in very long-liv
 
 Every day, our two subsidiaries power the American economy in major ways:
 
-Š BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
+- BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
 
 truck, rail, water, air, or pipeline. Indeed, we move more ton-miles of goods than anyone else, a fact making BNSF the most important artery in our economy’s circulatory system.
 
 BNSF also moves its cargo in an extraordinarily fuel-efficient and environmentally friendly way, carrying a ton of freight about 500 miles on a single gallon of diesel fuel. Trucks taking on the same job guzzle about four times as much fuel.
 
-Š MidAmerican’s electric utilities serve regulated retail customers in ten states. Only one utility holding
+- MidAmerican’s electric utilities serve regulated retail customers in ten states. Only one utility holding
 
 company serves more states. In addition, we are the leader in renewables: first, from a standing start nine years ago, we now account for 6% of the country’s wind generation capacity. Second, when we complete three projects now under construction, we will own about 14% of U.S. solar-generation capacity.
 
@@ -293,7 +293,8 @@ Other assets . . . . . . . . . . . . . . . . . . . . .       3,416            Be
 
 \$71,433 \$71,433
 
-Earnings Statement (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
 
 #tablebox[
 ```
@@ -318,7 +319,7 @@ In the GAAP-compliant figures we show on page 29, amortization charges of \$600 
 
 A “non-real” amortization charge at Wells Fargo, however, is not highlighted by the company and never, to my knowledge, has been noted in analyst reports. The earnings that Wells Fargo reports are heavily burdened by an “amortization of core deposits” charge, the implication being that these deposits are disappearing at a fairly rapid clip. Yet core deposits regularly increase. The charge last year was about \$1.5 billion. In no sense, except GAAP accounting, is this whopping charge an expense.
 
-And that ends today’s accounting lecture. Why is no one shouting “More, more?”
+== And that ends today’s accounting lecture. Why is no one shouting “More, more?”
 
 #sectionbreak
 
@@ -366,7 +367,8 @@ Berkadia continues to do well. Our partners at Leucadia do most of the work in t
 
 Here’s the pre-tax earnings recap for this sector:
 
-2012 2011
+
+#align(center)[#text(size: 10pt, style: "italic")[2012                   2011]]
 
 #tablebox[
 ```
@@ -432,7 +434,7 @@ In our other major derivatives commitment, we sold long-term puts on four leadin
 
 Berkshire received premiums of \$4.2 billion when we wrote the contracts that remain outstanding. If all of these contracts had come due at yearend 2011, we would have had to pay \$6.2 billion; the corresponding figure at yearend 2012 was \$3.9 billion. With this large drop in immediate settlement liability, we reduced our GAAP liability at yearend 2012 to \$7.5 billion from \$8.5 billion at the end of 2011. Though it’s no sure thing, Charlie and I believe it likely that the final liability will be considerably less than the amount we currently carry on our books. In the meantime, we can invest the \$4.2 billion of float derived from these contracts as we see fit.
 
-We Buy Some Newspapers . . . Newspapers?
+== We Buy Some Newspapers . . . Newspapers?
 
 During the past fifteen months, we acquired 28 daily newspapers at a cost of \$344 million. This may puzzle you for two reasons. First, I have long told you in these letters and at our annual meetings that the circulation, advertising and profits of the newspaper industry overall are certain to decline. That prediction still holds. Second, the properties we purchased fell far short of meeting our oft-stated size requirements for acquisitions.
 

@@ -1,0 +1,10 @@
+{
+  "_comment": "Verbatim text corrections applied during cleaning. Each entry is {year: [[find, replace], ...]}. Applied to the source text BEFORE block parsing. Find string must be unique in the source.",
+
+  "2001": [
+    [
+      "Per-share intrinsic grew somewhat faster than book value during these 37 years",
+      "Per-share intrinsic value grew somewhat faster than book value during these 37 years"
+    ]
+  ]
+}

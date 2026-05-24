@@ -22,7 +22,7 @@ Over the 35 years, American business has delivered terrific results. It should t
 
 There have been three primary causes: first, high costs, usually because investors traded excessively or spent far too much on investment management; second, portfolio decisions based on tips and fads rather than on thoughtful, quantified evaluation of businesses; and third, a start-and-stop approach to the market marked by untimely entries (after an advance has been long underway) and exits (after periods of stagnation or decline). Investors should remember that excitement and expenses are their enemies. And if they insist on trying to time their participation in equities, they should try to be fearful when others are greedy and greedy only when others are fearful.
 
-== Sector Results
+Sector Results
 
 As managers, Charlie and I want to give our owners the financial information and commentary we would wish to receive if our roles were reversed. To do this with both clarity and reasonable brevity becomes more difficult as Berkshire’s scope widens. Some of our businesses have vastly different economic characteristics from others, which means that our consolidated statements, with their jumble of figures, make useful analysis almost impossible.
 
@@ -337,7 +337,8 @@ We show below our common stock investments. Those that had a market value of mor
 
 12/31/04 Percentage of Shares Company Company Owned Cost\* Market
 
-(in \$ millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in \$ millions)]]
 
 #tablebox[
 ```
@@ -409,13 +410,13 @@ The media continue to report that “Buffett buys” this or that stock. Stateme
 
 == Portrait of a Disciplined Investor
 
-== Lou Simpson
+Lou Simpson
 
 Even then, it is typically not I who make the buying decisions. Lou Simpson manages about \$2½ billion of equities that are held by GEICO, and it is his transactions that Berkshire is usually reporting. Customarily his purchases are in the \$200-\$300 million range and are in companies that are smaller than the ones I focus on. Take a look at the facing page to see why Lou is a cinch to be inducted into the investment Hall of Fame.
 
 You may be surprised to learn that Lou does not necessarily inform me about what he is doing. When Charlie and I assign responsibility, we truly hand over the baton – and we give it to Lou just as we do to our operating managers. Therefore, I typically learn of Lou’s transactions about ten days after the end of each month. Sometimes, it should be added, I silently disagree with his decisions. But he’s usually right.
 
-== Foreign Currencies
+Foreign Currencies
 
 Berkshire owned about \$21.4 billion of foreign exchange contracts at yearend, spread among 12 currencies. As I mentioned last year, holdings of this kind are a decided change for us. Before March 2002, neither Berkshire nor I had ever traded in currencies. But the evidence grows that our trade policies will put unremitting pressure on the dollar for many years to come – so since 2002 we’ve heeded that warning in setting our investment course. (As W.C. Fields once said when asked for a handout: “Sorry, son, all my money’s tied up in currency.”)
 

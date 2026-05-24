@@ -336,7 +336,8 @@ We show below our common stock investments. Those that had a market value of mor
 
 12/31/05 Percentage of Shares Company Company Owned Cost\* Market
 
-(in \$ millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in \$ millions)]]
 
 #tablebox[
 ```
@@ -394,7 +395,9 @@ Getting fired can produce a particularly bountiful payday for a CEO. Indeed, he 
 
 Huge severance payments, lavish perks and outsized payments for ho-hum performance often occur because comp committees have become slaves to comparative data. The drill is simple: Three or so directors – not chosen by chance – are bombarded for a few hours before a board meeting with pay statistics that perpetually ratchet upwards. Additionally, the committee is told about new perks that other managers are receiving. In this manner, outlandish “goodies” are showered upon CEOs simply because of a corporate version of the argument we all used when children: “But, Mom, all the other kids have one.” When comp committees follow this “logic,” yesterday’s most egregious excess becomes today’s baseline.
 
-Comp committees should adopt the attitude of Hank Greenberg, the Detroit slugger and a boyhood hero of mine. Hank’s son, Steve, at one time was a player’s agent. Representing an outfielder in negotiations with a major league club, Steve sounded out his dad about the size of the signing bonus he should ask for. Hank, a true pay-for-performance guy, got straight to the point, “What did he hit last year?” When Steve answered “.246,” Hank’s comeback was immediate: “Ask for a uniform.”
+Comp committees should adopt the attitude of Hank Greenberg, the Detroit slugger and a boyhood hero of mine. Hank’s son, Steve, at one time was a player’s agent. Representing an outfielder in negotiations with a major league club, Steve sounded out his dad about the size of the signing bonus he should ask for. Hank, a true pay-for-performance guy, got straight to the point, “What did he hit last year?”
+
+== When Steve answered “.246,” Hank’s comeback was immediate: “Ask for a uniform.”
 
 (Let me pause for a brief confession: In criticizing comp committee behavior, I don’t speak as a true insider. Though I have served as a director of twenty public companies, only one CEO has put me on his comp committee. Hmmmm . . .)
 
@@ -464,7 +467,7 @@ We are quite willing to accept huge risks. Indeed, more than any other insurer, 
 
 Any other approach is dangerous. Over the years, a number of very smart people have learned the hard way that a long string of impressive numbers multiplied by a single zero always equals zero. That is not an equation whose effects I would like to experience personally, and I would like even less to be responsible for imposing its penalties upon others.
 
-== Management Succession
+Management Succession
 
 As owners, you are naturally concerned about whether I will insist on continuing as CEO after I begin to fade and, if so, how the board will handle that problem. You also want to know what happens if I should die tonight.
 

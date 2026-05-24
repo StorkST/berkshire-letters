@@ -306,7 +306,7 @@ Other assets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      
 
 \$71,088 \$71,088
 
-Earnings Statement (in millions)
+== Earnings Statement (in millions)
 
 2014 2013\* 2012\*
 
@@ -367,7 +367,8 @@ One further fact about our rail operation is important for you to know: Unlike m
 
 Here’s the earnings recap for this sector:
 
-2014 2013 2012
+
+#align(center)[#text(size: 10pt, style: "italic")[2014            2013           2012]]
 
 #tablebox[
 ```
@@ -394,7 +395,8 @@ Below we list our fifteen common stock investments that at yearend had the large
 
 Owned
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -648,7 +650,7 @@ Overall, Berkshire’s acquisitions have worked out well – and very well in th
 
 Listening to Charlie has paid off.
 
-== Berkshire Today
+Berkshire Today
 
 Berkshire is now a sprawling conglomerate, constantly trying to sprawl further.
 
@@ -843,7 +845,7 @@ Our directors recommended a “no” vote but the company did not otherwise atte
 
 I am a lucky fellow to have you as partners.
 
-== Warren E. Buffett
+Warren E. Buffett
 
 Vice Chairman’s Thoughts – Past and Future
 
@@ -925,7 +927,7 @@ Well, Buffett, even when only 34 years old, controlled about 45% of Berkshire’
 
 Almost every element was chosen because Buffett believed that, under him, it would help maximize Berkshire’s achievement. He was not trying to create a one-type-fits-all system for other corporations. Indeed, Berkshire’s subsidiaries were not required to use the Berkshire system in their own operations. And some flourished while using different systems.
 
-What was Buffett aiming at as he designed the Berkshire system?
+== What was Buffett aiming at as he designed the Berkshire system?
 
 Well, over the years I diagnosed several important themes:
 
@@ -933,7 +935,7 @@ Well, over the years I diagnosed several important themes:
 
 When Buffett developed the Berkshire system, did he foresee all the benefits that followed? No. Buffett stumbled into some benefits through practice evolution. But, when he saw useful consequences, he strengthened their causes.
 
-Why did Berkshire under Buffett do so well?
+== Why did Berkshire under Buffett do so well?
 
 Only four large factors occur to me:
 
@@ -1008,4 +1010,4 @@ I believe that versions of the Berkshire system should be tried more often elsew
 
 Sincerely,
 
-== Charles T. Munger
+Charles T. Munger

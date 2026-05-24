@@ -11,9 +11,31 @@ Pipeline:
 """
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
+
+CORRECTIONS_PATH = Path(__file__).with_name("corrections.json")
+
+
+def load_corrections(year: int) -> list[tuple[str, str]]:
+    if not CORRECTIONS_PATH.exists():
+        return []
+    data = json.loads(CORRECTIONS_PATH.read_text(encoding="utf-8"))
+    return [tuple(pair) for pair in data.get(str(year), [])]
+
+
+def apply_corrections(text: str, year: int) -> str:
+    for find, replace in load_corrections(year):
+        if find in text:
+            text = text.replace(find, replace, 1)
+        else:
+            print(
+                f"WARNING: correction for year {year} did not match: {find[:60]!r}",
+                file=sys.stderr,
+            )
+    return text
 
 
 RUNNING_HEADER_RE = re.compile(r"^\s*BERKSHIRE\s+HATHAWAY\s+INC\.?\s*$", re.I)
@@ -40,10 +62,12 @@ def is_perf_data(block: list[str]) -> bool:
 
 
 def is_perf_summary(text_lower: str) -> bool:
-    return (
-        "compounded annual gain" in text_lower
-        or "average annual gain" in text_lower
-        or bool(re.search(r"overall gain\s*[–-]\s*19\d\d", text_lower))
+    # The summary phrases must START a line in the perf table — otherwise
+    # they're prose ("For the entire 42 years, our compounded annual gain
+    # in per-share investments was 27.1%").
+    return bool(
+        re.search(r"(?:^|\n)\s*(?:compounded|average) annual gain", text_lower)
+        or re.search(r"(?:^|\n)\s*overall gain\s*[–-]", text_lower)
     )
 
 
@@ -101,12 +125,14 @@ def leading_ws(line: str) -> int:
 PUA_REPLACEMENTS = {
     "": "—",   # em-dash variant used in 2000-era letters
     "": "•",   # alternate bullet
+    "Š": "•",   # bullet glyph emitted in 2012/2013 source font (U+0160)
+    "⎯": "—",   # horizontal line used as em-dash in 2003
 }
 
 
 HEADING_CANDIDATE_RE = re.compile(
-    r"^[A-Z“”\"']"          # starts with cap or opening quote
-    r"[A-Za-z0-9\s,'’“”\"\-–—/&():.]{0,80}$"
+    r"^[A-Z0-9“”\"']"           # starts with cap, digit, or opening quote
+    r"[A-Za-z0-9\s,'’“”\"\-–—/&():.!?]{0,80}$"
 )
 
 
@@ -118,8 +144,17 @@ SIGNATURE_DATE_RE = re.compile(
 SIGNATURE_TITLE_RE = re.compile(
     r"^(?:Chairman|President|Vice\s+Chairman|Chief\s+Executive)\b", re.I
 )
+# A bare "Firstname M. Lastname" — typical signature at end of a section.
+SIGNATURE_NAME_RE = re.compile(
+    r"^[A-Z][a-z]+(?:\s+[A-Z]\.)?\s+[A-Z][a-z]+$"
+)
 MEMO_HEADER_RE = re.compile(
     r"^(?:Date|From|To|Subject|Re|Cc|Bcc)\s*:\s", re.I
+)
+# "(in $ millions) 2024 2023" – column-header line that introduces a table.
+TABLE_COLHEADER_RE = re.compile(
+    r"^\s*\(\s*in\s+(?:\$|US\$|U\.S\.\s*\$|euro|pound|millions|thousands|"
+    r"billions)[^)]*\)", re.I
 )
 
 
@@ -128,9 +163,9 @@ def looks_like_heading_line(line: str) -> bool:
     stripped = line.strip()
     if not (5 <= len(stripped) <= 80):
         return False
-    if stripped.endswith(('.', ',', ';', '?', '!')):
-        return False
-    if stripped.endswith(':'):
+    # Reject sentence-ending punctuation, but allow ! and ? since some
+    # Buffett headings use them ("What is it with Omaha?", "Surprise!").
+    if stripped.endswith(('.', ',', ';', ':')):
         return False
     if "$" in stripped or "%" in stripped:
         return False
@@ -139,13 +174,18 @@ def looks_like_heading_line(line: str) -> bool:
         return False
     if re.search(r"\(\s*\d", stripped):
         return False
-    # Reject signature blocks (date+name or job title at letter close).
+    # Reject signature blocks (date+name, job title, or bare name).
     if SIGNATURE_DATE_RE.match(stripped):
         return False
     if SIGNATURE_TITLE_RE.match(stripped):
         return False
+    if SIGNATURE_NAME_RE.match(stripped):
+        return False
     # Reject memo-style headers (Date:, From:, To:).
     if MEMO_HEADER_RE.match(stripped):
+        return False
+    # Reject table column-header lines like "(in $ millions) 2024 2023".
+    if TABLE_COLHEADER_RE.match(stripped):
         return False
     if not HEADING_CANDIDATE_RE.match(stripped):
         return False
@@ -154,8 +194,12 @@ def looks_like_heading_line(line: str) -> bool:
     if not tokens:
         return False
     stopwords = {
+        # articles, prepositions, conjunctions
         "a", "an", "the", "of", "and", "or", "in", "on", "at", "to", "for",
-        "with", "by", "from", "as", "vs", "into",
+        "with", "by", "from", "as", "vs", "into", "but", "nor", "yet", "so",
+        # short pronouns and to-be verbs (lowercase in many sentence-case heads)
+        "is", "it", "be", "are", "was", "were", "we", "us", "i", "you",
+        "do", "did", "does", "if", "not", "no",
     }
     meaningful = [t for t in tokens if t.lower() not in stopwords]
     if not meaningful:
@@ -168,12 +212,18 @@ def looks_like_heading_line(line: str) -> bool:
         if indent_orig > 4:
             return False
     caps = sum(1 for t in meaningful if t[0].isupper() or t[0].isdigit())
-    return caps / len(meaningful) >= 0.75
+    # Either strict title case (>= 50% caps) OR at least 2 capitalised
+    # meaningful words — handles sentence-case heads with proper nouns,
+    # e.g. "The Bet (or how your money finds its way to Wall Street)".
+    return caps >= 2 or caps / len(meaningful) >= 0.5
 
 
-def normalise(text: str) -> list[str]:
+def normalise(text: str, year: int | None = None) -> list[str]:
     """Drop noise and insert blank lines around structural breaks."""
-    # Stage 0: map private-use glyphs.
+    # Stage 0a: apply manual corrections (e.g. words lost by pdftotext).
+    if year is not None:
+        text = apply_corrections(text, year)
+    # Stage 0b: map private-use glyphs.
     for src, dst in PUA_REPLACEMENTS.items():
         text = text.replace(src, dst)
     raw = text.splitlines()
@@ -318,6 +368,14 @@ def classify_block(block: list[str], next_block: list[str] | None = None) -> str
         return "table"
     if any(BULLET_LINE_RE.match(l) for l in block):
         return "bullet"
+    # Single-line "(in $ millions) ..." block followed by a table → caption.
+    if (
+        len(block) == 1
+        and TABLE_COLHEADER_RE.match(block[0].strip())
+        and next_block is not None
+        and block_has_table_signals(next_block)
+    ):
+        return "caption"
     if len(block) == 1 and looks_like_heading_line(block[0]):
         # Demote to caption only when both (a) the next block is a table AND
         # (b) the line itself reads like a table caption. This preserves real
@@ -398,7 +456,7 @@ def render_para(block: list[str], *, footnote: bool = False) -> str:
 
 
 def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
-    lines = normalise(text)
+    lines = normalise(text, year=year)
     blocks = split_blocks(lines)
 
     pieces: list[str] = [

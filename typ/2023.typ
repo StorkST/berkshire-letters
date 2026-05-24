@@ -259,7 +259,7 @@ Ajit’s achievements since joining Berkshire have been supported by a large cas
 
 Bertie, you can feel good about the fact that you own a piece of an incredible P/C operation that now operates worldwide with unmatched financial resources, reputation and talent. It carried the day in 2023.
 
-What is it with Omaha?
+== What is it with Omaha?
 
 Come to Berkshire’s annual gathering on May 4, 2024. On stage you will see the three managers who now bear the prime responsibilities for steering your company. What, you may wonder, do the three have in common? They certainly don’t look alike. Let’s dig deeper.
 

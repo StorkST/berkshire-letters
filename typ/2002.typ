@@ -140,9 +140,7 @@ Last year our cost of float was 1%. As I mentioned earlier, you should temper yo
 
 Our 2002 results were hurt by 1) a painful charge at General Re for losses that should have been recorded as costs in earlier years, and 2) a “desirable” charge we incur annually for retroactive insurance (see the next section for more about these items). These costs totaled \$1.75 billion, or about 4.6% of float. Fortunately, our overall underwriting experience on 2002 business was excellent, which allowed us, even after the charges noted, to approach a no-cost result.
 
-Absent a megacatastrophe, I expect our cost of float in 2003 to again be very low – perhaps even less than zero. In the rundown of our insurance operations that follows, you will see why I’m optimistic that, over time, our underwriting results will both surpass those achieved by the industry and deliver us investable funds at minimal cost.
-
-== Insurance Operations
+Absent a megacatastrophe, I expect our cost of float in 2003 to again be very low – perhaps even less than zero. In the rundown of our insurance operations that follows, you will see why I’m optimistic that, over time, our underwriting results will both surpass those achieved by the industry and deliver us investable funds at minimal cost. Insurance Operations
 
 If our insurance operations are to generate low-cost float over time, they must: (a) underwrite with unwavering discipline; (b) reserve conservatively; and (c) avoid an aggregation of exposures that would allow a supposedly “impossible” incident to threaten their solvency. All of our major insurance businesses, with one exception, have regularly met those tests.
 
@@ -208,7 +206,8 @@ For the fabulous year they had in 2002, we thank Rod Eldred, John Kizer, Tom Ner
 
 The table that follows shows the main sources of Berkshire’s reported earnings. You will notice that “Purchase-Accounting Adjustments” dropped sharply in 2002, the reason being that GAAP rules changed then, no longer requiring the amortization of goodwill. This change increases our reported earnings, but has no effect on our economic earnings.
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -353,9 +352,7 @@ Last year we were, however, able to make sensible investments in a few “junk�
 
 Investing in junk bonds and investing in stocks are alike in certain ways: Both activities require us to make a price-value calculation and also to scan hundreds of securities to find the very few that have attractive reward/risk ratios. But there are important differences between the two disciplines as well. In stocks, we expect every commitment to work out well because we concentrate on conservatively financed businesses with strong competitive strengths, run by able and honest people. If we buy into these companies at sensible prices, losses should be rare. Indeed, during the 38 years we have run the company’s affairs, gains from the equities we manage at Berkshire (that is, excluding those managed at General Re and GEICO) have exceeded losses by a ratio of about 100 to one.
 
-Purchasing junk bonds, we are dealing with enterprises that are far more marginal. These businesses are usually overloaded with debt and often operate in industries characterized by low returns on capital. Additionally, the quality of management is sometimes questionable. Management may even have interests that are directly counter to those of debtholders. Therefore, we expect that we will have occasional large losses in junk issues. So far, however, we have done reasonably well in this field.
-
-== Corporate Governance
+Purchasing junk bonds, we are dealing with enterprises that are far more marginal. These businesses are usually overloaded with debt and often operate in industries characterized by low returns on capital. Additionally, the quality of management is sometimes questionable. Management may even have interests that are directly counter to those of debtholders. Therefore, we expect that we will have occasional large losses in junk issues. So far, however, we have done reasonably well in this field. Corporate Governance
 
 Both the ability and fidelity of managers have long needed monitoring. Indeed, nearly 2,000 years ago, Jesus Christ addressed this subject, speaking (Luke 16:2) approvingly of “a certain rich man” who told his manager, “Give an account of thy stewardship; for thou mayest no longer be steward.”
 

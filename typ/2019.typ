@@ -128,7 +128,8 @@ One reason we were attracted to the P/C business was the industry’s business m
 
 This collect-now, pay-later model leaves P/C companies holding large sums – money we call “float” – that will eventually go to others. Meanwhile, insurers get to invest this float for their own benefit. Though individual policies and claims come and go, the amount of float an insurer holds usually remains fairly stable in relation to premium volume. Consequently, as our business grows, so does our float. And how it has grown, as the following table shows:
 
-Year Float (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Year                                               Float (in millions)]]
 
 #tablebox[
 ```
@@ -164,7 +165,7 @@ Mistakes in assessing insurance risks can be huge and can take many years – ev
 
 #footnoteblock[\*\* \*\*\*\*\*\*\*\*\*\* Close your eyes for a moment and try to envision a locale that might spawn a dynamic P/C insurer. New York? London? Silicon Valley?]
 
-How about Wilkes-Barre?
+== How about Wilkes-Barre?
 
 Late in 2012, Ajit Jain, the invaluable manager of our insurance operations, called to tell me that he was buying a tiny company – GUARD Insurance Group – in that small Pennsylvania city for \$221 million (roughly its net worth at the time). He added that Sy Foguel, GUARD’s CEO, was going to be a star at Berkshire. Both GUARD and Sy were new names to me.
 
@@ -299,7 +300,7 @@ At Berkshire, we will continue to look for business-savvy directors who are owne
 
 Those objectives are not new. They were the goals of able CEOs sixty years ago and remain so. Who would have it otherwise?
 
-== Short Subjects
+Short Subjects
 
 In past reports, we’ve discussed both the sense and nonsense of stock repurchases. Our thinking, boiled down: Berkshire will buy back its stock only if a) Charlie and I believe that it is selling for less than it is worth and b) the company, upon completing the repurchase, is left with ample cash.
 

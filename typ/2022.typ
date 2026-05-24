@@ -91,7 +91,7 @@ Finally, an important warning: Even the operating earnings figure that we favor 
 
 That activity is disgusting. It requires no talent to manipulate numbers: Only a deep desire to deceive is required. “Bold imaginative accounting,” as a CEO once described his deception to me, has become one of the shames of capitalism.
 
-58 Years – and a Few Figures
+== 58 Years – and a Few Figures
 
 In 1965, Berkshire was a one-trick pony, the owner of a venerable – but doomed – New England textile operation. With that business on a death march, Berkshire needed an immediate fresh start. Looking back, I was slow to recognize the severity of its problems.
 

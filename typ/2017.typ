@@ -56,17 +56,17 @@ When driving on the Interstate, drop in. PFJ sells gasoline as well as diesel fu
 
 Let’s move now to bolt-on acquisitions. Some of these were small transactions that I will not detail. Here is an account, however, of a few larger purchases whose closings stretched between late 2016 and early 2018.
 
-Š Clayton Homes acquired two builders of conventional homes during 2017, a move that more than doubled our presence in a field we entered only three years ago. With these additions – Oakwood Homes in Colorado and Harris Doyle in Birmingham – I expect our 2018 site built volume will exceed \$1 billion.
+- Clayton Homes acquired two builders of conventional homes during 2017, a move that more than doubled our presence in a field we entered only three years ago. With these additions – Oakwood Homes in Colorado and Harris Doyle in Birmingham – I expect our 2018 site built volume will exceed \$1 billion.
 
 Clayton’s emphasis, nonetheless, remains manufactured homes, both their construction and their financing. In 2017 Clayton sold 19,168 units through its own retail operation and wholesaled another 26,706 units to independent retailers. All told, Clayton accounted for 49% of the manufactured-home market last year. That industry-leading share – about three times what our nearest competitor did – is a far cry from the 13% Clayton achieved in 2003, the year it joined Berkshire.
 
 Both Clayton Homes and PFJ are based in Knoxville, where the Clayton and Haslam families have long been friends. Kevin Clayton’s comments to the Haslams about the advantages of a Berkshire affiliation, and his admiring comments about the Haslam family to me, helped cement the PFJ deal.
 
-Š Near the end of 2016, Shaw Industries, our floor coverings business, acquired U.S. Floors (“USF”), a rapidly growing distributor of luxury vinyl tile. USF’s managers, Piet Dossche and Philippe Erramuzpe, came out of the gate fast, delivering a 40% increase in sales in 2017, during which their operation was integrated with Shaw’s. It’s clear that we acquired both great human assets and business assets in making the USF purchase.
+- Near the end of 2016, Shaw Industries, our floor coverings business, acquired U.S. Floors (“USF”), a rapidly growing distributor of luxury vinyl tile. USF’s managers, Piet Dossche and Philippe Erramuzpe, came out of the gate fast, delivering a 40% increase in sales in 2017, during which their operation was integrated with Shaw’s. It’s clear that we acquired both great human assets and business assets in making the USF purchase.
 
 Vance Bell, Shaw’s CEO, originated, negotiated and completed this acquisition, which increased Shaw’s sales to \$5.7 billion in 2017 and its employment to 22,000. With the purchase of USF, Shaw has substantially strengthened its position as an important and durable source of earnings for Berkshire.
 
-Š I have told you several times about HomeServices, our growing real estate brokerage operation. Berkshire backed into this business in 2000 when we acquired a majority interest in MidAmerican Energy (now named Berkshire Hathaway Energy). MidAmerican’s activities were then largely in the electric utility field, and I originally paid little attention to HomeServices.
+- I have told you several times about HomeServices, our growing real estate brokerage operation. Berkshire backed into this business in 2000 when we acquired a majority interest in MidAmerican Energy (now named Berkshire Hathaway Energy). MidAmerican’s activities were then largely in the electric utility field, and I originally paid little attention to HomeServices.
 
 But, year-by-year, the company added brokers and, by the end of 2016, HomeServices was the second-largest brokerage operation in the country – still ranking, though, far behind the leader, Realogy. In 2017, however, HomeServices’ growth exploded. We acquired the industry’s third-largest operator, Long and Foster; number 12, Houlihan Lawrence; and Gloria Nilson.
 
@@ -74,7 +74,7 @@ With those purchases we added 12,300 agents, raising our total to 40,950. HomeSe
 
 Despite its recent acquisitions, HomeServices is on track to do only about 3% of the country’s home- brokerage business in 2018. That leaves 97% to go. Given sensible prices, we will keep adding brokers in this most fundamental of businesses.
 
-Š Finally, Precision Castparts, a company built through acquisitions, bought Wilhelm Schulz GmbH, a German maker of corrosion resistant fittings, piping systems and components. Please allow me to skip a further explanation. I don’t understand manufacturing operations as well as I do the activities of real estate brokers, home builders or truck stops.
+- Finally, Precision Castparts, a company built through acquisitions, bought Wilhelm Schulz GmbH, a German maker of corrosion resistant fittings, piping systems and components. Please allow me to skip a further explanation. I don’t understand manufacturing operations as well as I do the activities of real estate brokers, home builders or truck stops.
 
 Fortunately, I don’t need in this instance to bring knowledge to the table: Mark Donegan, CEO of Precision, is an extraordinary manufacturing executive, and any business in his domain is slated to do well. Betting on people can sometimes be more certain than betting on physical assets.
 
@@ -164,7 +164,8 @@ Below we list our fifteen common stock investments that at yearend had the large
 
 12/31/17 Percentage of Company Shares\* Company Owned Cost\*\* Market
 
-(in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[(in millions)]]
 
 #tablebox[
 ```
@@ -271,6 +272,8 @@ Fund-of- Fund-of- Fund-of- Fund-of- Fund-of- S&P Year Funds A Funds B Funds C Fu
 Final Gain 21.7% 42.3% 87.7% 2.8% 27.0% 125.8% Average Annual Gain 2.0% 3.6% 6.5% 0.3% 2.4% 8.5%
 
 Footnote: Under my agreement with Protégé Partners, the names of these funds-of-funds have never been publicly
+
+disclosed. I, however, have received their annual audits from Protégé. The 2016 figures for funds A, B and C were revised slightly from those originally reported last year. Fund D was liquidated in 2017; its average annual gain is calculated for the nine years of its operation. The five funds-of-funds got off to a fast start, each beating the index fund in 2008. Then the roof fell in. In every one of the nine years that followed, the funds-of-funds as a whole trailed the index fund.
 
 Let me emphasize that there was nothing aberrational about stock-market behavior over the ten-year stretch. If a poll of investment “experts” had been asked late in 2007 for a forecast of long-term common-stock returns, their guesses would have likely averaged close to the 8.5% actually delivered by the S&P 500. Making money in that environment should have been easy. Indeed, Wall Street “helpers” earned staggering sums. While this group prospered, however, many of their investors experienced a lost decade.
 
