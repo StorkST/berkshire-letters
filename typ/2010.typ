@@ -56,9 +56,33 @@ Berkshire’s second component of value is earnings that come from sources other
 
 The following tables illustrate this shift. In the first table, we present per-share investments at decade intervals beginning in 1970, three years after we entered the insurance business. We exclude those investments applicable to minority interests.
 
+#tablebox[
+```
+                                                           Per-Share                      Compounded Annual Increase
+          Yearend                                         Investments         Period        in Per-Share Investments
+          1970 . . . . . . . . . . . . . . . . . . .       $     66
+          1980 . . . . . . . . . . . . . . . . . . .            754         1970-1980                27.5%
+          1990 . . . . . . . . . . . . . . . . . . .          7,798         1980-1990                26.3%
+          2000 . . . . . . . . . . . . . . . . . . .         50,229         1990-2000                20.5%
+          2010 . . . . . . . . . . . . . . . . . . .         94,730         2000-2010                 6.6%
+```
+]
+
 Though our compounded annual increase in per-share investments was a healthy 19.9% over the 40-year period, our rate of increase has slowed sharply as we have focused on using funds to buy operating businesses.
 
 The payoff from this shift is shown in the following table, which illustrates how earnings of our non-insurance businesses have increased, again on a per-share basis and after applicable minority interests.
+
+#tablebox[
+```
+                                               Per-Share                                Compounded Annual Increase in
+          Year                              Pre-Tax Earnings                Period       Per-Share Pre-Tax Earnings
+          1970 . . . . . . . . . . . .            $        2.87
+          1980 . . . . . . . . . . . .                    19.01         1970-1980                   20.8%
+          1990 . . . . . . . . . . . .                   102.58         1980-1990                   18.4%
+          2000 . . . . . . . . . . . .                   918.66         1990-2000                   24.5%
+          2010 . . . . . . . . . . . .                 5,926.04         2000-2010                   20.5%
+```
+]
 
 For the forty years, our compounded annual gain in pre-tax, non-insurance earnings per share is 21.0%. During the same period, Berkshire’s stock price increased at a rate of 22.1% annually. Over time, you can expect our stock price to move in rough tandem with Berkshire’s investments and earnings. Market price and intrinsic value often follow very different paths – sometimes for extended periods – but eventually they meet.
 
@@ -137,6 +161,18 @@ We will look first at insurance, Berkshire’s core operation and the engine tha
 == Insurance
 
 Property-casualty (“P/C”) insurers receive premiums upfront and pay claims later. In extreme cases, such as those arising from certain workers’ compensation accidents, payments can stretch over decades. This collect-now, pay-later model leaves us holding large sums – money we call “float” – that will eventually go to others. Meanwhile, we get to invest this float for Berkshire’s benefit. Though individual policies and claims come and go, the amount of float we hold remains remarkably stable in relation to premium volume. Consequently, as our business grows, so does our float. And how we have grown: Just take a look at the following table:
+
+#tablebox[
+```
+                                                                                                                Float
+                    Yearend                                                                                (in $ millions)
+                    1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      $    39
+                    1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          237
+                    1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        1,632
+                    2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       27,871
+                    2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       65,832
+```
+]
 
 If our premiums exceed the total of our expenses and eventual losses, we register an underwriting profit that adds to the investment income that our float produces. When such a profit occurs, we enjoy the use of free money – and, better yet, get paid for holding it. Alas, the wish of all insurers to achieve this happy result creates intense competition, so vigorous in most years that it causes the P/C industry as a whole to operate at a significant underwriting loss. This loss, in effect, is what the industry pays to hold its float. For example, State Farm, by far the country’s largest insurer and a well-managed company, has incurred an underwriting loss in seven of the last ten years. During that period, its aggregate underwriting loss was more than \$20 billion.
 
@@ -308,6 +344,18 @@ We finance more manufactured-home buyers than any other company. Our experience,
 Clayton owns 200,804 mortgages that it originated. (It also has some mortgage portfolios that it purchased.) At the origination of these contracts, the average FICO score of our borrowers was 648, and 47% were 640 or below. Your banker will tell you that people with such scores are generally regarded as questionable credits.
 
 Nevertheless, our portfolio has performed well during conditions of stress. Here’s our loss experience during the last five years for originated loans:
+
+#tablebox[
+```
+                                                                                       Net Losses as a Percentage
+                    Year                                                                    of Average Loans
+                    2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1.53%
+                    2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1.27%
+                    2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1.17%
+                    2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1.86%
+                    2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             1.72%
+```
+]
 
 Our borrowers get in trouble when they lose their jobs, have health problems, get divorced, etc. The recession has hit them hard. But they want to stay in their homes, and generally they borrowed sensible amounts in relation to their income. In addition, we were keeping the originated mortgages for our own account, which means we were not securitizing or otherwise reselling them. If we were stupid in our lending, we were going to pay the price. That concentrates the mind.
 

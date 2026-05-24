@@ -40,9 +40,11 @@ def apply_corrections(text: str, year: int) -> str:
 
 RUNNING_HEADER_RE = re.compile(r"^\s*BERKSHIRE\s+HATHAWAY\s+INC\.?\s*$", re.I)
 PAGE_NUMBER_RE = re.compile(r"^\s*\d{1,3}\s*$")
-SEP_LINE_RE = re.compile(r"^\s*\*{3,}\s*$")
-# Dot leader: four or more dots separated by optional single spaces.
-DOT_LEADER_RE = re.compile(r"(?:\.\s?){4,}\.")
+SEP_LINE_RE = re.compile(r"^\s*\*(?:\s*\*){2,}\s*$")
+# Dot leader: a long run of dots used as a table-row leader. Set the
+# threshold high enough to skip prose ellipsis (Buffett uses 4-6 dots to
+# elide quoted material).
+DOT_LEADER_RE = re.compile(r"(?:\.\s?){8,}\.")
 BULLET_LINE_RE = re.compile(r"^\s*(?:‹|•|·)\s+")
 FOOTNOTE_RE = re.compile(r"^\s*\*+\s+\S")
 SHAREHOLDERS_INTRO_RE = re.compile(
@@ -57,8 +59,15 @@ PERF_TITLE_KEYWORDS = ("performance", "corporate performance")
 
 
 def is_perf_data(block: list[str]) -> bool:
-    year_rows = sum(1 for l in block if PERF_YEAR_ROW_RE.match(l))
-    return year_rows >= 5
+    """The 60-year Berkshire-vs-S&P perf table has many consecutive year rows
+    starting at 1965 (Berkshire's founding). Other multi-year tables in the
+    letters (NICO Portrait 1980-2004, per-decade Per-Share Investments) do
+    not start at 1965, or have far fewer rows.
+    """
+    year_rows = [l for l in block if PERF_YEAR_ROW_RE.match(l)]
+    if len(year_rows) < 20:
+        return False
+    return year_rows[0].lstrip().startswith("1965")
 
 
 def is_perf_summary(text_lower: str) -> bool:
@@ -621,6 +630,19 @@ def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
     return "\n".join(pieces), perf_blocks
 
 
+def _strip_perf_table_header(block: list[str]) -> list[str]:
+    """Drop the column-header rows from a perf-data block; keep only the
+    data rows (lines starting with a year)."""
+    out: list[str] = []
+    seen_data = False
+    for line in block:
+        if PERF_YEAR_ROW_RE.match(line):
+            seen_data = True
+        if seen_data:
+            out.append(line)
+    return out
+
+
 def render_appendix(perf_blocks: list[list[str]]) -> str:
     pieces = [
         '#import "_helpers.typ": *\n',
@@ -636,6 +658,7 @@ def render_appendix(perf_blocks: list[list[str]]) -> str:
             "[berkshirehathaway.com/letters].\n"
         ),
     ]
+    data_blocks_seen = 0
     for block in perf_blocks:
         low = " ".join(block).lower()
         if is_perf_notes(low) and not is_perf_data(block):
@@ -643,6 +666,13 @@ def render_appendix(perf_blocks: list[list[str]]) -> str:
         elif is_perf_title(block):
             text = typst_escape(" ".join(block).strip())
             pieces.append(f"\n#align(center)[#text(size: 11pt, weight: \"bold\")[{text}]]\n")
+        elif is_perf_data(block):
+            data_blocks_seen += 1
+            if data_blocks_seen > 1:
+                # Drop the duplicated column-header rows on subsequent halves
+                # of the same table.
+                block = _strip_perf_table_header(block)
+            pieces.append(render_table(block))
         else:
             pieces.append(render_table(block))
     return "\n".join(pieces)

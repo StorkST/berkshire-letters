@@ -38,11 +38,37 @@ There are two statistics, however, that are of real importance. The first is the
 
 Year Per-Share Investments\*
 
+#tablebox[
+```
+                   1965 .....................................................................   $     4
+                   1975 .....................................................................       159
+                   1985 .....................................................................     2,407
+                   1995 .....................................................................    21,817
+                   2006 .....................................................................   $80,636
+                   Compound Growth Rate 1965-2006....................                             27.5%
+                   Compound Growth Rate 1995-2006....................                             12.6%
+                  *Net of minority interests
+```
+]
+
 In our early years we put most of our retained earnings and insurance float into investments in marketable securities. Because of this emphasis, and because the securities we purchased generally did well, our growth rate in investments was for a long time quite high.
 
 Over the years, however, we have focused more and more on the acquisition of operating businesses. Using our funds for these purchases has both slowed our growth in investments and accelerated our gains in pre-tax earnings from non-insurance businesses, the second yardstick we use. Here’s how those earnings have looked:
 
 Year Pre-Tax Earnings Per Share\*
+
+#tablebox[
+```
+         1965 ..................................................................... $     4
+         1975 .....................................................................       4
+         1985 .....................................................................      52
+         1995 .....................................................................     175
+         2006 .....................................................................  $3,625
+         Compound Growth Rate 1965-2006 ....................                          17.9%
+         Compound Growth Rate 1995-2006 ....................                          31.7%
+        *Excluding purchase-accounting adjustments and net of minority interests
+```
+]
 
 Last year we had a good increase in non-insurance earnings – 38%. Large gains from here on in, though, will come only if we are able to make major, and sensible, acquisitions. That will not be easy. We do, however, have one advantage: More and more, Berkshire has become “the buyer of choice” for business owners and managers. Initially, we were viewed that way only in the U.S. (and more often than not by private companies). We’ve long wanted, nonetheless, to extend Berkshire’s appeal beyond U.S. borders. And last year, our globe-trotting finally got underway.
 

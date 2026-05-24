@@ -24,9 +24,35 @@ Before we look at our individual businesses, however, let’s review two sets of
 
 Year Per-Share Investments\*
 
+#tablebox[
+```
+                  1965 .....................................................................   $     4
+                  1975 .....................................................................       159
+                  1985 .....................................................................     2,407
+                  1995 .....................................................................    21,817
+                  2005 .....................................................................   $74,129
+                  Compound Growth Rate 1965-2005....................                             28.0%
+                  Compound Growth Rate 1995-2005....................                             13.0%
+                 *Net of minority interests
+```
+]
+
 In addition to these marketable securities, which with minor exceptions are held in our insurance companies, we own a wide variety of non-insurance businesses. Below, we show the pre-tax earnings (excluding goodwill amortization) of these businesses, again on a per-share basis:
 
 Year Per-Share Earnings\*
+
+#tablebox[
+```
+                  1965 .....................................................................   $        4
+                  1975 .....................................................................            4
+                  1985 .....................................................................           52
+                  1995 .....................................................................          175
+                  2005 .....................................................................       $2,441
+                  Compound Growth Rate 1965-2005....................                                17.2%
+                  Compound Growth Rate 1995-2005....................                                30.2%
+                 *Pre-tax and net of minority interests
+```
+]
 
 When growth rates are under discussion, it will pay you to be suspicious as to why the beginning and terminal years have been selected. If either year was aberrational, any calculation of growth will be distorted. In particular, a base year in which earnings were poor can produce a breathtaking, but meaningless, growth rate. In the table above, however, the base year of 1965 was abnormally good; Berkshire earned more money in that year than it did in all but one of the previous ten.
 

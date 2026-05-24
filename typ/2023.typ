@@ -54,17 +54,7 @@ Among its disclosures many owners, along with financial reporters, will focus on
 
 What in the world is going on?
 
-#tablebox[
-```
-         You seek guidance and are told that the procedures for calculating these “earnings” are
-promulgated by a sober and credentialed Financial Accounting Standards Board (“FASB”),
-mandated by a dedicated and hard-working Securities and Exchange Commission (“SEC”) and
-audited by the world-class professionals at Deloitte & Touche (“D&T”). On page K-67, D&T pulls
-no punches: “In our opinion, the financial statements . . . . . present fairly, in all material respects
-(italics mine), the financial position of the Company . . . . . and the results of its operations . . . . .
-for each of the three years in the period ended December 31, 2023 . . . . .”
-```
-]
+You seek guidance and are told that the procedures for calculating these “earnings” are promulgated by a sober and credentialed Financial Accounting Standards Board (“FASB”), mandated by a dedicated and hard-working Securities and Exchange Commission (“SEC”) and audited by the world-class professionals at Deloitte & Touche (“D&T”). On page K-67, D&T pulls no punches: “In our opinion, the financial statements . . . . . present fairly, in all material respects (italics mine), the financial position of the Company . . . . . and the results of its operations . . . . . for each of the three years in the period ended December 31, 2023 . . . . .”
 
 So sanctified, this worse-than-useless “net income” figure quickly gets transmitted throughout the world via the internet and media. All parties believe they have done their job – and, legally, they have.
 

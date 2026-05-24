@@ -44,7 +44,12 @@
   pagebreak(weak: true)
   v(1fr)
   align(center)[
-    #text(size: 30pt, weight: "regular", tracking: 0.15em)[#it.body]
+    #text(
+      size: 26pt,
+      weight: "regular",
+      tracking: 0.08em,
+      hyphenate: false,
+    )[#it.body]
   ]
   v(1fr)
   pagebreak(weak: true)

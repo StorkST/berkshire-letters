@@ -97,6 +97,36 @@ Most American businesses harbor an “institutional imperative” that rejects e
 
 Underwriting Profit Ratio of (Loss) as a Per- No. of Operating Expenses centage of Premiums Written Premium Employees at to (Calculated as of Year (In \$ millions) Year-End Written Premium year end 2004)\*
 
+#tablebox[
+```
+    1980     ...........................        $79.6                 372              32.3%                 8.2%
+    1981     ...........................         59.9                 353              36.1%                 (.8%)
+    1982     ...........................         52.5                 323              36.7%               (15.3%)
+    1983     ...........................         58.2                 308              35.6%               (18.7%)
+    1984     ...........................         62.2                 342              35.5%               (17.0%)
+    1985     ...........................        160.7                 380              28.0%                 1.9%
+    1986     ...........................        366.2                 403              25.9%                30.7%
+    1987     ...........................        232.3                 368              29.5%                27.3%
+    1988     ...........................        139.9                 347              31.7%                24.8%
+    1989     ...........................         98.4                 320              35.9%                14.8%
+    1990     ...........................         87.8                 289              37.4%                 7.0%
+    1991     ...........................         88.3                 284              35.7%                13.0%
+    1992     ...........................         82.7                 277              37.9%                 5.2%
+    1993     ...........................         86.8                 279              36.1%                11.3%
+    1994     ...........................         85.9                 263              34.6%                 4.6%
+    1995     ...........................         78.0                 258              36.6%                 9.2%
+    1996     ...........................         74.0                 243              36.5%                 6.8%
+    1997     ...........................         65.3                 240              40.4%                 6.2%
+    1998     ...........................         56.8                 231              40.4%                 9.4%
+    1999     ...........................         54.5                 222              41.2%                 4.5%
+    2000     ...........................         68.1                 230              38.4%                 2.9%
+    2001     ...........................        161.3                 254              28.8%               (11.6%)
+    2002     ...........................        343.5                 313              24.0%                16.8%
+    2003     ...........................        594.5                 337              22.2%                18.1%
+    2004     ...........................        605.6                 340              22.5%                 5.1%
+```
+]
+
 \*It takes a long time to learn the true profitability of any given year. First, many claims are received after the end of the year, and we must estimate how many of these there will be and what they will cost. (In insurance jargon, these claims are termed IBNR – incurred but not reported.) Second, claims often take years, or even decades, to settle, which means there can be many surprises along the way.
 
 For these reasons, the results in this column simply represent our best estimate at the end of 2004 as to how we have done in prior years. Profit margins for the years through 1999 are probably close to correct because these years are “mature,” in the sense that they have few claims still outstanding. The more recent the year, the more guesswork is involved. In particular, the results shown for 2003 and 2004 are apt to change significantly.
@@ -360,6 +390,38 @@ The media continue to report that “Buffett buys” this or that stock. Stateme
 == Portrait of a Disciplined Investor
 
 Lou Simpson
+
+#tablebox[
+```
+                                                             Return from
+ Year                                                       GEICO Equities   S&P Return   Relative Results
+ 1980    ................................................      23.7%           32.3%          (8.6%)
+ 1981    ................................................       5.4%           (5.0%)         10.4%
+ 1982    ................................................      45.8%           21.4%          24.4%
+ 1983    ................................................      36.0%           22.4%          13.6%
+ 1984    ................................................      21.8%            6.1%          15.7%
+ 1985    ................................................      45.8%           31.6%          14.2%
+ 1986    ................................................      38.7%           18.6%          20.1%
+ 1987    ................................................     (10.0%)           5.1%         (15.1%)
+ 1988    ................................................      30.0%           16.6%          13.4%
+ 1989    ................................................      36.1%           31.7%           4.4%
+ 1990    ................................................      (9.9%)          (3.1%)         (6.8%)
+ 1991    ................................................      56.5%           30.5%          26.0%
+ 1992    ................................................      10.8%            7.6%           3.2%
+ 1993    ................................................       4.6%           10.1%          (5.5%)
+ 1994    ................................................      13.4%            1.3%          12.1%
+ 1995    ................................................      39.8%           37.6%           2.2%
+ 1996    ................................................      29.2%           23.0%           6.2%
+ 1997    ................................................      24.6%           33.4%          (8.8%)
+ 1998    ................................................      18.6%           28.6%         (10.0%)
+ 1999    ................................................       7.2%           21.0%         (13.8%)
+ 2000    ................................................      20.9%           (9.1%)         30.0%
+ 2001    ................................................       5.2%          (11.9%)         17.1%
+ 2002    ................................................      (8.1%)         (22.1%)         14.0%
+ 2003    ................................................      38.3%           28.7%           9.6%
+ 2004    ................................................      16.9%           10.9%           6.0%
+```
+]
 
 Even then, it is typically not I who make the buying decisions. Lou Simpson manages about \$2½ billion of equities that are held by GEICO, and it is his transactions that Berkshire is usually reporting. Customarily his purchases are in the \$200-\$300 million range and are in companies that are smaller than the ones I focus on. Take a look at the facing page to see why Lou is a cinch to be inducted into the investment Hall of Fame.
 

@@ -157,7 +157,9 @@ As I have repeatedly done in the past, I will emphasize now that happy outcomes 
 
 Mistakes in assessing insurance risks can be huge and can take many years – even decades – to surface and ripen. (Think asbestos.) A major catastrophe that will dwarf hurricanes Katrina and Michael will occur – perhaps tomorrow, perhaps many decades from now. “The Big One” may come from a traditional source, such as wind or earthquake, or it may be a total surprise involving, say, a cyber attack having disastrous consequences beyond anything insurers now contemplate. When such a mega-catastrophe strikes, Berkshire will get its share of the losses and they will be big – very big. Unlike many other insurers, however, handling the loss will not come close to straining our resources, and we will be eager to add to our business the next day.
 
-#footnoteblock[\*\* \*\*\*\*\*\*\*\*\*\* Close your eyes for a moment and try to envision a locale that might spawn a dynamic P/C insurer. New York? London? Silicon Valley?]
+#sectionbreak
+
+Close your eyes for a moment and try to envision a locale that might spawn a dynamic P/C insurer. New York? London? Silicon Valley?
 
 == How about Wilkes-Barre?
 

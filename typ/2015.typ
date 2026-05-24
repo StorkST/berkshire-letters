@@ -350,12 +350,7 @@ Below we list our fifteen common stock investments that at yearend had the large
 ```
 ]
 
-#tablebox[
-```
-                 Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     10,276         16,450
-                 Total Common Stocks Carried at Market . . . . . . . .                                           $ 58,612      $ 112,338
-```
-]
+Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10,276 16,450 Total Common Stocks Carried at Market . . . . . . . . \$ 58,612 \$ 112,338
 
 #footnoteblock[\* This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of write-]
 
