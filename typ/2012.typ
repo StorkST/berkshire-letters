@@ -172,7 +172,8 @@ In addition to our three major insurance operations, we own a group of smaller c
 
 Late in 2012, we enlarged this group by acquiring Guard Insurance, a Wilkes-Barre company that writes workers compensation insurance, primarily for smaller businesses. Guard’s annual premiums total about \$300 million. The company has excellent prospects for growth in both its traditional business and new lines it has begun to offer.
 
-== Underwriting Profit            Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit            Yearend Float]]
 
 #tablebox[
 ```
@@ -267,7 +268,8 @@ Ron Peltier has done an outstanding job in managing HomeServices during a depres
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/12 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/12 (in millions)]]
 
 #tablebox[
 ```
@@ -387,7 +389,7 @@ Below we show our common stock investments that at yearend had a market value of
 
 12/31/12 Percentage of Shares Company Company Cost\* Market
 
-== Owned
+Owned
 
 #tablebox[
 ```

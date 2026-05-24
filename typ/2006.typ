@@ -177,7 +177,8 @@ Aren’t you glad that I promised you there would be no quiz?
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/06 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/06 (in millions)]]
 
 #tablebox[
 ```

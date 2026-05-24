@@ -173,7 +173,8 @@ At yearend, we acquired Princeton Insurance, a New Jersey writer of medical malp
 
 Here is the record of all four segments of our property-casualty and life insurance businesses:
 
-== Underwriting Profit            Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit            Yearend Float]]
 
 #tablebox[
 ```
@@ -254,7 +255,8 @@ In the book value recorded on our balance sheet, BNSF and MidAmerican carry subs
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/11 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/11 (in millions)]]
 
 #tablebox[
 ```
@@ -383,7 +385,7 @@ Below we show our common stock investments that at yearend had a market value of
 
 12/31/11 Percentage of Shares Company Company Cost\* Market
 
-== Owned
+Owned
 
 #tablebox[
 ```

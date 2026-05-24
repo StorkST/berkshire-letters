@@ -156,7 +156,8 @@ The best anecdote I’ve heard during the current presidential campaign came fro
 
 When we first entered the property/casualty insurance business in 1967, my wildest dreams did not envision our current operation. Here’s how we did in the first five years after purchasing National Indemnity:
 
-== Year        Underwriting Profit (Loss)            Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Year        Underwriting Profit (Loss)            Float]]
 
 #tablebox[
 ```
@@ -171,7 +172,8 @@ When we first entered the property/casualty insurance business in 1967, my wilde
 
 To put it charitably, we were a slow starter. But things changed. Here’s the record of the last five years:
 
-== Year        Underwriting Profit (Loss)           Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Year        Underwriting Profit (Loss)           Float]]
 
 #tablebox[
 ```
@@ -212,7 +214,8 @@ Last year BoatU.S., headed by Bill Oakerson, was added to the group. This compan
 
 Below we show the record of our four categories of property/casualty insurance.
 
-== Underwriting Profit                      Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit                      Yearend Float]]
 
 #tablebox[
 ```
@@ -272,7 +275,8 @@ In 2007, MidAmerican earned \$15.78 per share. However, 77¢ of that was non-rec
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/07 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/07 (in millions)]]
 
 #tablebox[
 ```

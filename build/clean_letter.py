@@ -118,6 +118,9 @@ SIGNATURE_DATE_RE = re.compile(
 SIGNATURE_TITLE_RE = re.compile(
     r"^(?:Chairman|President|Vice\s+Chairman|Chief\s+Executive)\b", re.I
 )
+MEMO_HEADER_RE = re.compile(
+    r"^(?:Date|From|To|Subject|Re|Cc|Bcc)\s*:\s", re.I
+)
 
 
 def looks_like_heading_line(line: str) -> bool:
@@ -141,6 +144,9 @@ def looks_like_heading_line(line: str) -> bool:
         return False
     if SIGNATURE_TITLE_RE.match(stripped):
         return False
+    # Reject memo-style headers (Date:, From:, To:).
+    if MEMO_HEADER_RE.match(stripped):
+        return False
     if not HEADING_CANDIDATE_RE.match(stripped):
         return False
     # Most non-stopword tokens should start with a capital letter.
@@ -154,6 +160,13 @@ def looks_like_heading_line(line: str) -> bool:
     meaningful = [t for t in tokens if t.lower() not in stopwords]
     if not meaningful:
         return False
+    # A single-word heading is OK only when flush-left (real section heading
+    # at column 0). Otherwise it's almost certainly a column header in a
+    # table ("Owned", "Average", "Gain to").
+    if len(meaningful) < 2:
+        indent_orig = len(line) - len(line.lstrip(" "))
+        if indent_orig > 4:
+            return False
     caps = sum(1 for t in meaningful if t[0].isupper() or t[0].isdigit())
     return caps / len(meaningful) >= 0.75
 
@@ -279,7 +292,26 @@ def block_has_table_signals(block: list[str]) -> bool:
     return False
 
 
-def classify_block(block: list[str]) -> str:
+def looks_like_table_caption(line: str) -> bool:
+    """A line that introduces a table — not a section heading.
+
+    Real section headings ("Insurance", "Acquisitions") can also precede a
+    table, so we only demote lines that explicitly look like a table caption.
+    """
+    low = line.lower()
+    if "balance sheet" in low:
+        return True
+    if "(in millions)" in low or "(in thousands)" in low or "(in $" in low:
+        return True
+    if re.search(r"\d{1,2}/\d{1,2}", line):
+        return True
+    # Column-header style: 2+ runs of 4+ spaces (column gutters).
+    if len(re.findall(r" {4,}", line)) >= 2:
+        return True
+    return False
+
+
+def classify_block(block: list[str], next_block: list[str] | None = None) -> str:
     if all(SEP_LINE_RE.match(l) for l in block):
         return "sep"
     if block_has_table_signals(block):
@@ -287,6 +319,16 @@ def classify_block(block: list[str]) -> str:
     if any(BULLET_LINE_RE.match(l) for l in block):
         return "bullet"
     if len(block) == 1 and looks_like_heading_line(block[0]):
+        # Demote to caption only when both (a) the next block is a table AND
+        # (b) the line itself reads like a table caption. This preserves real
+        # section headings ("Insurance", "Investments") that happen to be
+        # followed by a small data table.
+        if (
+            next_block is not None
+            and block_has_table_signals(next_block)
+            and looks_like_table_caption(block[0])
+        ):
+            return "caption"
         return "heading"
     return "para"
 
@@ -343,6 +385,11 @@ def render_heading(line: str) -> str:
     return f"== {typst_escape(line.strip())}\n"
 
 
+def render_caption(line: str) -> str:
+    text = typst_escape(line.strip())
+    return f"\n#align(center)[#text(size: 10pt, style: \"italic\")[{text}]]\n"
+
+
 def render_para(block: list[str], *, footnote: bool = False) -> str:
     text = typst_escape(join_paragraph(block))
     if footnote:
@@ -362,7 +409,7 @@ def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
     perf_blocks: list[list[str]] = []  # captured for appendix (2024 only)
     perf_title_seen = False
 
-    for block in blocks:
+    for idx, block in enumerate(blocks):
         if is_perf_related(block):
             # Always strip from the main flow; capture for appendix on 2024.
             if is_perf_title(block):
@@ -373,7 +420,14 @@ def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
                 perf_blocks.append(block)
             continue
 
-        kind = classify_block(block)
+        # Look ahead to the next non-perf block for caption demotion.
+        next_block = None
+        for j in range(idx + 1, len(blocks)):
+            if not is_perf_related(blocks[j]):
+                next_block = blocks[j]
+                break
+
+        kind = classify_block(block, next_block)
         if kind == "sep":
             pieces.append("#sectionbreak\n")
             continue
@@ -382,6 +436,9 @@ def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
             continue
         if kind == "heading":
             pieces.append(render_heading(block[0]))
+            continue
+        if kind == "caption":
+            pieces.append(render_caption(block[0]))
             continue
         if kind == "bullet":
             pieces.append(render_bullet(block))

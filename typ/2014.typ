@@ -178,7 +178,8 @@ GEICO’s cost advantage is the factor that has enabled the company to gobble up
 
 In addition to our three major insurance operations, we own a group of smaller companies, most of them plying their trade in odd corners of the insurance world. In aggregate, these companies are a growing operation that consistently delivers an underwriting profit. Indeed, over the past decade, they have earned \$2.95 billion from underwriting while growing their float from \$1.7 billion to \$8.6 billion. Charlie and I treasure these companies and their managers.
 
-== Underwriting Profit             Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit             Yearend Float]]
 
 #tablebox[
 ```
@@ -280,7 +281,8 @@ Net earnings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/14 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/14 (in millions)]]
 
 #tablebox[
 ```
@@ -390,7 +392,7 @@ Below we list our fifteen common stock investments that at yearend had the large
 
 12/31/14 Percentage of Shares\*\* Company Company Cost\* Market
 
-== Owned
+Owned
 
 (in millions)
 

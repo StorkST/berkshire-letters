@@ -172,7 +172,8 @@ In 1995, we purchased the half of GEICO that we didn’t already own, paying \$1
 
 In addition to our three major insurance operations, we own a group of smaller companies, most of them plying their trade in odd corners of the insurance world. In aggregate, these companies are a growing operation that consistently delivers an underwriting profit. Moreover, as the table below shows, they also provide us with substantial float. Charlie and I treasure these companies and their managers.
 
-== Underwriting Profit       Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit       Yearend Float]]
 
 #tablebox[
 ```
@@ -283,7 +284,8 @@ HomeServices now has 22,114 agents (listed by geography on page 112), up 38% fro
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/13 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/13 (in millions)]]
 
 #tablebox[
 ```
@@ -400,7 +402,7 @@ Below we list our fifteen common stock investments that at yearend had the large
 
 12/31/13 Percentage of Shares\*\* Company Company Cost\* Market
 
-== Owned
+Owned
 
 (in millions)
 

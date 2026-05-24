@@ -205,7 +205,8 @@ Less than three years ago, we formed Berkshire Hathaway Specialty Insurance (“
 
 Here’s a recap of pre-tax underwriting earnings and float by division:
 
-== Underwriting Profit                 Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit                 Yearend Float]]
 
 #tablebox[
 ```
@@ -295,7 +296,8 @@ HomeServices also franchises many operations throughout the country that use our
 
 Our manufacturing, service and retailing operations sell products ranging from lollipops to jet airplanes. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/16 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/16 (in millions)]]
 
 #tablebox[
 ```

@@ -118,7 +118,8 @@ Finally, we own a group of smaller companies, most of them specializing in odd c
 
 Here is the record of all four segments of our property-casualty and life insurance businesses:
 
-== Underwriting Profit           Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit           Yearend Float]]
 
 #tablebox[
 ```
@@ -199,7 +200,8 @@ In the future, BNSF results will be included in this “regulated utility” sec
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/09 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/09 (in millions)]]
 
 #tablebox[
 ```

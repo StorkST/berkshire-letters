@@ -164,7 +164,8 @@ Finally, we own a group of smaller companies, most of them specializing in odd c
 
 Here is the record of all four segments of our property-casualty and life insurance businesses:
 
-== Underwriting Profit           Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit           Yearend Float]]
 
 #tablebox[
 ```
@@ -185,7 +186,8 @@ Among large insurance operations, Berkshire’s impresses me as the best in the 
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/10 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/10 (in millions)]]
 
 #tablebox[
 ```
@@ -546,9 +548,9 @@ Memo To: Berkshire Hathaway Managers (“The All-Stars”)
 
 cc: Berkshire Directors
 
-== From: Warren E. Buffett
+From: Warren E. Buffett
 
-== Date:    July 26, 2010
+Date: July 26, 2010
 
 This is my biennial letter to reemphasize Berkshire’s top priority and to get your help on succession planning (yours, not mine!).
 

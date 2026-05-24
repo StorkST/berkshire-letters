@@ -164,7 +164,8 @@ Our smaller insurers are just as outstanding in their own way as the “big thre
 
 Here is the record for the four legs to our insurance stool. The underwriting profits signify that all four provided funds to Berkshire last year without cost, just as they did in 2007. And in both years our underwriting profitability was considerably better than that achieved by the industry. Of course, we ourselves will periodically have a terrible year in insurance. But, overall, I expect us to average an underwriting profit. If so, we will be using free funds of large size for the indefinite future.
 
-== Underwriting Profit           Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit           Yearend Float]]
 
 #tablebox[
 ```
@@ -183,7 +184,8 @@ Here is the record for the four legs to our insurance stool. The underwriting pr
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/08 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/08 (in millions)]]
 
 #tablebox[
 ```

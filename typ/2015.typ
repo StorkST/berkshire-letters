@@ -196,7 +196,8 @@ Less than three years ago, we formed Berkshire Hathaway Specialty Insurance (“
 
 Here’s a recap of underwriting earnings and float by division:
 
-== Underwriting Profit              Yearend Float
+
+#align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit              Yearend Float]]
 
 #tablebox[
 ```
@@ -278,7 +279,8 @@ I currently expect increased after-tax earnings at BHE in 2016, but lower earnin
 
 Our activities in this part of Berkshire cover the waterfront. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-== Balance Sheet 12/31/15 (in millions)
+
+#align(center)[#text(size: 10pt, style: "italic")[Balance Sheet 12/31/15 (in millions)]]
 
 #tablebox[
 ```
