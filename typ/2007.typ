@@ -194,31 +194,13 @@ To put it charitably, we were a slow starter. But things changed. Here’s the r
 
 This metamorphosis has been accomplished by some extraordinary managers. Let’s look at what each has achieved.
 
-- GEICO possesses the widest moat of any of our insurers, one carefully protected and expanded by Tony Nicely, its CEO. Last year – again – GEICO had the best growth record among major auto insurers, increasing its market share to 7.2%. When Berkshire acquired control in 1995, that share was 2.5%. Not coincidentally, annual ad expenditures by GEICO have increased from \$31 million to \$751 million during the same period.
+- GEICO possesses the widest moat of any of our insurers, one carefully protected and expanded by Tony Nicely, its CEO. Last year – again – GEICO had the best growth record among major auto insurers, increasing its market share to 7.2%. When Berkshire acquired control in 1995, that share was 2.5%. Not coincidentally, annual ad expenditures by GEICO have increased from \$31 million to \$751 million during the same period. Tony, now 64, joined GEICO at 18. Every day since, he has been passionate about the company – proud of how it could both save money for its customers and provide growth opportunities for its associates. Even now, with sales at \$12 billion, Tony feels GEICO is just getting started. So do I. Here’s some evidence. In the last three years, GEICO has increased its share of the motorcycle market from 2.1% to 6%. We’ve also recently begun writing policies on ATVs and RVs. And in November we wrote our first commercial auto policy. GEICO and National Indemnity are working together in the commercial field, and early results are very encouraging. Even in aggregate, these lines will remain a small fraction of our personal auto volume. Nevertheless, they should deliver a growing stream of underwriting profits and float.
 
-Tony, now 64, joined GEICO at 18. Every day since, he has been passionate about the company – proud of how it could both save money for its customers and provide growth opportunities for its associates. Even now, with sales at \$12 billion, Tony feels GEICO is just getting started. So do I.
+- General Re, our international reinsurer, is by far our largest source of “home-grown” float – \$23 billion at yearend. This operation is now a huge asset for Berkshire. Our ownership, however, had a shaky start. For decades, General Re was the Tiffany of reinsurers, admired by all for its underwriting skills and discipline. This reputation, unfortunately, outlived its factual underpinnings, a flaw that I completely missed when I made the decision in 1998 to merge with General Re. The General Re of 1998 was not operated as the General Re of 1968 or 1978. Now, thanks to Joe Brandon, General Re’s CEO, and his partner, Tad Montross, the luster of the company has been restored. Joe and Tad have been running the business for six years and have been doing first-class business in a first-class way, to use the words of J. P. Morgan. They have restored discipline to underwriting, reserving and the selection of clients. Their job was made more difficult by costly and time-consuming legacy problems, both in the U.S. and abroad. Despite that diversion, Joe and Tad have delivered excellent underwriting results while skillfully repositioning the company for the future.
 
-Here’s some evidence. In the last three years, GEICO has increased its share of the motorcycle market from 2.1% to 6%. We’ve also recently begun writing policies on ATVs and RVs. And in November we wrote our first commercial auto policy. GEICO and National Indemnity are working together in the commercial field, and early results are very encouraging.
+- Since joining Berkshire in 1986, Ajit Jain has built a truly great specialty reinsurance operation from scratch. For one-of-a-kind mammoth transactions, the world now turns to him. Last year I told you in detail about the Equitas transfer of huge, but capped, liabilities to Berkshire for a single premium of \$7.1 billion. At this very early date, our experience has been good. But this doesn’t tell us much because it’s just one straw in a fifty-year-or-more wind. What we know for sure, however, is that the London team who joined us, headed by Scott Moser, is first-rate and has become a valuable asset for our insurance business.
 
-Even in aggregate, these lines will remain a small fraction of our personal auto volume. Nevertheless, they should deliver a growing stream of underwriting profits and float.
-
-- General Re, our international reinsurer, is by far our largest source of “home-grown” float – \$23 billion at yearend. This operation is now a huge asset for Berkshire. Our ownership, however, had a shaky start.
-
-For decades, General Re was the Tiffany of reinsurers, admired by all for its underwriting skills and discipline. This reputation, unfortunately, outlived its factual underpinnings, a flaw that I completely missed when I made the decision in 1998 to merge with General Re. The General Re of 1998 was not operated as the General Re of 1968 or 1978.
-
-Now, thanks to Joe Brandon, General Re’s CEO, and his partner, Tad Montross, the luster of the company has been restored. Joe and Tad have been running the business for six years and have been doing first-class business in a first-class way, to use the words of J. P. Morgan. They have restored discipline to underwriting, reserving and the selection of clients.
-
-Their job was made more difficult by costly and time-consuming legacy problems, both in the U.S. and abroad. Despite that diversion, Joe and Tad have delivered excellent underwriting results while skillfully repositioning the company for the future.
-
-- Since joining Berkshire in 1986, Ajit Jain has built a truly great specialty reinsurance operation from scratch. For one-of-a-kind mammoth transactions, the world now turns to him.
-
-Last year I told you in detail about the Equitas transfer of huge, but capped, liabilities to Berkshire for a single premium of \$7.1 billion. At this very early date, our experience has been good. But this doesn’t tell us much because it’s just one straw in a fifty-year-or-more wind. What we know for sure, however, is that the London team who joined us, headed by Scott Moser, is first-rate and has become a valuable asset for our insurance business.
-
-- Finally, we have our smaller operations, which serve specialized segments of the insurance market. In aggregate, these companies have performed extraordinarily well, earning above- average underwriting profits and delivering valuable float for investment.
-
-Last year BoatU.S., headed by Bill Oakerson, was added to the group. This company manages an association of about 650,000 boat owners, providing them services similar to those offered by AAA auto clubs to drivers. Among the association’s offerings is boat insurance. Learn more about this operation by visiting its display at the annual meeting.
-
-Below we show the record of our four categories of property/casualty insurance.
+- Finally, we have our smaller operations, which serve specialized segments of the insurance market. In aggregate, these companies have performed extraordinarily well, earning above- average underwriting profits and delivering valuable float for investment. Last year BoatU.S., headed by Bill Oakerson, was added to the group. This company manages an association of about 650,000 boat owners, providing them services similar to those offered by AAA auto clubs to drivers. Among the association’s offerings is boat insurance. Learn more about this operation by visiting its display at the annual meeting. Below we show the record of our four categories of property/casualty insurance.
 
 
 #align(center)[#text(size: 10pt, style: "italic")[Underwriting Profit                      Yearend Float]]
@@ -231,10 +213,9 @@ Below we show the record of our four categories of property/casualty insurance.
                BH Reinsurance ...............                    1,427                     1,658          23,692      16,860
                GEICO .............................               1,113                     1,314            7,768      7,171
                Other Primary...................                    279                       340*           4,229      4,029*
+                                                                $3,374                    $3,838         $58,698     $50,887
 ```
 ]
-
-\$3,374 \$3,838 \$58,698 \$50,887
 
 #footnoteblock[\* Includes Applied Underwriters from May 19, 2006.]
 
@@ -300,10 +281,9 @@ Total current assets .................................          12,831
 Goodwill and other intangibles...............                   14,201            Deferred taxes............................             828
 Fixed assets.............................................        9,605            Term debt and other liabilities...                   3,079
 Other assets.............................................        1,685            Equity ........................................     25,485
+                                                               $38,322                                                               $38,322
 ```
 ]
-
-\$38,322 \$38,322
 
 == Earnings Statement (in millions)
 
@@ -325,37 +305,13 @@ This motley group, which sells products ranging from lollipops to motor homes, e
 
 Here are a few newsworthy items about companies in this sector:
 
-- Shaw, Acme Brick, Johns Manville and MiTek were all hurt in 2007 by the sharp housing downturn, with their pre-tax earnings declining 27%, 41%, 38%, and 9% respectively. Overall, these companies earned \$941 million pre-tax compared to \$1.296 billion in 2006.
+- Shaw, Acme Brick, Johns Manville and MiTek were all hurt in 2007 by the sharp housing downturn, with their pre-tax earnings declining 27%, 41%, 38%, and 9% respectively. Overall, these companies earned \$941 million pre-tax compared to \$1.296 billion in 2006. Last year, Shaw, MiTek and Acme contracted for tuck-in acquisitions that will help future earnings. You can be sure they will be looking for more of these.
 
-Last year, Shaw, MiTek and Acme contracted for tuck-in acquisitions that will help future earnings. You can be sure they will be looking for more of these.
-
-- In a tough year for retailing, our standouts were See’s, Borsheims and Nebraska Furniture Mart.
-
-Two years ago Brad Kinstler was made CEO of See’s. We very seldom move managers from one industry to another at Berkshire. But we made an exception with Brad, who had previously run our uniform company, Fechheimer, and Cypress Insurance. The move could not have worked out better. In his two years, profits at See’s have increased more than 50%.
-
-At Borsheims, sales increased 15.1%, helped by a 27% gain during Shareholder Weekend. Two years ago, Susan Jacques suggested that we remodel and expand the store. I was skeptical, but Susan was right.
-
-Susan came to Borsheims 25 years ago as a \$4-an-hour saleswoman. Though she lacked a managerial background, I did not hesitate to make her CEO in 1994. She’s smart, she loves the business, and she loves her associates. That beats having an MBA degree any time.
-
-(An aside: Charlie and I are not big fans of resumes. Instead, we focus on brains, passion and integrity. Another of our great managers is Cathy Baron Tamraz, who has significantly increased Business Wire’s earnings since we purchased it early in 2006. She is an owner’s dream. It is positively dangerous to stand between Cathy and a business prospect. Cathy, it should be noted, began her career as a cab driver.)
-
-Finally, at Nebraska Furniture Mart, earnings hit a record as our Omaha and Kansas City stores each had sales of about \$400 million. These, by some margin, are the two top home furnishings stores in the country. In a disastrous year for many furniture retailers, sales at Kansas City increased 8%, while in Omaha the gain was 6%.
-
-Credit the remarkable Blumkin brothers, Ron and Irv, for this performance. Both are close personal friends of mine and great businessmen.
+- In a tough year for retailing, our standouts were See’s, Borsheims and Nebraska Furniture Mart. Two years ago Brad Kinstler was made CEO of See’s. We very seldom move managers from one industry to another at Berkshire. But we made an exception with Brad, who had previously run our uniform company, Fechheimer, and Cypress Insurance. The move could not have worked out better. In his two years, profits at See’s have increased more than 50%. At Borsheims, sales increased 15.1%, helped by a 27% gain during Shareholder Weekend. Two years ago, Susan Jacques suggested that we remodel and expand the store. I was skeptical, but Susan was right. Susan came to Borsheims 25 years ago as a \$4-an-hour saleswoman. Though she lacked a managerial background, I did not hesitate to make her CEO in 1994. She’s smart, she loves the business, and she loves her associates. That beats having an MBA degree any time. (An aside: Charlie and I are not big fans of resumes. Instead, we focus on brains, passion and integrity. Another of our great managers is Cathy Baron Tamraz, who has significantly increased Business Wire’s earnings since we purchased it early in 2006. She is an owner’s dream. It is positively dangerous to stand between Cathy and a business prospect. Cathy, it should be noted, began her career as a cab driver.) Finally, at Nebraska Furniture Mart, earnings hit a record as our Omaha and Kansas City stores each had sales of about \$400 million. These, by some margin, are the two top home furnishings stores in the country. In a disastrous year for many furniture retailers, sales at Kansas City increased 8%, while in Omaha the gain was 6%. Credit the remarkable Blumkin brothers, Ron and Irv, for this performance. Both are close personal friends of mine and great businessmen.
 
 - Iscar continues its wondrous ways. Its products are small carbide cutting tools that make large and very expensive machine tools more productive. The raw material for carbide is tungsten, mined in China. For many decades, Iscar moved tungsten to Israel, where brains turned it into something far more valuable. Late in 2007, Iscar opened a large plant in Dalian, China. In effect, we’ve now moved the brains to the tungsten. Major opportunities for growth await Iscar. Its management team, led by Eitan Wertheimer, Jacob Harpaz, and Danny Goldman, is certain to make the most of them.
 
-- Flight services set a record in 2007 with pre-tax earnings increasing 49% to \$547 million. Corporate aviation had an extraordinary year worldwide, and both of our companies – as runaway leaders in their fields – fully participated.
-
-FlightSafety, our pilot training business, gained 14% in revenues and 20% in pre-tax earnings. We estimate that we train about 58% of U.S. corporate pilots. Bruce Whitman, the company’s CEO, inherited this leadership position in 2003 from Al Ueltschi, the father of advanced flight training, and has proved to be a worthy successor.
-
-At NetJets, the inventor of fractional-ownership of jets, we also remain the unchallenged leader. We now operate 487 planes in the U.S. and 135 in Europe, a fleet more than twice the size of that operated by our three major competitors combined. Because our share of the large-cabin market is near 90%, our lead in value terms is far greater.
-
-The NetJets brand – with its promise of safety, service and security – grows stronger every year. Behind this is the passion of one man, Richard Santulli. If you were to pick someone to join you in a foxhole, you couldn’t do better than Rich. No matter what the obstacles, he just doesn’t stop.
-
-Europe is the best example of how Rich’s tenacity leads to success. For the first ten years we made little financial progress there, actually running up cumulative losses of \$212 million. After Rich brought Mark Booth on board to run Europe, however, we began to gain traction. Now we have real momentum, and last year earnings tripled.
-
-In November, our directors met at NetJets headquarters in Columbus and got a look at the sophisticated operation there. It is responsible for 1,000 or so flights a day in all kinds of weather, with customers expecting top-notch service. Our directors came away impressed by the facility and its capabilities – but even more impressed by Rich and his associates.
+- Flight services set a record in 2007 with pre-tax earnings increasing 49% to \$547 million. Corporate aviation had an extraordinary year worldwide, and both of our companies – as runaway leaders in their fields – fully participated. FlightSafety, our pilot training business, gained 14% in revenues and 20% in pre-tax earnings. We estimate that we train about 58% of U.S. corporate pilots. Bruce Whitman, the company’s CEO, inherited this leadership position in 2003 from Al Ueltschi, the father of advanced flight training, and has proved to be a worthy successor. At NetJets, the inventor of fractional-ownership of jets, we also remain the unchallenged leader. We now operate 487 planes in the U.S. and 135 in Europe, a fleet more than twice the size of that operated by our three major competitors combined. Because our share of the large-cabin market is near 90%, our lead in value terms is far greater. The NetJets brand – with its promise of safety, service and security – grows stronger every year. Behind this is the passion of one man, Richard Santulli. If you were to pick someone to join you in a foxhole, you couldn’t do better than Rich. No matter what the obstacles, he just doesn’t stop. Europe is the best example of how Rich’s tenacity leads to success. For the first ten years we made little financial progress there, actually running up cumulative losses of \$212 million. After Rich brought Mark Booth on board to run Europe, however, we began to gain traction. Now we have real momentum, and last year earnings tripled. In November, our directors met at NetJets headquarters in Columbus and got a look at the sophisticated operation there. It is responsible for 1,000 or so flights a day in all kinds of weather, with customers expecting top-notch service. Our directors came away impressed by the facility and its capabilities – but even more impressed by Rich and his associates.
 
 == Finance and Finance Products
 
@@ -377,10 +333,9 @@ Clayton’s loan portfolio is financed by Berkshire. For this funding, we charge
               Other...............................................................      157              159
               Income before capital gains............................                 1,006            1,157
               Trading – capital gains ..................................                105              938
+                                                                                     $1,111           $2,095
 ```
 ]
-
-\$1,111 \$2,095
 
 The leasing operations tabulated are XTRA, which rents trailers, and CORT, which rents furniture. Utilization of trailers was down considerably in 2007 and that led to a drop in earnings at XTRA. That company also borrowed \$400 million last year and distributed the proceeds to Berkshire. The resulting higher interest it is now paying further reduced XTRA’s earnings.
 

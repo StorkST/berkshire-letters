@@ -126,16 +126,10 @@ And that means – brace yourself – had there been roughly 1,000 taxpayers in 
 Millions, billions, trillions – we all know the words, but the sums involved are almost impossible to comprehend. Let’s put physical dimensions to the numbers:
 
 - If you convert \$1 million into newly-printed \$100 bills, you will have a stack that reaches your chest.
+
 - Perform the same exercise with \$1 billion – this is getting exciting! – and the stack reaches about 3⁄ 4 of a mile into the sky.
-- Finally, imagine piling up \$32 billion, the total of Berkshire’s 2012-21 federal income tax payments. Now the stack grows to more than 21 miles in height, about three times the level at which commercial airplanes usually cruise.
 
-When it comes to federal taxes, individuals who own Berkshire can unequivocally state “I gave at the office.”
-
-#sectionbreak
-
-At Berkshire we hope and expect to pay much more in taxes during the next decade. We owe the country no less: America’s dynamism has made a huge contribution to whatever success Berkshire has achieved – a contribution Berkshire will always need. We count on the American Tailwind and, though it has been becalmed from time to time, its propelling force has always returned.
-
-I have been investing for 80 years – more than one-third of our country’s lifetime. Despite our citizens’ penchant – almost enthusiasm – for self-criticism and self-doubt, I have yet to see a time when it made sense to make a long-term bet against America. And I doubt very much that any reader of this letter will have a different experience in the future.
+- Finally, imagine piling up \$32 billion, the total of Berkshire’s 2012-21 federal income tax payments. Now the stack grows to more than 21 miles in height, about three times the level at which commercial airplanes usually cruise. When it comes to federal taxes, individuals who own Berkshire can unequivocally state “I gave at the office.” \*\*\*\*\*\*\*\*\*\*\*\* At Berkshire we hope and expect to pay much more in taxes during the next decade. We owe the country no less: America’s dynamism has made a huge contribution to whatever success Berkshire has achieved – a contribution Berkshire will always need. We count on the American Tailwind and, though it has been becalmed from time to time, its propelling force has always returned. I have been investing for 80 years – more than one-third of our country’s lifetime. Despite our citizens’ penchant – almost enthusiasm – for self-criticism and self-doubt, I have yet to see a time when it made sense to make a long-term bet against America. And I doubt very much that any reader of this letter will have a different experience in the future.
 
 == Nothing Beats Having a Great Partner
 
@@ -144,25 +138,34 @@ Charlie and I think pretty much alike. But what it takes me a page to explain, h
 Here are a few of his thoughts, many lifted from a very recent podcast:
 
 - The world is full of foolish gamblers, and they will not do as well as the patient investor.
+
 - If you don’t see the world the way it is, it’s like judging something through a distorted lens.
+
 - All I want to know is where I’m going to die, so I’ll never go there. And a related thought: Early on, write your desired obituary – and then behave accordingly.
+
 - If you don’t care whether you are rational or not, you won’t work on it. Then you will stay irrational and get lousy results.
 
 - Patience can be learned. Having a long attention span and the ability to concentrate on one thing for a long time is a huge advantage.
+
 - You can learn a lot from dead people. Read of the deceased you admire and detest.
+
 - Don’t bail away in a sinking boat if you can swim to one that is seaworthy.
+
 - A great company keeps working after you are not; a mediocre company won’t do that.
+
 - Warren and I don’t focus on the froth of the market. We seek out good long-term investments and stubbornly hold them for a long time.
+
 - Ben Graham said, “Day to day, the stock market is a voting machine; in the long term it’s a weighing machine.” If you keep making something more valuable, then some wise person is going to notice it and start buying.
+
 - There is no such thing as a 100% sure thing when investing. Thus, the use of leverage is dangerous. A string of wonderful numbers times zero will always equal zero. Don’t count on getting rich twice.
+
 - You don’t, however, need to own a lot of things in order to get rich.
+
 - You have to keep learning if you want to become a great investor. When the world changes, you must change.
+
 - Warren and I hated railroad stocks for decades, but the world changed and finally the country had four huge railroads of vital importance to the American economy. We were slow to recognize the change, but better late than never.
-- Finally, I will add two short sentences by Charlie that have been his decision-clinchers for decades: “Warren, think more about it. You’re smart and I’m right.”
 
-And so it goes. I never have a phone call with Charlie without learning something. And, while he makes me think, he also makes me laugh.
-
-#sectionbreak
+- Finally, I will add two short sentences by Charlie that have been his decision-clinchers for decades: “Warren, think more about it. You’re smart and I’m right.” And so it goes. I never have a phone call with Charlie without learning something. And, while he makes me think, he also makes me laugh. \*\*\*\*\*\*\*\*\*\*\*\*
 
 I will add to Charlie’s list a rule of my own: Find a very smart high-grade partner – preferably slightly older than you – and then listen very carefully to what he says.
 

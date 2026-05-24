@@ -8,89 +8,23 @@ In 2012, Berkshire achieved a total gain for its shareholders of \$24.1 billion.
 
 A number of good things happened at Berkshire last year, but let’s first get the bad news out of the way.
 
-- When the partnership I ran took control of Berkshire in 1965, I could never have dreamed that a year in
+- When the partnership I ran took control of Berkshire in 1965, I could never have dreamed that a year in which we had a gain of \$24.1 billion would be subpar, in terms of the comparison we present on the facing page. But subpar it was. For the ninth time in 48 years, Berkshire’s percentage increase in book value was less than the S&P’s percentage gain (a calculation that includes dividends as well as price appreciation). In eight of those nine years, it should be noted, the S&P had a gain of 15% or more. We do better when the wind is in our face. To date, we’ve never had a five-year period of underperformance, having managed 43 times to surpass the S&P over such a stretch. (The record is on page 103.) But the S&P has now had gains in each of the last four years, outpacing us over that period. If the market continues to advance in 2013, our streak of five- year wins will end. One thing of which you can be certain: Whatever Berkshire’s results, my partner Charlie Munger, the company’s Vice Chairman, and I will not change yardsticks. It’s our job to increase intrinsic business value – for which we use book value as a significantly understated proxy – at a faster rate than the market gains of the S&P. If we do so, Berkshire’s share price, though unpredictable from year to year, will itself outpace the S&P over time. If we fail, however, our management will bring no value to our investors, who themselves can earn S&P returns by buying a low-cost index fund. Charlie and I believe the gain in Berkshire’s intrinsic value will over time likely surpass the S&P returns by a small margin. We’re confident of that because we have some outstanding businesses, a cadre of terrific operating managers and a shareholder-oriented culture. Our relative performance, however, is almost certain to be better when the market is down or flat. In years when the market is particularly strong, expect us to fall short.
 
-which we had a gain of \$24.1 billion would be subpar, in terms of the comparison we present on the facing page.
+- The second disappointment in 2012 was my inability to make a major acquisition. I pursued a couple of elephants, but came up empty-handed. \* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of those shown for A. Our luck, however, changed early this year. In February, we agreed to buy 50% of a holding company that will own all of H. J. Heinz. The other half will be owned by a small group of investors led by Jorge Paulo Lemann, a renowned Brazilian businessman and philanthropist. We couldn’t be in better company. Jorge Paulo is a long-time friend of mine and an extraordinary manager. His group and Berkshire will each contribute about \$4 billion for common equity in the holding company. Berkshire will also invest \$8 billion in preferred shares that pay a 9% dividend. The preferred has two other features that materially increase its value: at some point it will be redeemed at a significant premium price and the preferred also comes with warrants permitting us to buy 5% of the holding company’s common stock for a nominal sum. Our total investment of about \$12 billion soaks up much of what Berkshire earned last year. But we still have plenty of cash and are generating more at a good clip. So it’s back to work; Charlie and I have again donned our safari outfits and resumed our search for elephants. Now to some good news from 2012:
 
-But subpar it was. For the ninth time in 48 years, Berkshire’s percentage increase in book value was less than the S&P’s percentage gain (a calculation that includes dividends as well as price appreciation). In eight of those nine years, it should be noted, the S&P had a gain of 15% or more. We do better when the wind is in our face.
+- Last year I told you that BNSF, Iscar, Lubrizol, Marmon Group and MidAmerican Energy – our five most profitable non-insurance companies – were likely to earn more than \$10 billion pre-tax in 2012. They delivered. Despite tepid U.S. growth and weakening economies throughout much of the world, our “powerhouse five” had aggregate earnings of \$10.1 billion, about \$600 million more than in 2011. Of this group, only MidAmerican, then earning \$393 million pre-tax, was owned by Berkshire eight years ago. Subsequently, we purchased another three of the five on an all-cash basis. In acquiring the fifth, BNSF, we paid about 70% of the cost in cash, and for the remainder, issued shares that increased the amount outstanding by 6.1%. Consequently, the \$9.7 billion gain in annual earnings delivered Berkshire by the five companies has been accompanied by only minor dilution. That satisfies our goal of not simply growing, but rather increasing per-share results. Unless the U.S. economy tanks – which we don’t expect – our powerhouse five should again deliver higher earnings in 2013. The five outstanding CEOs who run them will see to that.
 
-To date, we’ve never had a five-year period of underperformance, having managed 43 times to surpass the S&P over such a stretch. (The record is on page 103.) But the S&P has now had gains in each of the last four years, outpacing us over that period. If the market continues to advance in 2013, our streak of five- year wins will end.
+- Though I failed to land a major acquisition in 2012, the managers of our subsidiaries did far better. We had a record year for “bolt-on” purchases, spending about \$2.3 billion for 26 companies that were melded into our existing businesses. These transactions were completed without Berkshire issuing any shares. Charlie and I love these acquisitions: Usually they are low-risk, burden headquarters not at all, and expand the scope of our proven managers.
 
-One thing of which you can be certain: Whatever Berkshire’s results, my partner Charlie Munger, the company’s Vice Chairman, and I will not change yardsticks. It’s our job to increase intrinsic business value – for which we use book value as a significantly understated proxy – at a faster rate than the market gains of the S&P. If we do so, Berkshire’s share price, though unpredictable from year to year, will itself outpace the S&P over time. If we fail, however, our management will bring no value to our investors, who themselves can earn S&P returns by buying a low-cost index fund.
+- Our insurance operations shot the lights out last year. While giving Berkshire \$73 billion of free money to invest, they also delivered a \$1.6 billion underwriting gain, the tenth consecutive year of profitable underwriting. This is truly having your cake and eating it too. GEICO led the way, continuing to gobble up market share without sacrificing underwriting discipline. Since 1995, when we obtained control, GEICO’s share of the personal-auto market has grown from 2.5% to 9.7%. Premium volume meanwhile increased from \$2.8 billion to \$16.7 billion. Much more growth lies ahead. The credit for GEICO’s extraordinary performance goes to Tony Nicely and his 27,000 associates. And to that cast, we should add our Gecko. Neither rain nor storm nor gloom of night can stop him; the little lizard just soldiers on, telling Americans how they can save big money by going to GEICO.com. When I count my blessings, I count GEICO twice.
 
-Charlie and I believe the gain in Berkshire’s intrinsic value will over time likely surpass the S&P returns by a small margin. We’re confident of that because we have some outstanding businesses, a cadre of terrific operating managers and a shareholder-oriented culture. Our relative performance, however, is almost certain to be better when the market is down or flat. In years when the market is particularly strong, expect us to fall short.
-
-- The second disappointment in 2012 was my inability to make a major acquisition. I pursued a couple of
-
-elephants, but came up empty-handed.
-
-#footnoteblock[\* All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of those shown for A.]
-
-Our luck, however, changed early this year. In February, we agreed to buy 50% of a holding company that will own all of H. J. Heinz. The other half will be owned by a small group of investors led by Jorge Paulo Lemann, a renowned Brazilian businessman and philanthropist.
-
-We couldn’t be in better company. Jorge Paulo is a long-time friend of mine and an extraordinary manager. His group and Berkshire will each contribute about \$4 billion for common equity in the holding company. Berkshire will also invest \$8 billion in preferred shares that pay a 9% dividend. The preferred has two other features that materially increase its value: at some point it will be redeemed at a significant premium price and the preferred also comes with warrants permitting us to buy 5% of the holding company’s common stock for a nominal sum.
-
-Our total investment of about \$12 billion soaks up much of what Berkshire earned last year. But we still have plenty of cash and are generating more at a good clip. So it’s back to work; Charlie and I have again donned our safari outfits and resumed our search for elephants.
-
-Now to some good news from 2012:
-
-- Last year I told you that BNSF, Iscar, Lubrizol, Marmon Group and MidAmerican Energy – our five most profitable non-insurance companies – were likely to earn more than \$10 billion pre-tax in 2012. They delivered. Despite tepid U.S. growth and weakening economies throughout much of the world, our “powerhouse five” had aggregate earnings of \$10.1 billion, about \$600 million more than in 2011.
-
-Of this group, only MidAmerican, then earning \$393 million pre-tax, was owned by Berkshire eight years ago. Subsequently, we purchased another three of the five on an all-cash basis. In acquiring the fifth, BNSF, we paid about 70% of the cost in cash, and for the remainder, issued shares that increased the amount outstanding by 6.1%. Consequently, the \$9.7 billion gain in annual earnings delivered Berkshire by the five companies has been accompanied by only minor dilution. That satisfies our goal of not simply growing, but rather increasing per-share results.
-
-Unless the U.S. economy tanks – which we don’t expect – our powerhouse five should again deliver higher earnings in 2013. The five outstanding CEOs who run them will see to that.
-
-- Though I failed to land a major acquisition in 2012, the managers of our subsidiaries did far better. We had a record year for “bolt-on” purchases, spending about \$2.3 billion for 26 companies that were melded into our existing businesses. These transactions were completed without Berkshire issuing any shares.
-
-Charlie and I love these acquisitions: Usually they are low-risk, burden headquarters not at all, and expand the scope of our proven managers.
-
-- Our insurance operations shot the lights out last year. While giving Berkshire \$73 billion of free money to invest, they also delivered a \$1.6 billion underwriting gain, the tenth consecutive year of profitable underwriting. This is truly having your cake and eating it too.
-
-GEICO led the way, continuing to gobble up market share without sacrificing underwriting discipline. Since 1995, when we obtained control, GEICO’s share of the personal-auto market has grown from 2.5% to 9.7%. Premium volume meanwhile increased from \$2.8 billion to \$16.7 billion. Much more growth lies ahead.
-
-The credit for GEICO’s extraordinary performance goes to Tony Nicely and his 27,000 associates. And to that cast, we should add our Gecko. Neither rain nor storm nor gloom of night can stop him; the little lizard just soldiers on, telling Americans how they can save big money by going to GEICO.com.
-
-When I count my blessings, I count GEICO twice.
-
-- Todd Combs and Ted Weschler, our new investment managers, have proved to be smart, models of integrity, helpful to Berkshire in many ways beyond portfolio management, and a perfect cultural fit. We hit the jackpot with these two. In 2012 each outperformed the S&P 500 by double-digit margins. They left me in the dust as well.
-
-Consequently, we have increased the funds managed by each to almost \$5 billion (some of this emanating from the pension funds of our subsidiaries). Todd and Ted are young and will be around to manage Berkshire’s massive portfolio long after Charlie and I have left the scene. You can rest easy when they take over.
+- Todd Combs and Ted Weschler, our new investment managers, have proved to be smart, models of integrity, helpful to Berkshire in many ways beyond portfolio management, and a perfect cultural fit. We hit the jackpot with these two. In 2012 each outperformed the S&P 500 by double-digit margins. They left me in the dust as well. Consequently, we have increased the funds managed by each to almost \$5 billion (some of this emanating from the pension funds of our subsidiaries). Todd and Ted are young and will be around to manage Berkshire’s massive portfolio long after Charlie and I have left the scene. You can rest easy when they take over.
 
 - Berkshire’s yearend employment totaled a record 288,462 (see page 106 for details), up 17,604 from last year. Our headquarters crew, however, remained unchanged at 24. No sense going crazy.
 
-- Berkshire’s “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo – all had good years. Our ownership interest in each of these companies increased during the year. We purchased additional shares of Wells Fargo (our ownership now is 8.7% versus 7.6% at yearend 2011) and IBM (6.0% versus 5.5%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca-Cola grew from 8.8% to 8.9% and our interest at American Express from 13.0% to 13.7%.
+- Berkshire’s “Big Four” investments – American Express, Coca-Cola, IBM and Wells Fargo – all had good years. Our ownership interest in each of these companies increased during the year. We purchased additional shares of Wells Fargo (our ownership now is 8.7% versus 7.6% at yearend 2011) and IBM (6.0% versus 5.5%). Meanwhile, stock repurchases at Coca-Cola and American Express raised our percentage ownership. Our equity in Coca-Cola grew from 8.8% to 8.9% and our interest at American Express from 13.0% to 13.7%. Berkshire’s ownership interest in all four companies is likely to increase in the future. Mae West had it right: “Too much of a good thing can be wonderful.” The four companies possess marvelous businesses and are run by managers who are both talented and shareholder-oriented. At Berkshire we much prefer owning a non-controlling but substantial portion of a wonderful business to owning 100% of a so-so business. Our flexibility in capital allocation gives us a significant advantage over companies that limit themselves only to acquisitions they can operate. Going by our yearend share count, our portion of the “Big Four’s” 2012 earnings amounted to \$3.9 billion. In the earnings we report to you, however, we include only the dividends we receive – about \$1.1 billion. But make no mistake: The \$2.8 billion of earnings we do not report is every bit as valuable to us as what we record. The earnings that the four companies retain are often used for repurchases – which enhance our share of future earnings – and also for funding business opportunities that are usually advantageous. Over time we expect substantially greater earnings from these four investees. If we are correct, dividends to Berkshire will increase and, even more important, so will our unrealized capital gains (which, for the four, totaled \$26.7 billion at yearend).
 
-Berkshire’s ownership interest in all four companies is likely to increase in the future. Mae West had it right: “Too much of a good thing can be wonderful.”
-
-The four companies possess marvelous businesses and are run by managers who are both talented and shareholder-oriented. At Berkshire we much prefer owning a non-controlling but substantial portion of a wonderful business to owning 100% of a so-so business. Our flexibility in capital allocation gives us a significant advantage over companies that limit themselves only to acquisitions they can operate.
-
-Going by our yearend share count, our portion of the “Big Four’s” 2012 earnings amounted to \$3.9 billion. In the earnings we report to you, however, we include only the dividends we receive – about \$1.1 billion. But make no mistake: The \$2.8 billion of earnings we do not report is every bit as valuable to us as what we record.
-
-The earnings that the four companies retain are often used for repurchases – which enhance our share of future earnings – and also for funding business opportunities that are usually advantageous. Over time we expect substantially greater earnings from these four investees. If we are correct, dividends to Berkshire will increase and, even more important, so will our unrealized capital gains (which, for the four, totaled \$26.7 billion at yearend).
-
-- There was a lot of hand-wringing last year among CEOs who cried “uncertainty” when faced with capital- allocation decisions (despite many of their businesses having enjoyed record levels of both earnings and cash). At Berkshire, we didn’t share their fears, instead spending a record \$9.8 billion on plant and equipment in 2012, about 88% of it in the United States. That’s 19% more than we spent in 2011, our previous high. Charlie and I love investing large sums in worthwhile projects, whatever the pundits are saying. We instead heed the words from Gary Allan’s new country song, “Every Storm Runs Out of Rain.”
-
-We will keep our foot to the floor and will almost certainly set still another record for capital expenditures in 2013. Opportunities abound in America.
-
-#sectionbreak
-
-A thought for my fellow CEOs: Of course, the immediate future is uncertain; America has faced the unknown since 1776. It’s just that sometimes people focus on the myriad of uncertainties that always exist while at other times they ignore them (usually because the recent past has been uneventful).
-
-American business will do fine over time. And stocks will do well just as certainly, since their fate is tied to business performance. Periodic setbacks will occur, yes, but investors and managers are in a game that is heavily stacked in their favor. (The Dow Jones Industrials advanced from 66 to 11,497 in the 20th Century, a staggering 17,320% increase that materialized despite four costly wars, a Great Depression and many recessions. And don’t forget that shareholders received substantial dividends throughout the century as well.)
-
-Since the basic game is so favorable, Charlie and I believe it’s a terrible mistake to try to dance in and out of it based upon the turn of tarot cards, the predictions of “experts,” or the ebb and flow of business activity. The risks of being out of the game are huge compared to the risks of being in it.
-
-My own history provides a dramatic example: I made my first stock purchase in the spring of 1942 when the U.S. was suffering major losses throughout the Pacific war zone. Each day’s headlines told of more setbacks. Even so, there was no talk about uncertainty; every American I knew believed we would prevail.
-
-The country’s success since that perilous time boggles the mind: On an inflation-adjusted basis, GDP per capita more than quadrupled between 1941 and 2012. Throughout that period, every tomorrow has been uncertain. America’s destiny, however, has always been clear: ever-increasing abundance.
-
-If you are a CEO who has some large, profitable project you are shelving because of short-term worries, call Berkshire. Let us unburden you.
-
-#sectionbreak
-
-In summary, Charlie and I hope to build per-share intrinsic value by (1) improving the earning power of our many subsidiaries; (2) further increasing their earnings through bolt-on acquisitions; (3) participating in the growth of our investees; (4) repurchasing Berkshire shares when they are available at a meaningful discount from intrinsic value; and (5) making an occasional large acquisition. We will also try to maximize results for you by rarely, if ever, issuing Berkshire shares.
-
-Those building blocks rest on a rock-solid foundation. A century hence, BNSF and MidAmerican Energy will continue to play major roles in the American economy. Insurance, moreover, will always be essential for both businesses and individuals – and no company brings greater resources to that arena than Berkshire. As we view these and other strengths, Charlie and I like your company’s prospects.
+- There was a lot of hand-wringing last year among CEOs who cried “uncertainty” when faced with capital- allocation decisions (despite many of their businesses having enjoyed record levels of both earnings and cash). At Berkshire, we didn’t share their fears, instead spending a record \$9.8 billion on plant and equipment in 2012, about 88% of it in the United States. That’s 19% more than we spent in 2011, our previous high. Charlie and I love investing large sums in worthwhile projects, whatever the pundits are saying. We instead heed the words from Gary Allan’s new country song, “Every Storm Runs Out of Rain.” We will keep our foot to the floor and will almost certainly set still another record for capital expenditures in 2013. Opportunities abound in America. \*\*\*\*\*\*\*\*\*\*\*\* A thought for my fellow CEOs: Of course, the immediate future is uncertain; America has faced the unknown since 1776. It’s just that sometimes people focus on the myriad of uncertainties that always exist while at other times they ignore them (usually because the recent past has been uneventful). American business will do fine over time. And stocks will do well just as certainly, since their fate is tied to business performance. Periodic setbacks will occur, yes, but investors and managers are in a game that is heavily stacked in their favor. (The Dow Jones Industrials advanced from 66 to 11,497 in the 20th Century, a staggering 17,320% increase that materialized despite four costly wars, a Great Depression and many recessions. And don’t forget that shareholders received substantial dividends throughout the century as well.) Since the basic game is so favorable, Charlie and I believe it’s a terrible mistake to try to dance in and out of it based upon the turn of tarot cards, the predictions of “experts,” or the ebb and flow of business activity. The risks of being out of the game are huge compared to the risks of being in it. My own history provides a dramatic example: I made my first stock purchase in the spring of 1942 when the U.S. was suffering major losses throughout the Pacific war zone. Each day’s headlines told of more setbacks. Even so, there was no talk about uncertainty; every American I knew believed we would prevail. The country’s success since that perilous time boggles the mind: On an inflation-adjusted basis, GDP per capita more than quadrupled between 1941 and 2012. Throughout that period, every tomorrow has been uncertain. America’s destiny, however, has always been clear: ever-increasing abundance. If you are a CEO who has some large, profitable project you are shelving because of short-term worries, call Berkshire. Let us unburden you. \*\*\*\*\*\*\*\*\*\*\*\* In summary, Charlie and I hope to build per-share intrinsic value by (1) improving the earning power of our many subsidiaries; (2) further increasing their earnings through bolt-on acquisitions; (3) participating in the growth of our investees; (4) repurchasing Berkshire shares when they are available at a meaningful discount from intrinsic value; and (5) making an occasional large acquisition. We will also try to maximize results for you by rarely, if ever, issuing Berkshire shares. Those building blocks rest on a rock-solid foundation. A century hence, BNSF and MidAmerican Energy will continue to play major roles in the American economy. Insurance, moreover, will always be essential for both businesses and individuals – and no company brings greater resources to that arena than Berkshire. As we view these and other strengths, Charlie and I like your company’s prospects.
 
 == Intrinsic Business Value
 
@@ -183,10 +117,9 @@ Late in 2012, we enlarged this group by acquiring Guard Insurance, a Wilkes-Barr
           General Re . . . . . . . . . . . . .       355         144         20,128         19,714
           GEICO . . . . . . . . . . . . . . . .      680*        576         11,578         11,169
           Other Primary . . . . . . . . . .          286         242           6,598         5,960
+                                                  $1,625       $ 248        $73,125       $70,571
 ```
 ]
-
-\$1,625 \$ 248 \$73,125 \$70,571
 
 \*After a \$410 million charge against earnings arising from an industry-wide accounting change.
 
@@ -200,25 +133,9 @@ A key characteristic of both companies is their huge investment in very long-liv
 
 Every day, our two subsidiaries power the American economy in major ways:
 
-- BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by
+- BNSF carries about 15% (measured by ton-miles) of all inter-city freight, whether it is transported by truck, rail, water, air, or pipeline. Indeed, we move more ton-miles of goods than anyone else, a fact making BNSF the most important artery in our economy’s circulatory system. BNSF also moves its cargo in an extraordinarily fuel-efficient and environmentally friendly way, carrying a ton of freight about 500 miles on a single gallon of diesel fuel. Trucks taking on the same job guzzle about four times as much fuel.
 
-truck, rail, water, air, or pipeline. Indeed, we move more ton-miles of goods than anyone else, a fact making BNSF the most important artery in our economy’s circulatory system.
-
-BNSF also moves its cargo in an extraordinarily fuel-efficient and environmentally friendly way, carrying a ton of freight about 500 miles on a single gallon of diesel fuel. Trucks taking on the same job guzzle about four times as much fuel.
-
-- MidAmerican’s electric utilities serve regulated retail customers in ten states. Only one utility holding
-
-company serves more states. In addition, we are the leader in renewables: first, from a standing start nine years ago, we now account for 6% of the country’s wind generation capacity. Second, when we complete three projects now under construction, we will own about 14% of U.S. solar-generation capacity.
-
-Projects like these require huge capital investments. Upon completion, indeed, our renewables portfolio will have cost \$13 billion. We relish making such commitments if they promise reasonable returns – and on that front, we put a large amount of trust in future regulation.
-
-Our confidence is justified both by our past experience and by the knowledge that society will forever need massive investment in both transportation and energy. It is in the self-interest of governments to treat capital providers in a manner that will ensure the continued flow of funds to essential projects. And it is in our self-interest to conduct our operations in a manner that earns the approval of our regulators and the people they represent.
-
-Our managers must think today of what the country will need far down the road. Energy and transportation projects can take many years to come to fruition; a growing country simply can’t afford to get behind the curve.
-
-We have been doing our part to make sure that doesn’t happen. Whatever you may have heard about our country’s crumbling infrastructure in no way applies to BNSF or railroads generally. America’s rail system has never been in better shape, a consequence of huge investments by the industry. We are not, however, resting on our laurels: BNSF will spend about \$4 billion on the railroad in 2013, roughly double its depreciation charge and more than any railroad has spent in a single year.
-
-In Matt Rose, at BNSF, and Greg Abel, at MidAmerican, we have two outstanding CEOs. They are extraordinary managers who have developed businesses that serve both their customers and owners well. Each has my gratitude and each deserves yours. Here are the key figures for their businesses:
+- MidAmerican’s electric utilities serve regulated retail customers in ten states. Only one utility holding company serves more states. In addition, we are the leader in renewables: first, from a standing start nine years ago, we now account for 6% of the country’s wind generation capacity. Second, when we complete three projects now under construction, we will own about 14% of U.S. solar-generation capacity. Projects like these require huge capital investments. Upon completion, indeed, our renewables portfolio will have cost \$13 billion. We relish making such commitments if they promise reasonable returns – and on that front, we put a large amount of trust in future regulation. Our confidence is justified both by our past experience and by the knowledge that society will forever need massive investment in both transportation and energy. It is in the self-interest of governments to treat capital providers in a manner that will ensure the continued flow of funds to essential projects. And it is in our self-interest to conduct our operations in a manner that earns the approval of our regulators and the people they represent. Our managers must think today of what the country will need far down the road. Energy and transportation projects can take many years to come to fruition; a growing country simply can’t afford to get behind the curve. We have been doing our part to make sure that doesn’t happen. Whatever you may have heard about our country’s crumbling infrastructure in no way applies to BNSF or railroads generally. America’s rail system has never been in better shape, a consequence of huge investments by the industry. We are not, however, resting on our laurels: BNSF will spend about \$4 billion on the railroad in 2013, roughly double its depreciation charge and more than any railroad has spent in a single year. In Matt Rose, at BNSF, and Greg Abel, at MidAmerican, we have two outstanding CEOs. They are extraordinary managers who have developed businesses that serve both their customers and owners well. Each has my gratitude and each deserves yours. Here are the key figures for their businesses:
 
 MidAmerican (89.8% owned) Earnings (in millions)
 
@@ -288,10 +205,9 @@ Total current assets . . . . . . . . . . . . . . . .        23,129
 Goodwill and other intangibles . . . . . .                  26,017            Term debt and other liabilities . .              5,826
 Fixed assets . . . . . . . . . . . . . . . . . . . . .      18,871            Non-controlling interests . . . . . .            2,062
 Other assets . . . . . . . . . . . . . . . . . . . . .       3,416            Berkshire equity . . . . . . . . . . . . .      48,657
+                                                           $71,433                                                           $71,433
 ```
 ]
-
-\$71,433 \$71,433
 
 
 #align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
@@ -378,10 +294,9 @@ Here’s the pre-tax earnings recap for this sector:
                   CORT . . . . . . . . . . . . . . . . . . . . . . . . . .       42                     29
                   XTRA . . . . . . . . . . . . . . . . . . . . . . . . . .      106                    126
                   Net financial income* . . . . . . . . . . . . .               410                    440
+                                                                               $848                   $774
 ```
 ]
-
-\$848 \$774
 
 \*Excludes capital gains or losses
 

@@ -325,6 +325,103 @@ def split_blocks(lines: list[str]) -> list[list[str]]:
     return blocks
 
 
+# Pattern for an enumerated list item — "(1)", "(a)", "1.", "i.", etc.
+# Uses a lookahead for the trailing non-whitespace so that re.sub() can strip
+# the marker without eating the first letter of the item body.
+ENUM_ITEM_RE = re.compile(
+    r"^\s{0,12}(?:\(?(?:\d{1,2}|[ivxIVX]{1,4}|[a-z])\)\.?|\d{1,2}\.)\s+(?=\S)"
+)
+
+
+def is_list_marker(line: str) -> bool:
+    return bool(BULLET_LINE_RE.match(line) or ENUM_ITEM_RE.match(line))
+
+
+def split_on_list_markers(blocks: list[list[str]]) -> list[list[str]]:
+    """Split a block at any bullet-glyph occurrence that isn't on its first
+    line — this undoes pdftotext's habit of merging the continuation of one
+    bullet with the start of the next when no blank line sat between them.
+
+    Only bullet glyphs trigger a split, not "(1)/(2)" enumerations: those
+    appear inline in Buffett's prose too often (e.g. "criteria: (1) X, (2) Y")
+    and would otherwise be mis-split.
+    """
+    out: list[list[str]] = []
+    for block in blocks:
+        current: list[str] = []
+        for i, line in enumerate(block):
+            if i > 0 and BULLET_LINE_RE.match(line):
+                if current:
+                    out.append(current)
+                    current = []
+            current.append(line)
+        if current:
+            out.append(current)
+    return out
+
+
+ORPHAN_FOOTNOTE_MARKER_RE = re.compile(r"^\s*\(\d+\)\s*$")
+NUMERIC_ONLY_RE = re.compile(r"^[\s$%(),.\-\d]+$")
+
+
+def merge_orphan_totals(blocks: list[list[str]]) -> list[list[str]]:
+    """Re-attach a single-line numeric block that fell off the end of a table.
+
+    pdftotext sometimes emits the totals row of a table as a separate
+    paragraph when the row had different spacing in the source PDF; the
+    block is short and contains only dollar amounts.
+    """
+    out: list[list[str]] = []
+    for block in blocks:
+        if (
+            out
+            and block_has_table_signals(out[-1])
+            and len(block) == 1
+            and len(block[0].strip()) > 0
+            and NUMERIC_ONLY_RE.match(block[0].strip())
+        ):
+            out[-1].append(block[0])
+        else:
+            out.append(block)
+    return out
+
+
+def merge_orphan_footnote_markers(blocks: list[list[str]]) -> list[list[str]]:
+    """A bare "(1)" / "(2)" line is a footnote marker abandoned by pdftotext.
+
+    Drop the marker line; its meaning is gone but the surrounding text is
+    cleaner without an orphan parenthesised digit.
+    """
+    return [b for b in blocks if not (len(b) == 1 and ORPHAN_FOOTNOTE_MARKER_RE.match(b[0]))]
+
+
+def merge_bullet_continuations(blocks: list[list[str]]) -> list[list[str]]:
+    """Merge non-bullet blocks that follow a bullet block when they're
+    indented — these are bullet items whose body got orphaned across an
+    original PDF page break. Threshold of 3 because a continuation across
+    a page can land at the page's new left margin (e.g. indent 4) rather
+    than at the deep bullet-text indent (e.g. 17).
+    """
+    out: list[list[str]] = []
+    for block in blocks:
+        if not block:
+            continue
+        starts_with_marker = is_list_marker(block[0])
+        first_indent = len(block[0]) - len(block[0].lstrip())
+        if (
+            out
+            and any(is_list_marker(l) for l in out[-1])
+            and not starts_with_marker
+            and first_indent >= 3
+            and not block_has_table_signals(block)
+            and not looks_like_heading_line(block[0])
+        ):
+            out[-1].extend(block)
+        else:
+            out.append(block)
+    return out
+
+
 def block_has_table_signals(block: list[str]) -> bool:
     """Detect tables both by dot leaders and by columnar number layout."""
     dot_lines = sum(1 for l in block if DOT_LEADER_RE.search(l))
@@ -427,6 +524,8 @@ def render_bullet(block: list[str]) -> str:
     items: list[str] = []
     current: list[str] = []
     for line in block:
+        # Split items only on bullet glyphs; inline "(1)/(2)/(3)" enumerations
+        # appear inside prose in Berkshire letters and must stay put.
         if BULLET_LINE_RE.match(line):
             if current:
                 items.append(" ".join(current).strip())
@@ -458,6 +557,10 @@ def render_para(block: list[str], *, footnote: bool = False) -> str:
 def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
     lines = normalise(text, year=year)
     blocks = split_blocks(lines)
+    blocks = merge_orphan_totals(blocks)
+    blocks = merge_orphan_footnote_markers(blocks)
+    blocks = split_on_list_markers(blocks)
+    blocks = merge_bullet_continuations(blocks)
 
     pieces: list[str] = [
         '#import "_helpers.typ": *\n',

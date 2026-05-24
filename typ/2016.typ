@@ -58,39 +58,7 @@ Capital Capital Year Operations (1) Gains (2) Year Operations (1) Gains (2)
 
 (1) Including interest and dividends from investments, but excluding capital gains or losses.
 
-(2) In very large part, this tabulation includes only realized capital gains or losses. Unrealized gains and losses are also included, however, when GAAP requires that treatment.
-
-Our expectation is that investment gains will continue to be substantial – though totally random as to timing – and that these will supply significant funds for business purchases. Concurrently, Berkshire’s superb corps of operating CEOs will focus on increasing earnings at the individual businesses they manage, sometimes helping them to grow by making bolt-on acquisitions. By our avoiding the issuance of Berkshire stock, any improvement in earnings will translate into equivalent per-share gains.
-
-#sectionbreak
-
-Our efforts to materially increase the normalized earnings of Berkshire will be aided – as they have been throughout our managerial tenure – by America’s economic dynamism. One word sums up our country’s achievements: miraculous. From a standing start 240 years ago – a span of time less than triple my days on earth – Americans have combined human ingenuity, a market system, a tide of talented and ambitious immigrants, and the rule of law to deliver abundance beyond any dreams of our forefathers.
-
-You need not be an economist to understand how well our system has worked. Just look around you. See the 75 million owner-occupied homes, the bountiful farmland, the 260 million vehicles, the hyper-productive factories, the great medical centers, the talent-filled universities, you name it – they all represent a net gain for Americans from the barren lands, primitive structures and meager output of 1776. Starting from scratch, America has amassed wealth totaling \$90 trillion.
-
-It’s true, of course, that American owners of homes, autos and other assets have often borrowed heavily to finance their purchases. If an owner defaults, however, his or her asset does not disappear or lose its usefulness. Rather, ownership customarily passes to an American lending institution that then disposes of it to an American buyer. Our nation’s wealth remains intact. As Gertrude Stein put it, “Money is always there, but the pockets change.”
-
-Above all, it’s our market system – an economic traffic cop ably directing capital, brains and labor – that has created America’s abundance. This system has also been the primary factor in allocating rewards. Governmental redirection, through federal, state and local taxation, has in addition determined the distribution of a significant portion of the bounty.
-
-America has, for example, decided that those citizens in their productive years should help both the old and the young. Such forms of aid – sometimes enshrined as “entitlements” – are generally thought of as applying to the aged. But don’t forget that four million American babies are born each year with an entitlement to a public education. That societal commitment, largely financed at the local level, costs about \$150,000 per baby. The annual cost totals more than \$600 billion, which is about 3 1⁄ 2% of GDP.
-
-However our wealth may be divided, the mind-boggling amounts you see around you belong almost exclusively to Americans. Foreigners, of course, own or have claims on a modest portion of our wealth. Those holdings, however, are of little importance to our national balance sheet: Our citizens own assets abroad that are roughly comparable in value.
-
-Early Americans, we should emphasize, were neither smarter nor more hard working than those people who toiled century after century before them. But those venturesome pioneers crafted a system that unleashed human potential, and their successors built upon it.
-
-This economic creation will deliver increasing wealth to our progeny far into the future. Yes, the build-up of wealth will be interrupted for short periods from time to time. It will not, however, be stopped. I’ll repeat what I’ve both said in the past and expect to say in future years: Babies born in America today are the luckiest crop in history.
-
-#sectionbreak
-
-America’s economic achievements have led to staggering profits for stockholders. During the 20th century the Dow-Jones Industrials advanced from 66 to 11,497, a 17,320% capital gain that was materially boosted by steadily increasing dividends. The trend continues: By yearend 2016, the index had advanced a further 72%, to 19,763.
-
-American business – and consequently a basket of stocks – is virtually certain to be worth far more in the years ahead. Innovation, productivity gains, entrepreneurial spirit and an abundance of capital will see to that. Ever-present naysayers may prosper by marketing their gloomy forecasts. But heaven help them if they act on the nonsense they peddle.
-
-Many companies, of course, will fall behind, and some will fail. Winnowing of that sort is a product of market dynamism. Moreover, the years ahead will occasionally deliver major market declines – even panics – that will affect virtually all stocks. No one can tell you when these traumas will occur – not me, not Charlie, not economists, not the media. Meg McConnell of the New York Fed aptly described the reality of panics: “We spend a lot of time looking for systemic risk; in truth, however, it tends to find us.”
-
-During such scary periods, you should never forget two things: First, widespread fear is your friend as an investor, because it serves up bargain purchases. Second, personal fear is your enemy. It will also be unwarranted. Investors who avoid high and unnecessary costs and simply sit for an extended period with a collection of large, conservatively-financed American businesses will almost certainly do well.
-
-As for Berkshire, our size precludes a brilliant result: Prospective returns fall as assets increase. Nonetheless, Berkshire’s collection of good businesses, along with the company’s impregnable financial strength and owner-oriented culture, should deliver decent results. We won’t be satisfied with less.
+(2) In very large part, this tabulation includes only realized capital gains or losses. Unrealized gains and losses are also included, however, when GAAP requires that treatment. Our expectation is that investment gains will continue to be substantial – though totally random as to timing – and that these will supply significant funds for business purchases. Concurrently, Berkshire’s superb corps of operating CEOs will focus on increasing earnings at the individual businesses they manage, sometimes helping them to grow by making bolt-on acquisitions. By our avoiding the issuance of Berkshire stock, any improvement in earnings will translate into equivalent per-share gains. \*\*\*\*\*\*\*\*\*\*\*\* Our efforts to materially increase the normalized earnings of Berkshire will be aided – as they have been throughout our managerial tenure – by America’s economic dynamism. One word sums up our country’s achievements: miraculous. From a standing start 240 years ago – a span of time less than triple my days on earth – Americans have combined human ingenuity, a market system, a tide of talented and ambitious immigrants, and the rule of law to deliver abundance beyond any dreams of our forefathers. You need not be an economist to understand how well our system has worked. Just look around you. See the 75 million owner-occupied homes, the bountiful farmland, the 260 million vehicles, the hyper-productive factories, the great medical centers, the talent-filled universities, you name it – they all represent a net gain for Americans from the barren lands, primitive structures and meager output of 1776. Starting from scratch, America has amassed wealth totaling \$90 trillion. It’s true, of course, that American owners of homes, autos and other assets have often borrowed heavily to finance their purchases. If an owner defaults, however, his or her asset does not disappear or lose its usefulness. Rather, ownership customarily passes to an American lending institution that then disposes of it to an American buyer. Our nation’s wealth remains intact. As Gertrude Stein put it, “Money is always there, but the pockets change.” Above all, it’s our market system – an economic traffic cop ably directing capital, brains and labor – that has created America’s abundance. This system has also been the primary factor in allocating rewards. Governmental redirection, through federal, state and local taxation, has in addition determined the distribution of a significant portion of the bounty. America has, for example, decided that those citizens in their productive years should help both the old and the young. Such forms of aid – sometimes enshrined as “entitlements” – are generally thought of as applying to the aged. But don’t forget that four million American babies are born each year with an entitlement to a public education. That societal commitment, largely financed at the local level, costs about \$150,000 per baby. The annual cost totals more than \$600 billion, which is about 3 1⁄ 2% of GDP. However our wealth may be divided, the mind-boggling amounts you see around you belong almost exclusively to Americans. Foreigners, of course, own or have claims on a modest portion of our wealth. Those holdings, however, are of little importance to our national balance sheet: Our citizens own assets abroad that are roughly comparable in value. Early Americans, we should emphasize, were neither smarter nor more hard working than those people who toiled century after century before them. But those venturesome pioneers crafted a system that unleashed human potential, and their successors built upon it. This economic creation will deliver increasing wealth to our progeny far into the future. Yes, the build-up of wealth will be interrupted for short periods from time to time. It will not, however, be stopped. I’ll repeat what I’ve both said in the past and expect to say in future years: Babies born in America today are the luckiest crop in history. \*\*\*\*\*\*\*\*\*\*\*\* America’s economic achievements have led to staggering profits for stockholders. During the 20th century the Dow-Jones Industrials advanced from 66 to 11,497, a 17,320% capital gain that was materially boosted by steadily increasing dividends. The trend continues: By yearend 2016, the index had advanced a further 72%, to 19,763. American business – and consequently a basket of stocks – is virtually certain to be worth far more in the years ahead. Innovation, productivity gains, entrepreneurial spirit and an abundance of capital will see to that. Ever-present naysayers may prosper by marketing their gloomy forecasts. But heaven help them if they act on the nonsense they peddle. Many companies, of course, will fall behind, and some will fail. Winnowing of that sort is a product of market dynamism. Moreover, the years ahead will occasionally deliver major market declines – even panics – that will affect virtually all stocks. No one can tell you when these traumas will occur – not me, not Charlie, not economists, not the media. Meg McConnell of the New York Fed aptly described the reality of panics: “We spend a lot of time looking for systemic risk; in truth, however, it tends to find us.” During such scary periods, you should never forget two things: First, widespread fear is your friend as an investor, because it serves up bargain purchases. Second, personal fear is your enemy. It will also be unwarranted. Investors who avoid high and unnecessary costs and simply sit for an extended period with a collection of large, conservatively-financed American businesses will almost certainly do well. As for Berkshire, our size precludes a brilliant result: Prospective returns fall as assets increase. Nonetheless, Berkshire’s collection of good businesses, along with the company’s impregnable financial strength and owner-oriented culture, should deliver decent results. We won’t be satisfied with less.
 
 Share Repurchases
 
@@ -217,10 +185,9 @@ BH Reinsurance ....................................       $ 822         $ 421   
 General Re ...........................................      190           132            17,699             18,560
 GEICO ................................................      462           460            17,148             15,148
 Other Primary .......................................       657           824            11,649              9,906
+                                                          $2,131        $1,837         $ 91,577           $ 87,722
 ```
 ]
-
-\$2,131 \$1,837 \$ 91,577 \$ 87,722
 
 Berkshire’s great managers, premier financial strength and a range of business models protected by wide moats amount to something unique in the insurance world. This assemblage of strengths is a huge asset for Berkshire shareholders that time will only make more valuable.
 
@@ -317,10 +284,9 @@ Total current assets .............................           36,022
 Goodwill and other intangibles ..............                71,473         Term debt and other liabilities ...........          10,943
 Fixed assets .......................................         18,915         Non-controlling interests ..................            579
 Other assets .......................................          3,183         Berkshire equity .............................       91,509
+                                                         $129,593                                                            $129,593
 ```
 ]
-
-\$129,593 \$129,593
 
 
 #align(center)[#text(size: 10pt, style: "italic")[Earnings Statement (in millions)]]
@@ -427,10 +393,9 @@ Here’s the pre-tax earnings recap for our finance-related companies:
       Marmon – Railcars .....................................................              654           546           442
       XTRA .....................................................................           179           172           147
       Net financial income* .................................................              276           341           283
+                                                                                     $ 2,130       $ 2,086       $ 1,839
 ```
 ]
-
-\$ 2,130 \$ 2,086 \$ 1,839
 
 #footnoteblock[\* Excludes capital gains or losses]
 

@@ -196,10 +196,9 @@ Total current assets .................................        10,956
 Goodwill and other intangibles...............                 13,314     Deferred taxes............................            540
 Fixed assets.............................................      8,934     Term debt and other liabilities...                  3,014
 Other assets.............................................      1,168     Equity ........................................    22,715
+                                                             $34,372                                                       $34,372
 ```
 ]
-
-\$34,372 \$34,372
 
 == Earnings Statement (in millions)
 
@@ -220,23 +219,11 @@ This motley group, which sells products ranging from lollipops to motor homes, e
 
 Here are a few newsworthy items about companies in this sector:
 
-- Bob Shaw, a remarkable entrepreneur who from a standing start built Shaw Industries into the
+- Bob Shaw, a remarkable entrepreneur who from a standing start built Shaw Industries into the country’s largest carpet producer, elected last year, at age 75, to retire. To succeed him, Bob recommended Vance Bell, a 31-year veteran at Shaw, and Bob, as usual, made the right call. Weakness in housing has caused the carpet business to slow. Shaw, however, remains a powerhouse and a major contributor to Berkshire’s earnings.
 
-country’s largest carpet producer, elected last year, at age 75, to retire. To succeed him, Bob recommended Vance Bell, a 31-year veteran at Shaw, and Bob, as usual, made the right call. Weakness in housing has caused the carpet business to slow. Shaw, however, remains a powerhouse and a major contributor to Berkshire’s earnings.
+- MiTek, a manufacturer of connectors for roof trusses at the time we purchased it in 2001, is developing into a mini-conglomerate. At the rate it is growing, in fact, “mini” may soon be inappropriate. In purchasing MiTek for \$420 million, we lent the company \$200 million at 9% and bought \$198 million of stock, priced at \$10,000 per share. Additionally, 55 employees bought 2,200 shares for \$22 million. Each employee paid exactly the same price that we did, in most cases borrowing money to do so. And are they ever glad they did! Five years later, MiTek’s sales have tripled and the stock is valued at \$71,699 per share. Despite its making 14 acquisitions, at a cost of \$291 million, MiTek has paid off its debt to Berkshire and holds \$35 million of cash. We celebrated the fifth anniversary of our purchase with a party in July. I told the group that it would be embarrassing if MiTek’s stock price soared beyond that of Berkshire “A” shares. Don’t be surprised, however, if that happens (though Charlie and I will try to make our shares a moving target).
 
-- MiTek, a manufacturer of connectors for roof trusses at the time we purchased it in 2001, is
-
-developing into a mini-conglomerate. At the rate it is growing, in fact, “mini” may soon be inappropriate. In purchasing MiTek for \$420 million, we lent the company \$200 million at 9% and bought \$198 million of stock, priced at \$10,000 per share. Additionally, 55 employees bought 2,200 shares for \$22 million. Each employee paid exactly the same price that we did, in most cases borrowing money to do so.
-
-And are they ever glad they did! Five years later, MiTek’s sales have tripled and the stock is valued at \$71,699 per share. Despite its making 14 acquisitions, at a cost of \$291 million, MiTek has paid off its debt to Berkshire and holds \$35 million of cash. We celebrated the fifth anniversary of our purchase with a party in July. I told the group that it would be embarrassing if MiTek’s stock price soared beyond that of Berkshire “A” shares. Don’t be surprised, however, if that happens (though Charlie and I will try to make our shares a moving target).
-
-- Not all of our businesses are destined to increase profits. When an industry’s underlying
-
-economics are crumbling, talented management may slow the rate of decline. Eventually, though, eroding fundamentals will overwhelm managerial brilliance. (As a wise friend told me long ago, “If you want to get a reputation as a good businessman, be sure to get into a good business.”) And fundamentals are definitely eroding in the newspaper industry, a trend that has caused the profits of our Buffalo News to decline. The skid will almost certainly continue.
-
-When Charlie and I were young, the newspaper business was as easy a way to make huge returns as existed in America. As one not-too-bright publisher famously said, “I owe my fortune to two great American institutions: monopoly and nepotism.” No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits.
-
-The industry’s staggering returns could be simply explained. For most of the 20th Century, newspapers were the primary source of information for the American public. Whether the subject was sports, finance, or politics, newspapers reigned supreme. Just as important, their ads were the easiest way to find job opportunities or to learn the price of groceries at your town’s supermarkets.
+- Not all of our businesses are destined to increase profits. When an industry’s underlying economics are crumbling, talented management may slow the rate of decline. Eventually, though, eroding fundamentals will overwhelm managerial brilliance. (As a wise friend told me long ago, “If you want to get a reputation as a good businessman, be sure to get into a good business.”) And fundamentals are definitely eroding in the newspaper industry, a trend that has caused the profits of our Buffalo News to decline. The skid will almost certainly continue. When Charlie and I were young, the newspaper business was as easy a way to make huge returns as existed in America. As one not-too-bright publisher famously said, “I owe my fortune to two great American institutions: monopoly and nepotism.” No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits. The industry’s staggering returns could be simply explained. For most of the 20th Century, newspapers were the primary source of information for the American public. Whether the subject was sports, finance, or politics, newspapers reigned supreme. Just as important, their ads were the easiest way to find job opportunities or to learn the price of groceries at your town’s supermarkets.
 
 The great majority of families therefore felt the need for a paper every day, but understandably most didn’t wish to pay for two. Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages. This circularity led to a law of the newspaper jungle: Survival of the Fattest.
 
@@ -256,17 +243,7 @@ We are likely therefore to see non-economic individual buyers of newspapers emer
 
 Unless we face an irreversible cash drain, we will stick with the News, just as we’ve said that we would. (Read economic principle 11, on page 76.) Charlie and I love newspapers – we each read five a day – and believe that a free and energetic press is a key ingredient for maintaining a great democracy. We hope that some combination of print and online will ward off economic doomsday for newspapers, and we will work hard in Buffalo to develop a sustainable business model. I think we will be successful. But the days of lush profits from our newspaper are over.
 
-- A much improved situation is emerging at NetJets, which sells and manages fractionally-owned
-
-aircraft. This company has never had a problem growing: Revenues from flight operations have increased 596% since our purchase in 1998. But profits had been erratic.
-
-Our move to Europe, which began in 1996, was particularly expensive. After five years of operation there, we had acquired only 80 customers. And by mid-year 2006 our cumulative pre- tax loss had risen to \$212 million. But European demand has now exploded, with a net of 589 customers having been added in 2005-2006. Under Mark Booth’s brilliant leadership, NetJets is now operating profitably in Europe, and we expect the positive trend to continue.
-
-Our U.S. operation also had a good year in 2006, which led to worldwide pre-tax earnings of \$143 million at NetJets last year. We made this profit even though we suffered a loss of \$19 million in the first quarter.
-
-Credit Rich Santulli, along with Mark, for this turnaround. Rich, like many of our managers, has no financial need to work. But you’d never know it. He’s absolutely tireless – monitoring operations, making sales, and traveling the globe to constantly widen the already-enormous lead that NetJets enjoys over its competitors. Today, the value of the fleet we manage is far greater than that managed by our three largest competitors combined.
-
-There’s a reason NetJets is the runaway leader: It offers the ultimate in safety and service. At Berkshire, and at a number of our subsidiaries, NetJets aircraft are an indispensable business tool. I also have a contract for personal use with NetJets and so do members of my family and most Berkshire directors. (None of us, I should add, gets a discount.) Once you’ve flown NetJets, returning to commercial flights is like going back to holding hands.
+- A much improved situation is emerging at NetJets, which sells and manages fractionally-owned aircraft. This company has never had a problem growing: Revenues from flight operations have increased 596% since our purchase in 1998. But profits had been erratic. Our move to Europe, which began in 1996, was particularly expensive. After five years of operation there, we had acquired only 80 customers. And by mid-year 2006 our cumulative pre- tax loss had risen to \$212 million. But European demand has now exploded, with a net of 589 customers having been added in 2005-2006. Under Mark Booth’s brilliant leadership, NetJets is now operating profitably in Europe, and we expect the positive trend to continue. Our U.S. operation also had a good year in 2006, which led to worldwide pre-tax earnings of \$143 million at NetJets last year. We made this profit even though we suffered a loss of \$19 million in the first quarter. Credit Rich Santulli, along with Mark, for this turnaround. Rich, like many of our managers, has no financial need to work. But you’d never know it. He’s absolutely tireless – monitoring operations, making sales, and traveling the globe to constantly widen the already-enormous lead that NetJets enjoys over its competitors. Today, the value of the fleet we manage is far greater than that managed by our three largest competitors combined. There’s a reason NetJets is the runaway leader: It offers the ultimate in safety and service. At Berkshire, and at a number of our subsidiaries, NetJets aircraft are an indispensable business tool. I also have a contract for personal use with NetJets and so do members of my family and most Berkshire directors. (None of us, I should add, gets a discount.) Once you’ve flown NetJets, returning to commercial flights is like going back to holding hands.
 
 == Regulated Utility Business
 

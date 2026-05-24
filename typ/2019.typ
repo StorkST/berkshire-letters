@@ -74,13 +74,7 @@ Yearend Berkshire’s Share (in millions) Company Ownership Dividends(1) Retaine
 ```
 ]
 
-(1) Based on current annual rate. (2) Based on 2019 earnings minus common and preferred dividends paid.
-
-Obviously, the realized gains we will eventually record from partially owning each of these companies will not neatly correspond to “our” share of their retained earnings. Sometimes, alas, retentions produce nothing. But both logic and our past experience indicate that from the group we will realize capital gains at least equal to – and probably better than – the earnings of ours that they retained. (When we sell shares and realize gains, we will pay income tax on the gain at whatever rate then prevails. Currently, the federal rate is 21%.)
-
-It is certain that Berkshire’s rewards from these 10 companies, as well as those from our many other equity holdings, will manifest themselves in a highly irregular manner. Periodically, there will be losses, sometimes company-specific, sometimes linked to stock-market swoons. At other times – last year was one of those – our gain will be outsized. Overall, the retained earnings of our investees are certain to be of major importance in the growth of Berkshire’s value.
-
-Mr. Smith got it right.
+(1) Based on current annual rate. (2) Based on 2019 earnings minus common and preferred dividends paid. Obviously, the realized gains we will eventually record from partially owning each of these companies will not neatly correspond to “our” share of their retained earnings. Sometimes, alas, retentions produce nothing. But both logic and our past experience indicate that from the group we will realize capital gains at least equal to – and probably better than – the earnings of ours that they retained. (When we sell shares and realize gains, we will pay income tax on the gain at whatever rate then prevails. Currently, the federal rate is 21%.) It is certain that Berkshire’s rewards from these 10 companies, as well as those from our many other equity holdings, will manifest themselves in a highly irregular manner. Periodically, there will be losses, sometimes company-specific, sometimes linked to stock-market swoons. At other times – last year was one of those – our gain will be outsized. Overall, the retained earnings of our investees are certain to be of major importance in the growth of Berkshire’s value. Mr. Smith got it right.
 
 == Non-Insurance Operations
 
