@@ -1,2 +1,6 @@
 # Intermediate text extracted from source PDFs (regeneratable with pdftotext)
 text/
+
+# Python bytecode
+__pycache__/
+*.pyc
