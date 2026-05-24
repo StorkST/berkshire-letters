@@ -165,3 +165,5 @@ A handful of cosmetic artefacts from the original PDFs (page numbers, running he
 #include "typ/2022.typ"
 #include "typ/2023.typ"
 #include "typ/2024.typ"
+
+#include "typ/_appendix.typ"

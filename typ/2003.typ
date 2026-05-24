@@ -2,72 +2,11 @@
 
 = 2003 Annual Letter <letter-2003>
 
-Note: The following table appears in the printed Annual Report on the facing page of the Chairman's Letter and is referred to in that letter.
-
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                            Annual Percentage Change
-                                                                         in Per-Share      in S&P 500
-                                                                        Book Value of     with Dividends   Relative
-                                                                           Berkshire         Included      Results
-         Year                                                                 (1)               (2)         (1)-(2)
-         1965      ..................................................       23.8               10.0          13.8
-         1966      ..................................................       20.3              (11.7)         32.0
-         1967      ..................................................       11.0               30.9         (19.9)
-         1968      ..................................................       19.0               11.0           8.0
-         1969      ..................................................       16.2               (8.4)         24.6
-         1970      ..................................................       12.0                3.9           8.1
-         1971      ..................................................       16.4               14.6           1.8
-         1972      ..................................................       21.7               18.9           2.8
-         1973      ..................................................         4.7             (14.8)         19.5
-         1974      ..................................................         5.5             (26.4)         31.9
-         1975      ..................................................       21.9               37.2         (15.3)
-         1976      ..................................................       59.3               23.6          35.7
-         1977      ..................................................       31.9               (7.4)         39.3
-         1978      ..................................................       24.0                6.4          17.6
-         1979      ..................................................       35.7               18.2          17.5
-         1980      ..................................................       19.3               32.3         (13.0)
-         1981      ..................................................       31.4               (5.0)         36.4
-         1982      ..................................................       40.0               21.4          18.6
-         1983      ..................................................       32.3               22.4           9.9
-         1984      ..................................................       13.6                6.1           7.5
-         1985      ..................................................       48.2               31.6          16.6
-         1986      ..................................................       26.1               18.6           7.5
-         1987      ..................................................       19.5                5.1          14.4
-         1988      ..................................................       20.1               16.6           3.5
-         1989      ..................................................       44.4               31.7          12.7
-         1990      ..................................................         7.4              (3.1)         10.5
-         1991      ..................................................       39.6               30.5           9.1
-         1992      ..................................................       20.3                7.6          12.7
-         1993      ..................................................       14.3               10.1           4.2
-         1994      ..................................................       13.9                1.3          12.6
-         1995      ..................................................       43.1               37.6           5.5
-         1996      ..................................................       31.8               23.0           8.8
-         1997      ..................................................       34.1               33.4            .7
-         1998      ..................................................       48.3               28.6          19.7
-         1999      ..................................................          .5              21.0         (20.5)
-         2000      ..................................................         6.5              (9.1)         15.6
-         2001      ..................................................        (6.2)            (11.9)          5.7
-         2002      ..................................................       10.0              (22.1)         32.1
-         2003      ..................................................       21.0               28.7          (7.7)
-```
-]
-
-Average Annual Gain — 1965-2003 22.2 10.4 11.8 Overall Gain — 1964-2003 259,485 4,743
-
-Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
-
-Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire's results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 Our gain in net worth during 2003 was \$13.6 billion, which increased the per-share book value of both our Class A and Class B stock by 21%. Over the last 39 years (that is, since present management took over) per-share book value has grown from \$19 to \$50,498, a rate of 22.2% compounded annually.\*
 
 It’s per-share intrinsic value that counts, however, not book value. Here, the news is good: Between 1964 and 2003, Berkshire morphed from a struggling northern textile business whose intrinsic value was less than book into a widely diversified enterprise worth far more than book. Our 39-year gain in intrinsic value has therefore somewhat exceeded our 22.2% gain in book. (For a better understanding of intrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire’s vice- chairman, and me in running Berkshire, please read our Owner’s Manual, beginning on page 69.)
-
-Despite their shortcomings, book value calculations are useful at Berkshire as a slightly understated gauge for measuring the long-term rate of increase in our intrinsic value. The calculation is less relevant, however, than it once was in rating any single year’s performance versus the S&P 500 index (a comparison we display on the facing page). Our equity holdings, including convertible preferreds, have fallen considerably as a percentage of our net worth, from an average of 114% in the 1980s, for example, to an average of 50% in 2000-03. Therefore, yearly movements in the stock market now affect a much smaller portion of our net worth than was once the case.
 
 Nonetheless, Berkshire’s long-term performance versus the S&P remains all-important. Our shareholders can buy the S&P through an index fund at very low cost. Unless we achieve gains in per- share intrinsic value in the future that outdo the S&P’s performance, Charlie and I will be adding nothing to what you can accomplish on your own.
 

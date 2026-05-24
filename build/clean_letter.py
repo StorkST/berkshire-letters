@@ -28,6 +28,64 @@ SHAREHOLDERS_INTRO_RE = re.compile(
 )
 ASTERISK_FOOTER_RE = re.compile(r"^\s*\*\s*$")
 
+# Performance-table detection ------------------------------------------------
+
+PERF_YEAR_ROW_RE = re.compile(r"^\s*(?:19[6-9]\d|20[0-2]\d)\b.*\.\s?\.")
+PERF_TITLE_KEYWORDS = ("performance", "corporate performance")
+
+
+def is_perf_data(block: list[str]) -> bool:
+    year_rows = sum(1 for l in block if PERF_YEAR_ROW_RE.match(l))
+    return year_rows >= 5
+
+
+def is_perf_summary(text_lower: str) -> bool:
+    return (
+        "compounded annual gain" in text_lower
+        or "average annual gain" in text_lower
+        or bool(re.search(r"overall gain\s*[–-]\s*19\d\d", text_lower))
+    )
+
+
+def is_perf_title(block: list[str]) -> bool:
+    text = " ".join(block).strip()
+    low = text.lower()
+    if "berkshire" not in low or "s&p 500" not in low:
+        return False
+    if not any(k in low for k in PERF_TITLE_KEYWORDS):
+        return False
+    # Short title-only block, no big data run.
+    return len(block) <= 8 and not is_perf_data(block)
+
+
+def is_perf_notes(text_lower: str) -> bool:
+    if "calendar years" in text_lower and "1965" in text_lower:
+        return True
+    if "s&p 500 numbers are pre-tax" in text_lower:
+        return True
+    if "starting in 1979, accounting rules" in text_lower:
+        return True
+    return False
+
+
+def is_perf_preface(text_lower: str) -> bool:
+    return "following table appears" in text_lower and "chairman" in text_lower
+
+
+def is_perf_related(block: list[str]) -> bool:
+    if is_perf_data(block):
+        return True
+    if is_perf_title(block):
+        return True
+    low = " ".join(block).lower()
+    if is_perf_summary(low):
+        return True
+    if is_perf_notes(low):
+        return True
+    if is_perf_preface(low):
+        return True
+    return False
+
 # Paragraph break detection: a line that starts with this much (or more)
 # leading whitespace, while the previous non-blank line started with less,
 # marks a new paragraph in the older letters.
@@ -204,7 +262,7 @@ def render_para(block: list[str], *, footnote: bool = False) -> str:
     return text + "\n"
 
 
-def convert(text: str, year: int) -> str:
+def convert(text: str, year: int) -> tuple[str, list[list[str]]]:
     lines = normalise(text)
     blocks = split_blocks(lines)
 
@@ -213,8 +271,20 @@ def convert(text: str, year: int) -> str:
         f"= {year} Annual Letter <letter-{year}>\n",
     ]
     intro_seen = False
+    perf_blocks: list[list[str]] = []  # captured for appendix (2024 only)
+    perf_title_seen = False
 
     for block in blocks:
+        if is_perf_related(block):
+            # Always strip from the main flow; capture for appendix on 2024.
+            if is_perf_title(block):
+                if not perf_title_seen:
+                    perf_blocks.append(block)
+                    perf_title_seen = True
+            else:
+                perf_blocks.append(block)
+            continue
+
         kind = classify_block(block)
         if kind == "sep":
             pieces.append("#sectionbreak\n")
@@ -242,6 +312,33 @@ def convert(text: str, year: int) -> str:
             continue
         pieces.append(render_para(block, footnote=is_footnote))
 
+    return "\n".join(pieces), perf_blocks
+
+
+def render_appendix(perf_blocks: list[list[str]]) -> str:
+    pieces = [
+        '#import "_helpers.typ": *\n',
+        '= Appendix: Berkshire Performance, 1965–2024 <appendix-performance>\n',
+        (
+            "Warren Buffett opens every annual letter with the same multi-decade "
+            "comparison: Berkshire's per-share results against the S&P 500. "
+            "Rather than repeat twenty-five lightly-incremented copies of this "
+            "table — one per letter — this edition keeps only the most recent "
+            "version, taken verbatim from the 2024 letter. The earlier versions "
+            "are available in the original PDFs at "
+            "#link(\"https://www.berkshirehathaway.com/letters/letters.html\")"
+            "[berkshirehathaway.com/letters].\n"
+        ),
+    ]
+    for block in perf_blocks:
+        low = " ".join(block).lower()
+        if is_perf_notes(low) and not is_perf_data(block):
+            pieces.append(render_para(block, footnote=True))
+        elif is_perf_title(block):
+            text = typst_escape(" ".join(block).strip())
+            pieces.append(f"\n#align(center)[#text(size: 11pt, weight: \"bold\")[{text}]]\n")
+        else:
+            pieces.append(render_table(block))
     return "\n".join(pieces)
 
 
@@ -252,7 +349,11 @@ def main(argv: list[str]) -> int:
     src = Path(argv[1])
     dst = Path(argv[2])
     year = int(src.stem)
-    dst.write_text(convert(src.read_text(encoding="utf-8"), year), encoding="utf-8")
+    body, perf_blocks = convert(src.read_text(encoding="utf-8"), year)
+    dst.write_text(body, encoding="utf-8")
+    if year == 2024 and perf_blocks:
+        appendix_path = dst.parent / "_appendix.typ"
+        appendix_path.write_text(render_appendix(perf_blocks), encoding="utf-8")
     return 0
 
 

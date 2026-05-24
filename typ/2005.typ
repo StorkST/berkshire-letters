@@ -2,65 +2,6 @@
 
 = 2005 Annual Letter <letter-2005>
 
-Note: The following table appears in the printed Annual Report on the facing page of the Chairman's Letter
-
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                            Annual Percentage Change
-                                                                         in Per-Share      in S&P 500
-                                                                        Book Value of     with Dividends   Relative
-                                                                           Berkshire         Included      Results
-         Year                                                                 (1)               (2)         (1)-(2)
-         1965      ..................................................       23.8               10.0          13.8
-         1966      ..................................................       20.3              (11.7)         32.0
-         1967      ..................................................       11.0               30.9         (19.9)
-         1968      ..................................................       19.0               11.0           8.0
-         1969      ..................................................       16.2               (8.4)         24.6
-         1970      ..................................................       12.0                3.9           8.1
-         1971      ..................................................       16.4               14.6           1.8
-         1972      ..................................................       21.7               18.9           2.8
-         1973      ..................................................         4.7             (14.8)         19.5
-         1974      ..................................................         5.5             (26.4)         31.9
-         1975      ..................................................       21.9               37.2         (15.3)
-         1976      ..................................................       59.3               23.6          35.7
-         1977      ..................................................       31.9               (7.4)         39.3
-         1978      ..................................................       24.0                6.4          17.6
-         1979      ..................................................       35.7               18.2          17.5
-         1980      ..................................................       19.3               32.3         (13.0)
-         1981      ..................................................       31.4               (5.0)         36.4
-         1982      ..................................................       40.0               21.4          18.6
-         1983      ..................................................       32.3               22.4           9.9
-         1984      ..................................................       13.6                6.1           7.5
-         1985      ..................................................       48.2               31.6          16.6
-         1986      ..................................................       26.1               18.6           7.5
-         1987      ..................................................       19.5                5.1          14.4
-         1988      ..................................................       20.1               16.6           3.5
-         1989      ..................................................       44.4               31.7          12.7
-         1990      ..................................................         7.4              (3.1)         10.5
-         1991      ..................................................       39.6               30.5           9.1
-         1992      ..................................................       20.3                7.6          12.7
-         1993      ..................................................       14.3               10.1           4.2
-         1994      ..................................................       13.9                1.3          12.6
-         1995      ..................................................       43.1               37.6           5.5
-         1996      ..................................................       31.8               23.0           8.8
-         1997      ..................................................       34.1               33.4            .7
-         1998      ..................................................       48.3               28.6          19.7
-         1999      ..................................................          .5              21.0         (20.5)
-         2000      ..................................................         6.5              (9.1)         15.6
-         2001      ..................................................        (6.2)            (11.9)          5.7
-         2002      ..................................................       10.0              (22.1)         32.1
-         2003      ..................................................       21.0               28.7          (7.7)
-         2004      ..................................................       10.5               10.9           (.4)
-         2005      ..................................................         6.4               4.9           1.5
-```
-]
-
-Average Annual Gain — 1965-2005 21.5 10.3 11.2 Overall Gain — 1964-2005 305,134 5,583 Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
-
-Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 Our gain in net worth during 2005 was \$5.6 billion, which increased the per-share book value of both our Class A and Class B stock by 6.4%. Over the last 41 years (that is, since present management took over) book value has grown from \$19 to \$59,377, a rate of 21.5% compounded annually.\*
@@ -83,35 +24,9 @@ Before we look at our individual businesses, however, let’s review two sets of
 
 == Year                                                            Per-Share Investments\*
 
-#tablebox[
-```
-                  1965 .....................................................................   $     4
-                  1975 .....................................................................       159
-                  1985 .....................................................................     2,407
-                  1995 .....................................................................    21,817
-                  2005 .....................................................................   $74,129
-                  Compound Growth Rate 1965-2005....................                             28.0%
-                  Compound Growth Rate 1995-2005....................                             13.0%
-                 *Net of minority interests
-```
-]
-
 In addition to these marketable securities, which with minor exceptions are held in our insurance companies, we own a wide variety of non-insurance businesses. Below, we show the pre-tax earnings (excluding goodwill amortization) of these businesses, again on a per-share basis:
 
 == Year                                                              Per-Share Earnings\*
-
-#tablebox[
-```
-                  1965 .....................................................................   $        4
-                  1975 .....................................................................            4
-                  1985 .....................................................................           52
-                  1995 .....................................................................          175
-                  2005 .....................................................................       $2,441
-                  Compound Growth Rate 1965-2005....................                                17.2%
-                  Compound Growth Rate 1995-2005....................                                30.2%
-                 *Pre-tax and net of minority interests
-```
-]
 
 When growth rates are under discussion, it will pay you to be suspicious as to why the beginning and terminal years have been selected. If either year was aberrational, any calculation of growth will be distorted. In particular, a base year in which earnings were poor can produce a breathtaking, but meaningless, growth rate. In the table above, however, the base year of 1965 was abnormally good; Berkshire earned more money in that year than it did in all but one of the previous ten.
 

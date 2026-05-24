@@ -2,72 +2,11 @@
 
 = 2001 Annual Letter <letter-2001>
 
-Note: The following table appears in the printed Annual Report on the facing page of the Chairman's Letter and is referred to in that letter.
-
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                            Annual Percentage Change
-                                                                         in Per-Share      in S&P 500
-                                                                        Book Value of     with Dividends   Relative
-                                                                           Berkshire         Included      Results
-         Year                                                                 (1)               (2)         (1)-(2)
-         1965      ..................................................       23.8               10.0          13.8
-         1966      ..................................................       20.3              (11.7)         32.0
-         1967      ..................................................       11.0               30.9         (19.9)
-         1968      ..................................................       19.0               11.0           8.0
-         1969      ..................................................       16.2               (8.4)         24.6
-         1970      ..................................................       12.0                3.9           8.1
-         1971      ..................................................       16.4               14.6           1.8
-         1972      ..................................................       21.7               18.9           2.8
-         1973      ..................................................         4.7             (14.8)         19.5
-         1974      ..................................................         5.5             (26.4)         31.9
-         1975      ..................................................       21.9               37.2         (15.3)
-         1976      ..................................................       59.3               23.6          35.7
-         1977      ..................................................       31.9               (7.4)         39.3
-         1978      ..................................................       24.0                6.4          17.6
-         1979      ..................................................       35.7               18.2          17.5
-         1980      ..................................................       19.3               32.3         (13.0)
-         1981      ..................................................       31.4               (5.0)         36.4
-         1982      ..................................................       40.0               21.4          18.6
-         1983      ..................................................       32.3               22.4           9.9
-         1984      ..................................................       13.6                6.1           7.5
-         1985      ..................................................       48.2               31.6          16.6
-         1986      ..................................................       26.1               18.6           7.5
-         1987      ..................................................       19.5                5.1          14.4
-         1988      ..................................................       20.1               16.6           3.5
-         1989      ..................................................       44.4               31.7          12.7
-         1990      ..................................................         7.4              (3.1)         10.5
-         1991      ..................................................       39.6               30.5           9.1
-         1992      ..................................................       20.3                7.6          12.7
-         1993      ..................................................       14.3               10.1           4.2
-         1994      ..................................................       13.9                1.3          12.6
-         1995      ..................................................       43.1               37.6           5.5
-         1996      ..................................................       31.8               23.0           8.8
-         1997      ..................................................       34.1               33.4            .7
-         1998      ..................................................       48.3               28.6          19.7
-         1999      ..................................................          .5              21.0         (20.5)
-         2000      ..................................................         6.5              (9.1)         15.6
-         2001      ..................................................        (6.2)            (11.9)          5.7
-```
-]
-
-Average Annual Gain – 1965-2001 22.6% 11.0% 11.6% Overall Gain – 1964-2001 194,936% 4,742% 190,194%
-
-Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
-
-Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire's results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 Berkshire’s loss in net worth during 2001 was \$3.77 billion, which decreased the per-share book value of both our Class A and Class B stock by 6.2%. Over the last 37 years (that is, since present management took over) per-share book value has grown from \$19 to \$37,920, a rate of 22.6% compounded annually.∗
 
 Per-share intrinsic grew somewhat faster than book value during these 37 years, and in 2001 it probably decreased a bit less. We explain intrinsic value in our Owner’s Manual, which begins on page 62. I urge new shareholders to read this manual to become familiar with Berkshire’s key economic principles.
-
-Two years ago, reporting on 1999, I said that we had experienced both the worst absolute and relative performance in our history. I added that “relative results are what concern us,” a viewpoint I’ve had since forming my first investment partnership on May 5, 1956. Meeting with my seven founding limited partners that evening, I gave them a short paper titled “The Ground Rules” that included this sentence: “Whether we do a good job or a poor job is to be measured against the general experience in securities.” We initially used the Dow Jones Industrials as our benchmark, but shifted to the S&P 500 when that index became widely used. Our comparative record since 1965 is chronicled on the facing page; last year Berkshire’s advantage was 5.7 percentage points.
-
-Some people disagree with our focus on relative figures, arguing that “you can’t eat relative performance.” But if you expect – as Charlie Munger, Berkshire’s Vice Chairman, and I do – that owning the S&P 500 will produce reasonably satisfactory results over time, it follows that, for long-term investors, gaining small advantages annually over that index must prove rewarding. Just as you can eat well throughout the year if you own a profitable, but highly seasonal, business such as See’s (which loses considerable money during the summer months) so, too, can you regularly feast on investment returns that beat the averages, however variable the absolute numbers may be.
 
 Though our corporate performance last year was satisfactory, my performance was anything but. I manage most of Berkshire’s equity portfolio, and my results were poor, just as they have been for several years. Of even more importance, I allowed General Re to take on business without a safeguard I knew was important, and on September 11th, this error caught up with us. I’ll tell you more about my mistake later and what we are doing to correct it.
 

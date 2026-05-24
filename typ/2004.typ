@@ -2,73 +2,11 @@
 
 = 2004 Annual Letter <letter-2004>
 
-Note: The following table appears in the printed Annual Report on the facing page of the Chairman's Letter and is referred to in that letter.
-
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                            Annual Percentage Change
-                                                                         in Per-Share      in S&P 500
-                                                                        Book Value of     with Dividends   Relative
-                                                                           Berkshire         Included      Results
-         Year                                                                 (1)               (2)         (1)-(2)
-         1965      ..................................................       23.8               10.0          13.8
-         1966      ..................................................       20.3              (11.7)         32.0
-         1967      ..................................................       11.0               30.9         (19.9)
-         1968      ..................................................       19.0               11.0           8.0
-         1969      ..................................................       16.2               (8.4)         24.6
-         1970      ..................................................       12.0                3.9           8.1
-         1971      ..................................................       16.4               14.6           1.8
-         1972      ..................................................       21.7               18.9           2.8
-         1973      ..................................................         4.7             (14.8)         19.5
-         1974      ..................................................         5.5             (26.4)         31.9
-         1975      ..................................................       21.9               37.2         (15.3)
-         1976      ..................................................       59.3               23.6          35.7
-         1977      ..................................................       31.9               (7.4)         39.3
-         1978      ..................................................       24.0                6.4          17.6
-         1979      ..................................................       35.7               18.2          17.5
-         1980      ..................................................       19.3               32.3         (13.0)
-         1981      ..................................................       31.4               (5.0)         36.4
-         1982      ..................................................       40.0               21.4          18.6
-         1983      ..................................................       32.3               22.4           9.9
-         1984      ..................................................       13.6                6.1           7.5
-         1985      ..................................................       48.2               31.6          16.6
-         1986      ..................................................       26.1               18.6           7.5
-         1987      ..................................................       19.5                5.1          14.4
-         1988      ..................................................       20.1               16.6           3.5
-         1989      ..................................................       44.4               31.7          12.7
-         1990      ..................................................         7.4              (3.1)         10.5
-         1991      ..................................................       39.6               30.5           9.1
-         1992      ..................................................       20.3                7.6          12.7
-         1993      ..................................................       14.3               10.1           4.2
-         1994      ..................................................       13.9                1.3          12.6
-         1995      ..................................................       43.1               37.6           5.5
-         1996      ..................................................       31.8               23.0           8.8
-         1997      ..................................................       34.1               33.4            .7
-         1998      ..................................................       48.3               28.6          19.7
-         1999      ..................................................          .5              21.0         (20.5)
-         2000      ..................................................         6.5              (9.1)         15.6
-         2001      ..................................................        (6.2)            (11.9)          5.7
-         2002      ..................................................       10.0              (22.1)         32.1
-         2003      ..................................................       21.0               28.7          (7.7)
-         2004      ..................................................       10.5               10.9           (.4)
-```
-]
-
-Average Annual Gain — 1965-2004 21.9 10.4 11.5 Overall Gain — 1964-2004 286,865 5,318
-
-Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
-
-Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 Our gain in net worth during 2004 was \$8.3 billion, which increased the per-share book value of both our Class A and Class B stock by 10.5%. Over the last 40 years (that is, since present management took over) book value has grown from \$19 to \$55,824, a rate of 21.9% compounded annually.\*
 
 It’s per-share intrinsic value that counts, however, not book value. Here, the news is good: Between 1964 and 2004, Berkshire morphed from a struggling northern textile business whose intrinsic value was less than book into a diversified enterprise worth far more than book. Our 40-year gain in intrinsic value has therefore somewhat exceeded our 21.9% gain in book. (For an explanation of intrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire’s vice-chairman, and me in running Berkshire, please read our Owner’s Manual, beginning on page 73.)
-
-Despite their shortcomings, yearly calculations of book value are useful at Berkshire as a slightly understated gauge for measuring the long-term rate of increase in our intrinsic value. The calculations are less relevant, however, than they once were in rating any single year’s performance versus the S&P 500 index (a comparison we display on the facing page). Our equity holdings (including convertible preferreds) have fallen considerably as a percentage of our net worth, from an average of 114% in the 1980s, for example, to less than 50% in recent years. Therefore, yearly movements in the stock market now affect a much smaller portion of our net worth than was once the case, a fact that will normally cause us to underperform in years when stocks rise substantially and overperform in years when they fall.
 
 However the yearly comparisons work out, Berkshire’s long-term performance versus the S&P remains all-important. Our shareholders can buy the S&P through an index fund at very low cost. Unless we achieve gains in per-share intrinsic value in the future that outdo the S&P, Charlie and I will be adding nothing to what you can accomplish on your own.
 
@@ -158,36 +96,6 @@ Most American businesses harbor an “institutional imperative” that rejects e
 == National Indemnity Company
 
 Underwriting Profit Ratio of (Loss) as a Per- No. of Operating Expenses centage of Premiums Written Premium Employees at to (Calculated as of Year (In \$ millions) Year-End Written Premium year end 2004)\*
-
-#tablebox[
-```
-    1980     ...........................        $79.6                 372              32.3%                 8.2%
-    1981     ...........................         59.9                 353              36.1%                 (.8%)
-    1982     ...........................         52.5                 323              36.7%               (15.3%)
-    1983     ...........................         58.2                 308              35.6%               (18.7%)
-    1984     ...........................         62.2                 342              35.5%               (17.0%)
-    1985     ...........................        160.7                 380              28.0%                 1.9%
-    1986     ...........................        366.2                 403              25.9%                30.7%
-    1987     ...........................        232.3                 368              29.5%                27.3%
-    1988     ...........................        139.9                 347              31.7%                24.8%
-    1989     ...........................         98.4                 320              35.9%                14.8%
-    1990     ...........................         87.8                 289              37.4%                 7.0%
-    1991     ...........................         88.3                 284              35.7%                13.0%
-    1992     ...........................         82.7                 277              37.9%                 5.2%
-    1993     ...........................         86.8                 279              36.1%                11.3%
-    1994     ...........................         85.9                 263              34.6%                 4.6%
-    1995     ...........................         78.0                 258              36.6%                 9.2%
-    1996     ...........................         74.0                 243              36.5%                 6.8%
-    1997     ...........................         65.3                 240              40.4%                 6.2%
-    1998     ...........................         56.8                 231              40.4%                 9.4%
-    1999     ...........................         54.5                 222              41.2%                 4.5%
-    2000     ...........................         68.1                 230              38.4%                 2.9%
-    2001     ...........................        161.3                 254              28.8%               (11.6%)
-    2002     ...........................        343.5                 313              24.0%                16.8%
-    2003     ...........................        594.5                 337              22.2%                18.1%
-    2004     ...........................        605.6                 340              22.5%                 5.1%
-```
-]
 
 \*It takes a long time to learn the true profitability of any given year. First, many claims are received after the end of the year, and we must estimate how many of these there will be and what they will cost. (In insurance jargon, these claims are termed IBNR – incurred but not reported.) Second, claims often take years, or even decades, to settle, which means there can be many surprises along the way.
 
@@ -502,40 +410,6 @@ The media continue to report that “Buffett buys” this or that stock. Stateme
 == Portrait of a Disciplined Investor
 
 == Lou Simpson
-
-#tablebox[
-```
-                                                             Return from
- Year                                                       GEICO Equities   S&P Return   Relative Results
- 1980    ................................................      23.7%           32.3%          (8.6%)
- 1981    ................................................       5.4%           (5.0%)         10.4%
- 1982    ................................................      45.8%           21.4%          24.4%
- 1983    ................................................      36.0%           22.4%          13.6%
- 1984    ................................................      21.8%            6.1%          15.7%
- 1985    ................................................      45.8%           31.6%          14.2%
- 1986    ................................................      38.7%           18.6%          20.1%
- 1987    ................................................     (10.0%)           5.1%         (15.1%)
- 1988    ................................................      30.0%           16.6%          13.4%
- 1989    ................................................      36.1%           31.7%           4.4%
- 1990    ................................................      (9.9%)          (3.1%)         (6.8%)
- 1991    ................................................      56.5%           30.5%          26.0%
- 1992    ................................................      10.8%            7.6%           3.2%
- 1993    ................................................       4.6%           10.1%          (5.5%)
- 1994    ................................................      13.4%            1.3%          12.1%
- 1995    ................................................      39.8%           37.6%           2.2%
- 1996    ................................................      29.2%           23.0%           6.2%
- 1997    ................................................      24.6%           33.4%          (8.8%)
- 1998    ................................................      18.6%           28.6%         (10.0%)
- 1999    ................................................       7.2%           21.0%         (13.8%)
- 2000    ................................................      20.9%           (9.1%)         30.0%
- 2001    ................................................       5.2%          (11.9%)         17.1%
- 2002    ................................................      (8.1%)         (22.1%)         14.0%
- 2003    ................................................      38.3%           28.7%           9.6%
- 2004    ................................................      16.9%           10.9%           6.0%
-```
-]
-
-Average Annual Gain 1980-2004 20.3% 13.5% 6.8%
 
 Even then, it is typically not I who make the buying decisions. Lou Simpson manages about \$2½ billion of equities that are held by GEICO, and it is his transactions that Berkshire is usually reporting. Customarily his purchases are in the \$200-\$300 million range and are in companies that are smaller than the ones I focus on. Take a look at the facing page to see why Lou is a cinch to be inducted into the investment Hall of Fame.
 

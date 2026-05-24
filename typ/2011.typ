@@ -2,76 +2,6 @@
 
 = 2011 Annual Letter <letter-2011>
 
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                                                      Annual Percentage Change
-                                                                                                    in Per-Share     in S&P 500
-                                                                                                   Book Value of with Dividends   Relative
-                                                                                                      Berkshire        Included   Results
-Year                                                                                                     (1)              (2)      (1)-(2)
-1965     .....................................................                                            23.8            10.0       13.8
-1966     .....................................................                                            20.3           (11.7)      32.0
-1967     .....................................................                                            11.0            30.9      (19.9)
-1968     .....................................................                                            19.0            11.0        8.0
-1969     .....................................................                                            16.2            (8.4)      24.6
-1970     .....................................................                                            12.0             3.9        8.1
-1971     .....................................................                                            16.4            14.6        1.8
-1972     .....................................................                                            21.7            18.9        2.8
-1973     .....................................................                                              4.7          (14.8)      19.5
-1974     .....................................................                                              5.5          (26.4)      31.9
-1975     .....................................................                                            21.9            37.2      (15.3)
-1976     .....................................................                                            59.3            23.6       35.7
-1977     .....................................................                                            31.9            (7.4)      39.3
-1978     .....................................................                                            24.0             6.4       17.6
-1979     .....................................................                                            35.7            18.2       17.5
-1980     .....................................................                                            19.3            32.3      (13.0)
-1981     .....................................................                                            31.4            (5.0)      36.4
-1982     .....................................................                                            40.0            21.4       18.6
-1983     .....................................................                                            32.3            22.4        9.9
-1984     .....................................................                                            13.6             6.1        7.5
-1985     .....................................................                                            48.2            31.6       16.6
-1986     .....................................................                                            26.1            18.6        7.5
-1987     .....................................................                                            19.5             5.1       14.4
-1988     .....................................................                                            20.1            16.6        3.5
-1989     .....................................................                                            44.4            31.7       12.7
-1990     .....................................................                                              7.4           (3.1)      10.5
-1991     .....................................................                                            39.6            30.5        9.1
-1992     .....................................................                                            20.3             7.6       12.7
-1993     .....................................................                                            14.3            10.1        4.2
-1994     .....................................................                                            13.9             1.3       12.6
-1995     .....................................................                                            43.1            37.6        5.5
-1996     .....................................................                                            31.8            23.0        8.8
-1997     .....................................................                                            34.1            33.4         .7
-1998     .....................................................                                            48.3            28.6       19.7
-1999     .....................................................                                               .5           21.0      (20.5)
-2000     .....................................................                                              6.5           (9.1)      15.6
-2001     .....................................................                                             (6.2)         (11.9)       5.7
-2002     .....................................................                                            10.0           (22.1)      32.1
-2003     .....................................................                                            21.0            28.7       (7.7)
-2004     .....................................................                                            10.5            10.9        (.4)
-2005     .....................................................                                              6.4            4.9        1.5
-2006     .....................................................                                            18.4            15.8        2.6
-2007     .....................................................                                            11.0             5.5        5.5
-2008     .....................................................                                             (9.6)         (37.0)      27.4
-2009     .....................................................                                            19.8            26.5       (6.7)
-2010     .....................................................                                            13.0            15.1       (2.1)
-2011     .....................................................                                              4.6            2.1        2.5
-Compounded Annual Gain – 1965-2011 . . . . . . . . . . . . . . . . . . . . . . . . .                    19.8%            9.2%       10.6
-Overall Gain – 1964-2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     513,055%         6,397%
-Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended
-12/31. Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at
-market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s
-results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated
-using the numbers originally reported. The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-
-tax. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its
-results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the
-S&P 500 in years when the index showed a negative return. Over the years, the tax costs would have caused the
-aggregate lag to be substantial.
-```
-]
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 The per-share book value of both our Class A and Class B stock increased by 4.6% in 2011. Over the last 47 years (that is, since present management took over), book value has grown from \$19 to \$99,860, a rate of 19.8% compounded annually.\*
@@ -132,11 +62,7 @@ Wise monetary and fiscal policies play an important role in tempering recessions
 
 == Intrinsic Business Value
 
-Charlie and I measure our performance by the rate of gain in Berkshire’s per-share intrinsic business value. If our gain over time outstrips the performance of the S&P 500, we have earned our paychecks. If it doesn’t, we are overpaid at any price.
-
 We have no way to pinpoint intrinsic value. But we do have a useful, though considerably understated, proxy for it: per-share book value. This yardstick is meaningless at most companies. At Berkshire, however, book value very roughly tracks business values. That’s because the amount by which Berkshire’s intrinsic value exceeds book value does not swing wildly from year to year, though it increases in most years. Over time, the divergence will likely become ever more substantial in absolute terms, remaining reasonably steady, however, on a percentage basis as both the numerator and denominator of the business-value/book-value equation increase.
-
-We’ve regularly emphasized that our book-value performance is almost certain to outpace the S&P 500 in a bad year for the stock market and just as certainly will fall short in a strong up-year. The test is how we do over time. Last year’s annual report included a table laying out results for the 42 five-year periods since we took over at Berkshire in 1965 (i.e., 1965-69, 1966-70, etc.). All showed our book value beating the S&P, and our string held for 2007-11. It will almost certainly snap, though, if the S&P 500 should put together a five-year winning streak (which it may well be on its way to doing as I write this).
 
 #sectionbreak
 

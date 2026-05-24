@@ -2,79 +2,9 @@
 
 = 2008 Annual Letter <letter-2008>
 
-Berkshire’s Corporate Performance vs. the S&P 500
-
-#tablebox[
-```
-                                                                                                                 Annual Percentage Change
-                                                                                                              in Per-Share      in S&P 500
-                                                                                                             Book Value of     with Dividends   Relative
-                                                                                                                Berkshire         Included      Results
-Year                                                                                                               (1)               (2)         (1)-(2)
-1965 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          23.8             10.0          13.8
-1966 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          20.3            (11.7)         32.0
-1967 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          11.0             30.9         (19.9)
-1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          19.0             11.0           8.0
-1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          16.2             (8.4)         24.6
-1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          12.0              3.9           8.1
-1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          16.4             14.6           1.8
-1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          21.7             18.9           2.8
-1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            4.7           (14.8)         19.5
-1974 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            5.5           (26.4)         31.9
-1975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          21.9             37.2         (15.3)
-1976 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          59.3             23.6          35.7
-1977 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          31.9             (7.4)         39.3
-1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          24.0              6.4          17.6
-1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          35.7             18.2          17.5
-1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          19.3             32.3         (13.0)
-1981 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          31.4             (5.0)         36.4
-1982 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          40.0             21.4          18.6
-1983 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          32.3             22.4           9.9
-1984 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          13.6              6.1           7.5
-1985 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          48.2             31.6          16.6
-1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          26.1             18.6           7.5
-1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          19.5              5.1          14.4
-1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          20.1             16.6           3.5
-1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          44.4             31.7          12.7
-1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            7.4            (3.1)         10.5
-1991 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          39.6             30.5           9.1
-1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          20.3              7.6          12.7
-1993 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          14.3             10.1           4.2
-1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          13.9              1.3          12.6
-1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          43.1             37.6           5.5
-1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          31.8             23.0           8.8
-1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          34.1             33.4            .7
-1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          48.3             28.6          19.7
-1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             .5            21.0         (20.5)
-2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            6.5            (9.1)         15.6
-2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           (6.2)          (11.9)          5.7
-2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          10.0            (22.1)         32.1
-2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          21.0             28.7          (7.7)
-2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          10.5             10.9           (.4)
-2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            6.4             4.9           1.5
-2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          18.4             15.8           2.6
-2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          11.0              5.5           5.5
-2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           (9.6)          (37.0)         27.4
-Compounded Annual Gain – 1965-2008 . . . . . . . . . . . . . . . . . . . . . . .                                   20.3%              8.9%        11.4
-Overall Gain – 1964-2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    362,319%           4,276%
-Notes: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended
-12/31.
-Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market
-rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results
-through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using
-the numbers originally reported.
-The S&P 500 numbers are pre-tax whereas the Berkshire numbers are after-tax. If a corporation such as Berkshire
-were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500
-in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index
-showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
-```
-]
-
 #letterintro[To the Shareholders of Berkshire Hathaway Inc.:]
 
 Our decrease in net worth during 2008 was \$11.5 billion, which reduced the per-share book value of both our Class A and Class B stock by 9.6%. Over the last 44 years (that is, since present management took over) book value has grown from \$19 to \$70,530, a rate of 20.3% compounded annually.\*
-
-The table on the preceding page, recording both the 44-year performance of Berkshire’s book value and the S&P 500 index, shows that 2008 was the worst year for each. The period was devastating as well for corporate and municipal bonds, real estate and commodities. By yearend, investors of all stripes were bloodied and confused, much as if they were small birds that had strayed into a badminton game.
 
 As the year progressed, a series of life-threatening problems within many of the world’s great financial institutions was unveiled. This led to a dysfunctional credit market that in important respects soon turned non-functional. The watchword throughout the country became the creed I saw on restaurant walls when I was young: “In God we trust; all others pay cash.”
 
